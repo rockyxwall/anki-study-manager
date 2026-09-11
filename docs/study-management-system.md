@@ -172,3 +172,34 @@ ict
 - **`scripts/describe-io-cards.mjs`**:
   - Batch-describes Image Occlusion flashcards with Gemini Vision API.
   - Extracts title, formulas, and topic tags automatically.
+
+---
+
+## 6. Study Order & Priority Architecture
+
+To prevent random jumps between topics and ensure foundational concepts are mastered before practice MCQs:
+
+### A. Deck Preset Configuration
+- **New card gather priority:** Set to `Ascending position` (`newGatherPriority: 2`). This stops Anki from randomly picking new cards (`newGatherPriority: 4`) and enforces strict sequential queue order.
+- **New card sort order:** Set to `Order gathered` (`newSortOrder: 1`).
+
+### B. Sequential Queue Repositioning
+All new cards (`queue == 0`) have their `due` integer reset to strict sequential ranks ($1, 2, 3, \dots$):
+1. **Chapter Concepts First:**
+   - `math::basics::concept` / `ict::ch1::concept`
+   - `math::p1::ch1::concept` / `ict::ch2::concept`
+   - `math::p1::ch2::concept` / `ict::ch3::3.1::concept`
+   - $\dots$
+   - `ict::ch3::3.2::concept` through `ict::ch6::concept`
+2. **Practice MCQs Second:**
+   - `*::ch1::mcq`
+   - `*::ch2::mcq`
+   - $\dots$
+3. **Multi-step Problems:**
+   - Always suspended (`queue == -1`), never entering the active queue.
+
+### C. Review Queue Focus (Filtered Decks)
+For reviewing existing cards while prioritizing concepts over MCQs, create a Filtered Deck:
+- Query: `deck:"[🎓] Academic::2.[💻] ICT" tag:*::concept is:due`
+- Cards selected by: `Order added` or `Relative overdueness`
+

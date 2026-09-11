@@ -103,9 +103,9 @@
     "noteId": 1766385402749,
     "originalDeck": "[🎓] Academic::2.[💻] ICT",
     "header": "উপাত্ত ও তথ্য (Data and Information)",
-    "chapter": "ict::ch2",
+    "chapter": "ict::ch1",
     "role": "concept",
-    "roleTag": "ict::ch2::concept",
+    "roleTag": "ict::ch1::concept",
     "currentQueue": 2,
     "action": "ACTIVATE"
   },
@@ -554,9 +554,9 @@
     "noteId": 1766560301106,
     "originalDeck": "[🎓] Academic::2.[💻] ICT",
     "header": "বিশ্বগ্রামের জনক (Father of Global Village)",
-    "chapter": "ict::ch2",
+    "chapter": "ict::ch1",
     "role": "concept",
-    "roleTag": "ict::ch2::concept",
+    "roleTag": "ict::ch1::concept",
     "currentQueue": 0,
     "action": "ACTIVATE"
   },

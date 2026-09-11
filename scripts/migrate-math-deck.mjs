@@ -43,6 +43,13 @@ function determineChapter(deckName, existingTags) {
     const tagStr = existingTags.join(' ').toLowerCase();
     if (tagStr.includes('math::basics')) return 'math::basics';
     if (tagStr.includes('math::p2::ch3')) return 'math::p2::ch3';
+    if (tagStr.includes('math::p1::ch9')) return 'math::p1::ch9';
+    if (tagStr.includes('math::p1::ch7')) return 'math::p1::ch7';
+    if (tagStr.includes('math::p1::ch6')) return 'math::p1::ch6';
+    if (tagStr.includes('math::p1::ch4')) return 'math::p1::ch4';
+    if (tagStr.includes('math::p1::ch3')) return 'math::p1::ch3';
+    if (tagStr.includes('math::p1::ch2')) return 'math::p1::ch2';
+    if (tagStr.includes('math::p1::ch1')) return 'math::p1::ch1';
 
     const d = deckName.toLowerCase();
     if (d.includes('matrix')) return 'math::p1::ch1';
@@ -160,10 +167,19 @@ async function main() {
         const note = noteMap.get(card.note);
         if (!note) continue;
 
-        const chapter = determineChapter(card.deckName, note.tags);
-        const isProblem = isProblemCard(note);
-        const role = isProblem ? 'problem' : 'concept';
-        const roleTag = `${chapter}::${role}`;
+        let roleTag = note.tags.find(t => t.startsWith('math::') && (t.endsWith('::concept') || t.endsWith('::problem') || t.endsWith('::mcq')));
+        let role, chapter;
+        if (roleTag) {
+            const parts = roleTag.split('::');
+            role = parts.pop();
+            chapter = parts.join('::');
+        } else {
+            chapter = determineChapter(card.deckName, note.tags);
+            const isProblem = isProblemCard(note);
+            role = isProblem ? 'problem' : 'concept';
+            roleTag = `${chapter}::${role}`;
+        }
+        const isProblem = role === 'problem';
 
         if (isProblem) {
             problemCardIds.push(card.cardId);
@@ -214,22 +230,24 @@ async function main() {
         return;
     }
 
-    // 3. Save pre-migration state snapshot
-    console.log(`\nSaving pre-migration snapshot to ${SNAPSHOT_PATH}...`);
-    fs.writeFileSync(SNAPSHOT_PATH, JSON.stringify({
-        timestamp: new Date().toISOString(),
-        cards: cardsInfo.map(c => ({
-            cardId: c.cardId,
-            note: c.note,
-            deckName: c.deckName,
-            queue: c.queue,
-            due: c.due
-        })),
-        notes: notesInfo.map(n => ({
-            noteId: n.noteId,
-            tags: n.tags
-        }))
-    }, null, 2), 'utf8');
+    // 3. Save pre-migration state snapshot (if not already existing)
+    if (!fs.existsSync(SNAPSHOT_PATH)) {
+        console.log(`\nSaving pre-migration snapshot to ${SNAPSHOT_PATH}...`);
+        fs.writeFileSync(SNAPSHOT_PATH, JSON.stringify({
+            timestamp: new Date().toISOString(),
+            cards: cardsInfo.map(c => ({
+                cardId: c.cardId,
+                note: c.note,
+                deckName: c.deckName,
+                queue: c.queue,
+                due: c.due
+            })),
+            notes: notesInfo.map(n => ({
+                noteId: n.noteId,
+                tags: n.tags
+            }))
+        }, null, 2), 'utf8');
+    }
 
     // 4. Apply chapter-scoped tags
     console.log('\nApplying chapter role tags...');
@@ -280,17 +298,79 @@ async function main() {
     console.log('All subdecks verified empty.');
 
     // 8. Delete empty subdecks leaf-first (longest names first)
-    subdecks.sort((a, b) => b.length - a.length);
-    console.log('Deleting empty subdecks leaf-to-root...');
-    await callAnki('deleteDecks', {
-        decks: subdecks,
-        cardsToo: true
+    if (subdecks.length > 0) {
+        subdecks.sort((a, b) => b.length - a.length);
+        console.log('Deleting empty subdecks leaf-to-root...');
+        await callAnki('deleteDecks', {
+            decks: subdecks,
+            cardsToo: true
+        });
+        console.log(`Successfully deleted ${subdecks.length} empty subdecks.`);
+    }
+
+    // 9. Enforce fixed order in deck configuration
+    console.log(`\nEnforcing fixed order in deck preset for "${ROOT_DECK}"...`);
+    const deckConfig = await callAnki('getDeckConfig', { deck: ROOT_DECK });
+    if (deckConfig) {
+        deckConfig.newGatherPriority = 2; // 2 = Ascending position (fixed order)
+        deckConfig.newSortOrder = 1;       // 1 = Order gathered
+        await callAnki('saveDeckConfig', { config: deckConfig });
+        console.log('  Deck preset updated: newGatherPriority=2 (Ascending position), newSortOrder=1.');
+    }
+
+    // 10. Reposition new cards by curriculum priority: basics -> p1::ch1..ch10 -> p2::ch3
+    const PRIORITY_TAGS = [
+        'math::basics::concept',
+        'math::p1::ch1::concept',
+        'math::p1::ch2::concept',
+        'math::p1::ch3::concept',
+        'math::p1::ch4::concept',
+        'math::p1::ch5::concept',
+        'math::p1::ch6::concept',
+        'math::p1::ch7::concept',
+        'math::p1::ch8::concept',
+        'math::p1::ch9::concept',
+        'math::p1::ch10::concept',
+        'math::p2::ch3::concept',
+        'math::p2::ch3::mcq',
+    ];
+
+    function getPriorityRank(roleTag) {
+        const idx = PRIORITY_TAGS.indexOf(roleTag);
+        return idx === -1 ? 999 : idx;
+    }
+
+    const newCards = manifest.filter(m => m.currentQueue === 0);
+    newCards.sort((a, b) => {
+        const rankA = getPriorityRank(a.roleTag);
+        const rankB = getPriorityRank(b.roleTag);
+        if (rankA !== rankB) return rankA - rankB;
+        return a.cardId - b.cardId;
     });
-    console.log(`Successfully deleted ${subdecks.length} empty subdecks.`);
+
+    if (newCards.length > 0) {
+        console.log(`\nRepositioning ${newCards.length} new cards in curriculum order...`);
+        const repositionActions = newCards.map((m, idx) => ({
+            action: 'setSpecificValueOfCard',
+            params: {
+                card: m.cardId,
+                keys: ['due'],
+                newValues: [idx + 1]
+            }
+        }));
+
+        const CHUNK_SIZE = 100;
+        for (let i = 0; i < repositionActions.length; i += CHUNK_SIZE) {
+            const chunk = repositionActions.slice(i, i + CHUNK_SIZE);
+            await callAnki('multi', { actions: chunk });
+        }
+        console.log(`  Successfully repositioned ${repositionActions.length} new cards.`);
+    }
 
     console.log('\n=== Migration Completed Successfully ===');
     console.log(`Higher Math is now flat like ICT in deck "${ROOT_DECK}".`);
     console.log(`All problems are suspended; all concepts are active.`);
+    console.log(`Fixed order enforced: Curriculum concepts prioritized first.`);
 }
 
 main().catch(err => {

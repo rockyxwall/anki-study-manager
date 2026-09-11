@@ -9,7 +9,9 @@
     "migrate-math:restore": "node scripts/migrate-math-deck.mjs --restore",
     "migrate-ict:dry": "node scripts/migrate-ict-deck.mjs --dry-run",
     "migrate-ict:exec": "node scripts/migrate-ict-deck.mjs --execute",
-    "migrate-ict:restore": "node scripts/migrate-ict-deck.mjs --restore"
+    "migrate-ict:restore": "node scripts/migrate-ict-deck.mjs --restore",
+    "clean-tags:dry": "node scripts/clean-tags.mjs --dry-run",
+    "clean-tags:exec": "node scripts/clean-tags.mjs --execute"
   },
   "keywords": ["anki", "study", "hsc", "flashcards"],
   "license": "MIT"

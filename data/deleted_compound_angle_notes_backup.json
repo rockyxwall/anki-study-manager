@@ -1,0 +1,1251 @@
+{
+  "timestamp": "2026-09-11T04:09:01.337Z",
+  "description": "Backup of 9 redundant trigonometric compound angle lecture slide notes prior to deletion",
+  "masterNoteId": 1778429606418,
+  "notes": [
+    {
+      "noteId": 1767547443263,
+      "profile": "lazyman",
+      "tags": [
+        "compound-angles",
+        "identities",
+        "math",
+        "math::p1::ch1::concept",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ],
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.3375:top=.3913:width=.5119:height=.1366:oi=1}}<br>{{c2::image-occlusion:rect:left=.3375:top=.7919:width=.5119:height=.1366:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-e8bcec13ffe57516cc9e40417ea1e5b882f81f9b.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক সূত্র (Trigonometric Identities)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle formulas. Formulas: $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$ and $\\cos(A+B) = \\cos A \\cos B - \\sin A \\sin B$. Key definitions: Expansion of sine and cosine of sum of two angles. Testable facts: Sign change in cosine expansion (plus becomes minus).",
+          "order": 4
+        }
+      },
+      "modelName": "Image Occlusion",
+      "mod": 1789099270,
+      "cards": [
+        1767547443268,
+        1768449174769
+      ]
+    },
+    {
+      "noteId": 1767547580656,
+      "profile": "lazyman",
+      "tags": [
+        "compound-angles",
+        "identities",
+        "math::p1::ch1::concept",
+        "math::p1::ch7::concept",
+        "Mathematics",
+        "trigonometry"
+      ],
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.4476:top=.4482:width=.3915:height=.0808:oi=1}}<br>{{c2::image-occlusion:rect:left=.4673:top=.8278:width=.4393:height=.1002:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-36810b7b8a96b8384a681cc5ab37f0c1d8935502.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Derivation of compound angle formulas using symmetry. Core identities: $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$ and $\\cos(A+B) = \\cos A \\cos B - \\sin A \\sin B$. Substitution of $-B$ for $B$ yields: $\\sin(A-B) = \\sin A \\cos B - \\cos A \\sin B$ and $\\cos(A-B) = \\cos A \\cos B + \\sin A \\sin B$. Key testable facts: sign changes in subtraction formulas compared to addition formulas.",
+          "order": 4
+        }
+      },
+      "modelName": "Image Occlusion",
+      "mod": 1789099270,
+      "cards": [
+        1767547580656,
+        1768449410453
+      ]
+    },
+    {
+      "noteId": 1767547622455,
+      "profile": "lazyman",
+      "tags": [
+        "compound-angles",
+        "identities",
+        "math",
+        "math::p1::ch1::concept",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ],
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.4091:top=.8374:width=.1423:height=.1114:oi=1}}<br>{{c2::image-occlusion:rect:left=.6646:top=.4298:width=.1568:height=.0802:oi=1}}<br>{{c2::image-occlusion:rect:left=.8733:top=.5746:width=.1132:height=.1069:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-0c7cd20f0069b0f218ee191a0e185a893a7536e4.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Derivation of sum-to-product identities using compound angle formulas. (1) $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$, (2) $\\sin(A-B) = \\sin A \\cos B - \\cos A \\sin B$. Adding (1)+(2) yields $\\sin(A+B) + \\sin(A-B) = 2\\sin A \\cos B$. Subtracting (1)-(2) yields $\\sin(A+B) - \\sin(A-B) = 2\\cos A \\sin B$. Testable: expansion of sine/cosine compound angles and resulting product identities.",
+          "order": 4
+        }
+      },
+      "modelName": "Image Occlusion",
+      "mod": 1789099270,
+      "cards": [
+        1767547622455,
+        1768449696163
+      ]
+    },
+    {
+      "noteId": 1767547684741,
+      "profile": "lazyman",
+      "tags": [
+        "compound-angles",
+        "identities",
+        "math::p1::ch1::concept",
+        "math::p1::ch7::concept",
+        "Mathematics",
+        "trigonometry"
+      ],
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.6511:top=.392:width=.1641:height=.0846:oi=1}}<br>{{c1::image-occlusion:rect:left=.8609:top=.5434:width=.1246:height=.0846:oi=1}}<br>{{c2::image-occlusion:rect:left=.8172:top=.8463:width=.1225:height=.0846:oi=1}}<br>{{c2::image-occlusion:rect:left=.2835:top=.7929:width=.161:height=.0757:oi=1}}<br>{{c2::image-occlusion:rect:left=.3094:top=.882:width=.1381:height=.0935:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-a37dd5cf7c7ad8b429f78ec1c0ad576821dd5753.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক সূত্র (Trigonometric Compound Angle Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core topic: Compound angle expansion and sum-to-product identities. Formulas: (i) $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$, (ii) $\\sin(A-B) = \\sin A \\cos B - \\cos A \\sin B$, (iii) $\\cos(A+B) = \\cos A \\cos B - \\sin A \\sin B$, (iv) $\\cos(A-B) = \\cos A \\cos B + \\sin A \\sin B$. Derivations shown: (iii)+(iv) yields $\\cos(A+B) + \\cos(A-B) = 2\\cos A \\cos B$. (iii)-(iv) yields $\\cos(A-B) - \\cos(A+B) = 2\\sin A \\sin B$. Testable: Expansion of compound angles and algebraic manipulation to derive product identities.",
+          "order": 4
+        }
+      },
+      "modelName": "Image Occlusion",
+      "mod": 1789099270,
+      "cards": [
+        1767547684741,
+        1768449743861
+      ]
+    },
+    {
+      "noteId": 1767547733508,
+      "profile": "lazyman",
+      "tags": [
+        "calculus-prep",
+        "identities",
+        "math",
+        "math::p1::ch1::concept",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ],
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.8993:top=.7628:width=.08:height=.1738:oi=1}}<br>{{c2::image-occlusion:rect:left=.73:top=.2843:width=.1485:height=.0675:oi=1}}<br>{{c3::image-occlusion:rect:left=.6989:top=.6237:width=.1526:height=.09:oi=1}}<br>{{c4::image-occlusion:rect:left=.4517:top=.8384:width=.1267:height=.0961:oi=1}}<br>{{c4::image-occlusion:rect:left=.1391:top=.8446:width=.1308:height=.0941:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle and double angle identities. Formulas: (1) $\\sin(A \\pm B) = \\sin A \\cos B \\pm \\cos A \\sin B$, (2) $\\cos(A \\pm B) = \\cos A \\cos B \\mp \\sin A \\sin B$, (3) $\\sin 2A = 2 \\sin A \\cos A$, (4) $\\cos 2A = \\cos^2 A - \\sin^2 A = 1 - 2\\sin^2 A = 2\\cos^2 A - 1$. Key derivations: Setting $A=B$ in compound formulas yields double angle identities. Occluded/Testable: Half-angle conversions $1+\\cos 2A = 2\\cos^2 A$ and $1-\\cos 2A = 2\\sin^2 A$.",
+          "order": 4
+        }
+      },
+      "modelName": "Image Occlusion",
+      "mod": 1789099270,
+      "cards": [
+        1767547733508,
+        1768449229204,
+        1768449229201,
+        1768449229202
+      ]
+    },
+    {
+      "noteId": 1767547776993,
+      "profile": "lazyman",
+      "tags": [
+        "compound-angles",
+        "formulas",
+        "math::p1::ch1::concept",
+        "math::p1::ch7::concept",
+        "Mathematics",
+        "trigonometry"
+      ],
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.6781:top=.7146:width=.2191:height=.2727:oi=1}}<br>{{c2::image-occlusion:rect:left=.1589:top=.7505:width=.1869:height=.2008:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-72297b9ad3a8836e42ee8948f83825551d686f17.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle identities for sine, cosine, and tangent. Formulas: (1) $\\sin(A \\pm B) = \\sin A \\cos B \\pm \\cos A \\sin B$, (2) $\\cos(A \\pm B) = \\cos A \\cos B \\mp \\sin A \\sin B$, (3) $\\tan(A+B) = \\frac{\\tan A + \\tan B}{1 - \\tan A \\tan B}$, (4) $\\tan(A-B) = \\frac{\\tan A - \\tan B}{1 + \\tan A \\tan B}$. Derivation involves dividing sine/cosine identities by $\\cos A \\cos B$. Occluded elements: Final tangent identity formulas.",
+          "order": 4
+        }
+      },
+      "modelName": "Image Occlusion",
+      "mod": 1789099270,
+      "cards": [
+        1767547776993,
+        1768449567339
+      ]
+    },
+    {
+      "noteId": 1767547796280,
+      "profile": "lazyman",
+      "tags": [
+        "compound-angles",
+        "identities",
+        "math",
+        "math::p1::ch1::concept",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ],
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.3489:top=.5214:width=.2471:height=.3631:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-0fda99f93abc88f7f1cb33f10254be95543cde5f.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle identities for tangent and cotangent. Formulas: (i) $\\tan(A+B) = \\frac{\\tan A + \\tan B}{1 - \\tan A \\tan B}$, (ii) $\\tan(A-B) = \\frac{\\tan A - \\tan B}{1 + \\tan A \\tan B}$, (iii) $\\cot(A+B) = \\frac{\\cot A \\cot B - 1}{\\cot B + \\cot A}$, (iv) $\\cot(A-B) = \\frac{\\cot A \\cot B + 1}{\\cot B - \\cot A}$. Note: Tan formulas marked 'vvvv' (very important), Cot formulas marked 'less important' (কম গুরুত্বপূর্ণ). Testable: signs in denominators and numerator/denominator structure.",
+          "order": 4
+        }
+      },
+      "modelName": "Image Occlusion",
+      "mod": 1789099270,
+      "cards": [
+        1767547796280
+      ]
+    },
+    {
+      "noteId": 1767547826286,
+      "profile": "lazyman",
+      "tags": [
+        "calculus-prep",
+        "identities",
+        "math",
+        "math::p1::ch1::concept",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ],
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.2409:top=.5269:width=.2648:height=.1441:oi=1}}<br>{{c2::image-occlusion:rect:left=.2326:top=.7247:width=.3032:height=.1742:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-63d1ee1962fdd1182f57b470909220166b231f44.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক রূপান্তর সূত্র (Trigonometric Transformation Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Sum-to-product trigonometric identities derived from compound angle formulas. Formulas: (1) $\\sin C + \\sin D = 2\\sin(\\frac{C+D}{2})\\cos(\\frac{C-D}{2})$, (2) $\\sin C - \\sin D = 2\\cos(\\frac{C+D}{2})\\sin(\\frac{C-D}{2})$. Derivation logic: Let $A+B=C$ and $A-B=D$, then $A=\\frac{C+D}{2}$ and $B=\\frac{C-D}{2}$. Testable facts: Substitution of $A$ and $B$ into product-to-sum identities to yield sum-to-product forms.",
+          "order": 4
+        }
+      },
+      "modelName": "Image Occlusion",
+      "mod": 1789099270,
+      "cards": [
+        1767547826286,
+        1768449311879
+      ]
+    },
+    {
+      "noteId": 1767547848008,
+      "profile": "lazyman",
+      "tags": [
+        "calculus-prep",
+        "identities",
+        "math",
+        "math::p1::ch1::concept",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ],
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.4893:top=.5162:width=.4607:height=.1744:oi=1}}<br>{{c1::image-occlusion:rect:left=.4747:top=.7471:width=.4742:height=.196:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-183dfdbca3f53e8dbea4239950ef470aeac6d622.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক রূপান্তর সূত্র (Trigonometric Transformation Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core topic: Sum-to-product trigonometric identities. Formulas: (i) $\\sin C + \\sin D = 2\\sin \\frac{C+D}{2} \\cos \\frac{C-D}{2}$, (ii) $\\sin C - \\sin D = 2\\cos \\frac{C+D}{2} \\sin \\frac{C-D}{2}$, (iii) $\\cos C + \\cos D = 2\\cos \\frac{C+D}{2} \\cos \\frac{C-D}{2}$, (iv) $\\cos D - \\cos C = 2\\sin \\frac{C+D}{2} \\sin \\frac{C-D}{2}$. Key testable facts: Note the sign reversal in (iv) compared to standard $\\cos C - \\cos D$ identity. Used for simplifying trigonometric expressions.",
+          "order": 4
+        }
+      },
+      "modelName": "Image Occlusion",
+      "mod": 1789099270,
+      "cards": [
+        1767547848008
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "cardId": 1767547443268,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.3375:top=.3913:width=.5119:height=.1366:oi=1}}<br>{{c2::image-occlusion:rect:left=.3375:top=.7919:width=.5119:height=.1366:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-e8bcec13ffe57516cc9e40417ea1e5b882f81f9b.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক সূত্র (Trigonometric Identities)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle formulas. Formulas: $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$ and $\\cos(A+B) = \\cos A \\cos B - \\sin A \\sin B$. Key definitions: Expansion of sine and cosine of sum of two angles. Testable facts: Sign change in cosine expansion (plus becomes minus).",
+          "order": 4
+        }
+      },
+      "fieldOrder": 0,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Identities)</div>\n\n<div style=\"display: none\"><div class=\"cloze\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".3375\" data-top=\".3913\" data-width=\".5119\" data-height=\".1366\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".3375\" data-top=\".7919\" data-width=\".5119\" data-height=\".1366\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-e8bcec13ffe57516cc9e40417ea1e5b882f81f9b.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Identities)</div>\n\n<div style=\"display: none\"><div class=\"cloze-highlight\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".3375\" data-top=\".3913\" data-width=\".5119\" data-height=\".1366\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".3375\" data-top=\".7919\" data-width=\".5119\" data-height=\".1366\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-e8bcec13ffe57516cc9e40417ea1e5b882f81f9b.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 0,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 2500,
+      "interval": 1,
+      "note": 1767547443263,
+      "type": 2,
+      "queue": 2,
+      "due": 122,
+      "reps": 2,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨10⁩m",
+        "⁨8⁩d",
+        "⁨16⁩d",
+        "⁨1.1⁩mo"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1768449174769,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.3375:top=.3913:width=.5119:height=.1366:oi=1}}<br>{{c2::image-occlusion:rect:left=.3375:top=.7919:width=.5119:height=.1366:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-e8bcec13ffe57516cc9e40417ea1e5b882f81f9b.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক সূত্র (Trigonometric Identities)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle formulas. Formulas: $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$ and $\\cos(A+B) = \\cos A \\cos B - \\sin A \\sin B$. Key definitions: Expansion of sine and cosine of sum of two angles. Testable facts: Sign change in cosine expansion (plus becomes minus).",
+          "order": 4
+        }
+      },
+      "fieldOrder": 1,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Identities)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".3375\" data-top=\".3913\" data-width=\".5119\" data-height=\".1366\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".3375\" data-top=\".7919\" data-width=\".5119\" data-height=\".1366\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-e8bcec13ffe57516cc9e40417ea1e5b882f81f9b.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Identities)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".3375\" data-top=\".3913\" data-width=\".5119\" data-height=\".1366\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".3375\" data-top=\".7919\" data-width=\".5119\" data-height=\".1366\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-e8bcec13ffe57516cc9e40417ea1e5b882f81f9b.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 1,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547443263,
+      "type": 1,
+      "queue": 1,
+      "due": 1768457536,
+      "reps": 1,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨5⁩d",
+        "⁨10⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1767547580656,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.4476:top=.4482:width=.3915:height=.0808:oi=1}}<br>{{c2::image-occlusion:rect:left=.4673:top=.8278:width=.4393:height=.1002:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-36810b7b8a96b8384a681cc5ab37f0c1d8935502.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Derivation of compound angle formulas using symmetry. Core identities: $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$ and $\\cos(A+B) = \\cos A \\cos B - \\sin A \\sin B$. Substitution of $-B$ for $B$ yields: $\\sin(A-B) = \\sin A \\cos B - \\cos A \\sin B$ and $\\cos(A-B) = \\cos A \\cos B + \\sin A \\sin B$. Key testable facts: sign changes in subtraction formulas compared to addition formulas.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 0,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4476\" data-top=\".4482\" data-width=\".3915\" data-height=\".0808\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".4673\" data-top=\".8278\" data-width=\".4393\" data-height=\".1002\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-36810b7b8a96b8384a681cc5ab37f0c1d8935502.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze-highlight\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4476\" data-top=\".4482\" data-width=\".3915\" data-height=\".0808\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".4673\" data-top=\".8278\" data-width=\".4393\" data-height=\".1002\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-36810b7b8a96b8384a681cc5ab37f0c1d8935502.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 0,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547580656,
+      "type": 1,
+      "queue": 1,
+      "due": 1770641864,
+      "reps": 3,
+      "lapses": 0,
+      "left": 2,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨6⁩m",
+        "<⁨10⁩m",
+        "⁨2⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1768449410453,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.4476:top=.4482:width=.3915:height=.0808:oi=1}}<br>{{c2::image-occlusion:rect:left=.4673:top=.8278:width=.4393:height=.1002:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-36810b7b8a96b8384a681cc5ab37f0c1d8935502.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Derivation of compound angle formulas using symmetry. Core identities: $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$ and $\\cos(A+B) = \\cos A \\cos B - \\sin A \\sin B$. Substitution of $-B$ for $B$ yields: $\\sin(A-B) = \\sin A \\cos B - \\cos A \\sin B$ and $\\cos(A-B) = \\cos A \\cos B + \\sin A \\sin B$. Key testable facts: sign changes in subtraction formulas compared to addition formulas.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 1,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4476\" data-top=\".4482\" data-width=\".3915\" data-height=\".0808\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".4673\" data-top=\".8278\" data-width=\".4393\" data-height=\".1002\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-36810b7b8a96b8384a681cc5ab37f0c1d8935502.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4476\" data-top=\".4482\" data-width=\".3915\" data-height=\".0808\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".4673\" data-top=\".8278\" data-width=\".4393\" data-height=\".1002\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-36810b7b8a96b8384a681cc5ab37f0c1d8935502.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 1,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547580656,
+      "type": 1,
+      "queue": 1,
+      "due": 1768457349,
+      "reps": 1,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨5⁩d",
+        "⁨10⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1767547622455,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.4091:top=.8374:width=.1423:height=.1114:oi=1}}<br>{{c2::image-occlusion:rect:left=.6646:top=.4298:width=.1568:height=.0802:oi=1}}<br>{{c2::image-occlusion:rect:left=.8733:top=.5746:width=.1132:height=.1069:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-0c7cd20f0069b0f218ee191a0e185a893a7536e4.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Derivation of sum-to-product identities using compound angle formulas. (1) $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$, (2) $\\sin(A-B) = \\sin A \\cos B - \\cos A \\sin B$. Adding (1)+(2) yields $\\sin(A+B) + \\sin(A-B) = 2\\sin A \\cos B$. Subtracting (1)-(2) yields $\\sin(A+B) - \\sin(A-B) = 2\\cos A \\sin B$. Testable: expansion of sine/cosine compound angles and resulting product identities.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 0,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4091\" data-top=\".8374\" data-width=\".1423\" data-height=\".1114\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".6646\" data-top=\".4298\" data-width=\".1568\" data-height=\".0802\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".8733\" data-top=\".5746\" data-width=\".1132\" data-height=\".1069\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-0c7cd20f0069b0f218ee191a0e185a893a7536e4.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze-highlight\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4091\" data-top=\".8374\" data-width=\".1423\" data-height=\".1114\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".6646\" data-top=\".4298\" data-width=\".1568\" data-height=\".0802\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".8733\" data-top=\".5746\" data-width=\".1132\" data-height=\".1069\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-0c7cd20f0069b0f218ee191a0e185a893a7536e4.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 0,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547622455,
+      "type": 1,
+      "queue": 1,
+      "due": 1768453447,
+      "reps": 2,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨1⁩d",
+        "⁨4⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1768449696163,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.4091:top=.8374:width=.1423:height=.1114:oi=1}}<br>{{c2::image-occlusion:rect:left=.6646:top=.4298:width=.1568:height=.0802:oi=1}}<br>{{c2::image-occlusion:rect:left=.8733:top=.5746:width=.1132:height=.1069:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-0c7cd20f0069b0f218ee191a0e185a893a7536e4.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Derivation of sum-to-product identities using compound angle formulas. (1) $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$, (2) $\\sin(A-B) = \\sin A \\cos B - \\cos A \\sin B$. Adding (1)+(2) yields $\\sin(A+B) + \\sin(A-B) = 2\\sin A \\cos B$. Subtracting (1)-(2) yields $\\sin(A+B) - \\sin(A-B) = 2\\cos A \\sin B$. Testable: expansion of sine/cosine compound angles and resulting product identities.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 1,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4091\" data-top=\".8374\" data-width=\".1423\" data-height=\".1114\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".6646\" data-top=\".4298\" data-width=\".1568\" data-height=\".0802\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".8733\" data-top=\".5746\" data-width=\".1132\" data-height=\".1069\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-0c7cd20f0069b0f218ee191a0e185a893a7536e4.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4091\" data-top=\".8374\" data-width=\".1423\" data-height=\".1114\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".6646\" data-top=\".4298\" data-width=\".1568\" data-height=\".0802\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".8733\" data-top=\".5746\" data-width=\".1132\" data-height=\".1069\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-0c7cd20f0069b0f218ee191a0e185a893a7536e4.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 1,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547622455,
+      "type": 1,
+      "queue": 1,
+      "due": 1768457585,
+      "reps": 1,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨5⁩d",
+        "⁨10⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1767547684741,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.6511:top=.392:width=.1641:height=.0846:oi=1}}<br>{{c1::image-occlusion:rect:left=.8609:top=.5434:width=.1246:height=.0846:oi=1}}<br>{{c2::image-occlusion:rect:left=.8172:top=.8463:width=.1225:height=.0846:oi=1}}<br>{{c2::image-occlusion:rect:left=.2835:top=.7929:width=.161:height=.0757:oi=1}}<br>{{c2::image-occlusion:rect:left=.3094:top=.882:width=.1381:height=.0935:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-a37dd5cf7c7ad8b429f78ec1c0ad576821dd5753.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক সূত্র (Trigonometric Compound Angle Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core topic: Compound angle expansion and sum-to-product identities. Formulas: (i) $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$, (ii) $\\sin(A-B) = \\sin A \\cos B - \\cos A \\sin B$, (iii) $\\cos(A+B) = \\cos A \\cos B - \\sin A \\sin B$, (iv) $\\cos(A-B) = \\cos A \\cos B + \\sin A \\sin B$. Derivations shown: (iii)+(iv) yields $\\cos(A+B) + \\cos(A-B) = 2\\cos A \\cos B$. (iii)-(iv) yields $\\cos(A-B) - \\cos(A+B) = 2\\sin A \\sin B$. Testable: Expansion of compound angles and algebraic manipulation to derive product identities.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 0,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Compound Angle Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".6511\" data-top=\".392\" data-width=\".1641\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8609\" data-top=\".5434\" data-width=\".1246\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".8172\" data-top=\".8463\" data-width=\".1225\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".2835\" data-top=\".7929\" data-width=\".161\" data-height=\".0757\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".3094\" data-top=\".882\" data-width=\".1381\" data-height=\".0935\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-a37dd5cf7c7ad8b429f78ec1c0ad576821dd5753.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Compound Angle Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-highlight\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".6511\" data-top=\".392\" data-width=\".1641\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8609\" data-top=\".5434\" data-width=\".1246\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".8172\" data-top=\".8463\" data-width=\".1225\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".2835\" data-top=\".7929\" data-width=\".161\" data-height=\".0757\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".3094\" data-top=\".882\" data-width=\".1381\" data-height=\".0935\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-a37dd5cf7c7ad8b429f78ec1c0ad576821dd5753.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 0,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547684741,
+      "type": 1,
+      "queue": 1,
+      "due": 1768453402,
+      "reps": 2,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨1⁩d",
+        "⁨4⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1768449743861,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.6511:top=.392:width=.1641:height=.0846:oi=1}}<br>{{c1::image-occlusion:rect:left=.8609:top=.5434:width=.1246:height=.0846:oi=1}}<br>{{c2::image-occlusion:rect:left=.8172:top=.8463:width=.1225:height=.0846:oi=1}}<br>{{c2::image-occlusion:rect:left=.2835:top=.7929:width=.161:height=.0757:oi=1}}<br>{{c2::image-occlusion:rect:left=.3094:top=.882:width=.1381:height=.0935:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-a37dd5cf7c7ad8b429f78ec1c0ad576821dd5753.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক সূত্র (Trigonometric Compound Angle Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core topic: Compound angle expansion and sum-to-product identities. Formulas: (i) $\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B$, (ii) $\\sin(A-B) = \\sin A \\cos B - \\cos A \\sin B$, (iii) $\\cos(A+B) = \\cos A \\cos B - \\sin A \\sin B$, (iv) $\\cos(A-B) = \\cos A \\cos B + \\sin A \\sin B$. Derivations shown: (iii)+(iv) yields $\\cos(A+B) + \\cos(A-B) = 2\\cos A \\cos B$. (iii)-(iv) yields $\\cos(A-B) - \\cos(A+B) = 2\\sin A \\sin B$. Testable: Expansion of compound angles and algebraic manipulation to derive product identities.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 1,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Compound Angle Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".6511\" data-top=\".392\" data-width=\".1641\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8609\" data-top=\".5434\" data-width=\".1246\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".8172\" data-top=\".8463\" data-width=\".1225\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".2835\" data-top=\".7929\" data-width=\".161\" data-height=\".0757\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".3094\" data-top=\".882\" data-width=\".1381\" data-height=\".0935\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-a37dd5cf7c7ad8b429f78ec1c0ad576821dd5753.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Compound Angle Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".6511\" data-top=\".392\" data-width=\".1641\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8609\" data-top=\".5434\" data-width=\".1246\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".8172\" data-top=\".8463\" data-width=\".1225\" data-height=\".0846\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".2835\" data-top=\".7929\" data-width=\".161\" data-height=\".0757\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".3094\" data-top=\".882\" data-width=\".1381\" data-height=\".0935\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-a37dd5cf7c7ad8b429f78ec1c0ad576821dd5753.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 1,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547684741,
+      "type": 1,
+      "queue": 1,
+      "due": 1768457504,
+      "reps": 1,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨3⁩d",
+        "⁨6⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1767547733508,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.8993:top=.7628:width=.08:height=.1738:oi=1}}<br>{{c2::image-occlusion:rect:left=.73:top=.2843:width=.1485:height=.0675:oi=1}}<br>{{c3::image-occlusion:rect:left=.6989:top=.6237:width=.1526:height=.09:oi=1}}<br>{{c4::image-occlusion:rect:left=.4517:top=.8384:width=.1267:height=.0961:oi=1}}<br>{{c4::image-occlusion:rect:left=.1391:top=.8446:width=.1308:height=.0941:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle and double angle identities. Formulas: (1) $\\sin(A \\pm B) = \\sin A \\cos B \\pm \\cos A \\sin B$, (2) $\\cos(A \\pm B) = \\cos A \\cos B \\mp \\sin A \\sin B$, (3) $\\sin 2A = 2 \\sin A \\cos A$, (4) $\\cos 2A = \\cos^2 A - \\sin^2 A = 1 - 2\\sin^2 A = 2\\cos^2 A - 1$. Key derivations: Setting $A=B$ in compound formulas yields double angle identities. Occluded/Testable: Half-angle conversions $1+\\cos 2A = 2\\cos^2 A$ and $1-\\cos 2A = 2\\sin^2 A$.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 0,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8993\" data-top=\".7628\" data-width=\".08\" data-height=\".1738\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".73\" data-top=\".2843\" data-width=\".1485\" data-height=\".0675\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"3\" data-shape=\"rect\" data-left=\".6989\" data-top=\".6237\" data-width=\".1526\" data-height=\".09\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".4517\" data-top=\".8384\" data-width=\".1267\" data-height=\".0961\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".1391\" data-top=\".8446\" data-width=\".1308\" data-height=\".0941\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-highlight\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8993\" data-top=\".7628\" data-width=\".08\" data-height=\".1738\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".73\" data-top=\".2843\" data-width=\".1485\" data-height=\".0675\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"3\" data-shape=\"rect\" data-left=\".6989\" data-top=\".6237\" data-width=\".1526\" data-height=\".09\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".4517\" data-top=\".8384\" data-width=\".1267\" data-height=\".0961\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".1391\" data-top=\".8446\" data-width=\".1308\" data-height=\".0941\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 0,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547733508,
+      "type": 1,
+      "queue": 1,
+      "due": 1770641841,
+      "reps": 3,
+      "lapses": 0,
+      "left": 2,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨6⁩m",
+        "<⁨10⁩m",
+        "⁨2⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1768449229204,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.8993:top=.7628:width=.08:height=.1738:oi=1}}<br>{{c2::image-occlusion:rect:left=.73:top=.2843:width=.1485:height=.0675:oi=1}}<br>{{c3::image-occlusion:rect:left=.6989:top=.6237:width=.1526:height=.09:oi=1}}<br>{{c4::image-occlusion:rect:left=.4517:top=.8384:width=.1267:height=.0961:oi=1}}<br>{{c4::image-occlusion:rect:left=.1391:top=.8446:width=.1308:height=.0941:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle and double angle identities. Formulas: (1) $\\sin(A \\pm B) = \\sin A \\cos B \\pm \\cos A \\sin B$, (2) $\\cos(A \\pm B) = \\cos A \\cos B \\mp \\sin A \\sin B$, (3) $\\sin 2A = 2 \\sin A \\cos A$, (4) $\\cos 2A = \\cos^2 A - \\sin^2 A = 1 - 2\\sin^2 A = 2\\cos^2 A - 1$. Key derivations: Setting $A=B$ in compound formulas yields double angle identities. Occluded/Testable: Half-angle conversions $1+\\cos 2A = 2\\cos^2 A$ and $1-\\cos 2A = 2\\sin^2 A$.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 1,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8993\" data-top=\".7628\" data-width=\".08\" data-height=\".1738\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".73\" data-top=\".2843\" data-width=\".1485\" data-height=\".0675\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"3\" data-shape=\"rect\" data-left=\".6989\" data-top=\".6237\" data-width=\".1526\" data-height=\".09\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".4517\" data-top=\".8384\" data-width=\".1267\" data-height=\".0961\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".1391\" data-top=\".8446\" data-width=\".1308\" data-height=\".0941\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8993\" data-top=\".7628\" data-width=\".08\" data-height=\".1738\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".73\" data-top=\".2843\" data-width=\".1485\" data-height=\".0675\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"3\" data-shape=\"rect\" data-left=\".6989\" data-top=\".6237\" data-width=\".1526\" data-height=\".09\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".4517\" data-top=\".8384\" data-width=\".1267\" data-height=\".0961\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".1391\" data-top=\".8446\" data-width=\".1308\" data-height=\".0941\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 1,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547733508,
+      "type": 1,
+      "queue": 1,
+      "due": 1768457346,
+      "reps": 1,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨4⁩d",
+        "⁨7⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1768449229201,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.8993:top=.7628:width=.08:height=.1738:oi=1}}<br>{{c2::image-occlusion:rect:left=.73:top=.2843:width=.1485:height=.0675:oi=1}}<br>{{c3::image-occlusion:rect:left=.6989:top=.6237:width=.1526:height=.09:oi=1}}<br>{{c4::image-occlusion:rect:left=.4517:top=.8384:width=.1267:height=.0961:oi=1}}<br>{{c4::image-occlusion:rect:left=.1391:top=.8446:width=.1308:height=.0941:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle and double angle identities. Formulas: (1) $\\sin(A \\pm B) = \\sin A \\cos B \\pm \\cos A \\sin B$, (2) $\\cos(A \\pm B) = \\cos A \\cos B \\mp \\sin A \\sin B$, (3) $\\sin 2A = 2 \\sin A \\cos A$, (4) $\\cos 2A = \\cos^2 A - \\sin^2 A = 1 - 2\\sin^2 A = 2\\cos^2 A - 1$. Key derivations: Setting $A=B$ in compound formulas yields double angle identities. Occluded/Testable: Half-angle conversions $1+\\cos 2A = 2\\cos^2 A$ and $1-\\cos 2A = 2\\sin^2 A$.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 2,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8993\" data-top=\".7628\" data-width=\".08\" data-height=\".1738\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".73\" data-top=\".2843\" data-width=\".1485\" data-height=\".0675\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"3\" data-shape=\"rect\" data-left=\".6989\" data-top=\".6237\" data-width=\".1526\" data-height=\".09\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".4517\" data-top=\".8384\" data-width=\".1267\" data-height=\".0961\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".1391\" data-top=\".8446\" data-width=\".1308\" data-height=\".0941\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8993\" data-top=\".7628\" data-width=\".08\" data-height=\".1738\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".73\" data-top=\".2843\" data-width=\".1485\" data-height=\".0675\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"3\" data-shape=\"rect\" data-left=\".6989\" data-top=\".6237\" data-width=\".1526\" data-height=\".09\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".4517\" data-top=\".8384\" data-width=\".1267\" data-height=\".0961\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".1391\" data-top=\".8446\" data-width=\".1308\" data-height=\".0941\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 2,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547733508,
+      "type": 1,
+      "queue": 1,
+      "due": 1768457394,
+      "reps": 1,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨5⁩d",
+        "⁨10⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1768449229202,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.8993:top=.7628:width=.08:height=.1738:oi=1}}<br>{{c2::image-occlusion:rect:left=.73:top=.2843:width=.1485:height=.0675:oi=1}}<br>{{c3::image-occlusion:rect:left=.6989:top=.6237:width=.1526:height=.09:oi=1}}<br>{{c4::image-occlusion:rect:left=.4517:top=.8384:width=.1267:height=.0961:oi=1}}<br>{{c4::image-occlusion:rect:left=.1391:top=.8446:width=.1308:height=.0941:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle and double angle identities. Formulas: (1) $\\sin(A \\pm B) = \\sin A \\cos B \\pm \\cos A \\sin B$, (2) $\\cos(A \\pm B) = \\cos A \\cos B \\mp \\sin A \\sin B$, (3) $\\sin 2A = 2 \\sin A \\cos A$, (4) $\\cos 2A = \\cos^2 A - \\sin^2 A = 1 - 2\\sin^2 A = 2\\cos^2 A - 1$. Key derivations: Setting $A=B$ in compound formulas yields double angle identities. Occluded/Testable: Half-angle conversions $1+\\cos 2A = 2\\cos^2 A$ and $1-\\cos 2A = 2\\sin^2 A$.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 3,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8993\" data-top=\".7628\" data-width=\".08\" data-height=\".1738\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".73\" data-top=\".2843\" data-width=\".1485\" data-height=\".0675\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"3\" data-shape=\"rect\" data-left=\".6989\" data-top=\".6237\" data-width=\".1526\" data-height=\".09\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".4517\" data-top=\".8384\" data-width=\".1267\" data-height=\".0961\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".1391\" data-top=\".8446\" data-width=\".1308\" data-height=\".0941\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক সূত্র (Trigonometric Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".8993\" data-top=\".7628\" data-width=\".08\" data-height=\".1738\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".73\" data-top=\".2843\" data-width=\".1485\" data-height=\".0675\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"3\" data-shape=\"rect\" data-left=\".6989\" data-top=\".6237\" data-width=\".1526\" data-height=\".09\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".4517\" data-top=\".8384\" data-width=\".1267\" data-height=\".0961\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"4\" data-shape=\"rect\" data-left=\".1391\" data-top=\".8446\" data-width=\".1308\" data-height=\".0941\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-300bd1c1944c4b7c040fb2d78a9a00986ddf493d.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 3,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547733508,
+      "type": 1,
+      "queue": 1,
+      "due": 1768457650,
+      "reps": 1,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨3⁩d",
+        "⁨7⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1767547776993,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.6781:top=.7146:width=.2191:height=.2727:oi=1}}<br>{{c2::image-occlusion:rect:left=.1589:top=.7505:width=.1869:height=.2008:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-72297b9ad3a8836e42ee8948f83825551d686f17.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle identities for sine, cosine, and tangent. Formulas: (1) $\\sin(A \\pm B) = \\sin A \\cos B \\pm \\cos A \\sin B$, (2) $\\cos(A \\pm B) = \\cos A \\cos B \\mp \\sin A \\sin B$, (3) $\\tan(A+B) = \\frac{\\tan A + \\tan B}{1 - \\tan A \\tan B}$, (4) $\\tan(A-B) = \\frac{\\tan A - \\tan B}{1 + \\tan A \\tan B}$. Derivation involves dividing sine/cosine identities by $\\cos A \\cos B$. Occluded elements: Final tangent identity formulas.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 0,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".6781\" data-top=\".7146\" data-width=\".2191\" data-height=\".2727\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".1589\" data-top=\".7505\" data-width=\".1869\" data-height=\".2008\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-72297b9ad3a8836e42ee8948f83825551d686f17.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze-highlight\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".6781\" data-top=\".7146\" data-width=\".2191\" data-height=\".2727\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".1589\" data-top=\".7505\" data-width=\".1869\" data-height=\".2008\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-72297b9ad3a8836e42ee8948f83825551d686f17.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 0,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 2500,
+      "interval": 2,
+      "note": 1767547776993,
+      "type": 2,
+      "queue": 2,
+      "due": 123,
+      "reps": 2,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨10⁩m",
+        "⁨20⁩d",
+        "⁨1.2⁩mo",
+        "⁨2.3⁩mo"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1768449567339,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.6781:top=.7146:width=.2191:height=.2727:oi=1}}<br>{{c2::image-occlusion:rect:left=.1589:top=.7505:width=.1869:height=.2008:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-72297b9ad3a8836e42ee8948f83825551d686f17.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle identities for sine, cosine, and tangent. Formulas: (1) $\\sin(A \\pm B) = \\sin A \\cos B \\pm \\cos A \\sin B$, (2) $\\cos(A \\pm B) = \\cos A \\cos B \\mp \\sin A \\sin B$, (3) $\\tan(A+B) = \\frac{\\tan A + \\tan B}{1 - \\tan A \\tan B}$, (4) $\\tan(A-B) = \\frac{\\tan A - \\tan B}{1 + \\tan A \\tan B}$. Derivation involves dividing sine/cosine identities by $\\cos A \\cos B$. Occluded elements: Final tangent identity formulas.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 1,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".6781\" data-top=\".7146\" data-width=\".2191\" data-height=\".2727\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".1589\" data-top=\".7505\" data-width=\".1869\" data-height=\".2008\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-72297b9ad3a8836e42ee8948f83825551d686f17.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".6781\" data-top=\".7146\" data-width=\".2191\" data-height=\".2727\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".1589\" data-top=\".7505\" data-width=\".1869\" data-height=\".2008\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-72297b9ad3a8836e42ee8948f83825551d686f17.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 1,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 2500,
+      "interval": 4,
+      "note": 1767547776993,
+      "type": 2,
+      "queue": 2,
+      "due": 125,
+      "reps": 1,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨10⁩m",
+        "⁨2⁩mo",
+        "⁨3.6⁩mo",
+        "⁨7⁩mo"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1767547796280,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.3489:top=.5214:width=.2471:height=.3631:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-0fda99f93abc88f7f1cb33f10254be95543cde5f.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Compound angle identities for tangent and cotangent. Formulas: (i) $\\tan(A+B) = \\frac{\\tan A + \\tan B}{1 - \\tan A \\tan B}$, (ii) $\\tan(A-B) = \\frac{\\tan A - \\tan B}{1 + \\tan A \\tan B}$, (iii) $\\cot(A+B) = \\frac{\\cot A \\cot B - 1}{\\cot B + \\cot A}$, (iv) $\\cot(A-B) = \\frac{\\cot A \\cot B + 1}{\\cot B - \\cot A}$. Note: Tan formulas marked 'vvvv' (very important), Cot formulas marked 'less important' (কম গুরুত্বপূর্ণ). Testable: signs in denominators and numerator/denominator structure.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 0,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".3489\" data-top=\".5214\" data-width=\".2471\" data-height=\".3631\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-0fda99f93abc88f7f1cb33f10254be95543cde5f.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক যৌগিক কোণ (Trigonometric Compound Angles)</div>\n\n<div style=\"display: none\"><div class=\"cloze-highlight\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".3489\" data-top=\".5214\" data-width=\".2471\" data-height=\".3631\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-0fda99f93abc88f7f1cb33f10254be95543cde5f.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 0,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547796280,
+      "type": 1,
+      "queue": 1,
+      "due": 1768453546,
+      "reps": 2,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨1⁩d",
+        "⁨2⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1767547826286,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.2409:top=.5269:width=.2648:height=.1441:oi=1}}<br>{{c2::image-occlusion:rect:left=.2326:top=.7247:width=.3032:height=.1742:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-63d1ee1962fdd1182f57b470909220166b231f44.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক রূপান্তর সূত্র (Trigonometric Transformation Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Sum-to-product trigonometric identities derived from compound angle formulas. Formulas: (1) $\\sin C + \\sin D = 2\\sin(\\frac{C+D}{2})\\cos(\\frac{C-D}{2})$, (2) $\\sin C - \\sin D = 2\\cos(\\frac{C+D}{2})\\sin(\\frac{C-D}{2})$. Derivation logic: Let $A+B=C$ and $A-B=D$, then $A=\\frac{C+D}{2}$ and $B=\\frac{C-D}{2}$. Testable facts: Substitution of $A$ and $B$ into product-to-sum identities to yield sum-to-product forms.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 0,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক রূপান্তর সূত্র (Trigonometric Transformation Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".2409\" data-top=\".5269\" data-width=\".2648\" data-height=\".1441\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".2326\" data-top=\".7247\" data-width=\".3032\" data-height=\".1742\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-63d1ee1962fdd1182f57b470909220166b231f44.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক রূপান্তর সূত্র (Trigonometric Transformation Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-highlight\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".2409\" data-top=\".5269\" data-width=\".2648\" data-height=\".1441\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-inactive\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".2326\" data-top=\".7247\" data-width=\".3032\" data-height=\".1742\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-63d1ee1962fdd1182f57b470909220166b231f44.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 0,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547826286,
+      "type": 1,
+      "queue": 1,
+      "due": 1770641828,
+      "reps": 3,
+      "lapses": 0,
+      "left": 2,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨6⁩m",
+        "<⁨10⁩m",
+        "⁨2⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1768449311879,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.2409:top=.5269:width=.2648:height=.1441:oi=1}}<br>{{c2::image-occlusion:rect:left=.2326:top=.7247:width=.3032:height=.1742:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-63d1ee1962fdd1182f57b470909220166b231f44.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক রূপান্তর সূত্র (Trigonometric Transformation Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core concept: Sum-to-product trigonometric identities derived from compound angle formulas. Formulas: (1) $\\sin C + \\sin D = 2\\sin(\\frac{C+D}{2})\\cos(\\frac{C-D}{2})$, (2) $\\sin C - \\sin D = 2\\cos(\\frac{C+D}{2})\\sin(\\frac{C-D}{2})$. Derivation logic: Let $A+B=C$ and $A-B=D$, then $A=\\frac{C+D}{2}$ and $B=\\frac{C-D}{2}$. Testable facts: Substitution of $A$ and $B$ into product-to-sum identities to yield sum-to-product forms.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 1,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক রূপান্তর সূত্র (Trigonometric Transformation Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".2409\" data-top=\".5269\" data-width=\".2648\" data-height=\".1441\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".2326\" data-top=\".7247\" data-width=\".3032\" data-height=\".1742\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-63d1ee1962fdd1182f57b470909220166b231f44.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক রূপান্তর সূত্র (Trigonometric Transformation Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-inactive\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".2409\" data-top=\".5269\" data-width=\".2648\" data-height=\".1441\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"2\" data-shape=\"rect\" data-left=\".2326\" data-top=\".7247\" data-width=\".3032\" data-height=\".1742\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-63d1ee1962fdd1182f57b470909220166b231f44.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 1,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547826286,
+      "type": 1,
+      "queue": 1,
+      "due": 1768457356,
+      "reps": 1,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨5⁩d",
+        "⁨10⁩d"
+      ],
+      "flags": 0
+    },
+    {
+      "cardId": 1767547848008,
+      "fields": {
+        "Occlusion": {
+          "value": "{{c1::image-occlusion:rect:left=.4893:top=.5162:width=.4607:height=.1744:oi=1}}<br>{{c1::image-occlusion:rect:left=.4747:top=.7471:width=.4742:height=.196:oi=1}}<br>",
+          "order": 0
+        },
+        "Image": {
+          "value": "<img src=\"paste-183dfdbca3f53e8dbea4239950ef470aeac6d622.jpg\">",
+          "order": 1
+        },
+        "Header": {
+          "value": "ত্রিকোণমিতিক রূপান্তর সূত্র (Trigonometric Transformation Formulas)",
+          "order": 2
+        },
+        "Back Extra": {
+          "value": "",
+          "order": 3
+        },
+        "Comments": {
+          "value": "Core topic: Sum-to-product trigonometric identities. Formulas: (i) $\\sin C + \\sin D = 2\\sin \\frac{C+D}{2} \\cos \\frac{C-D}{2}$, (ii) $\\sin C - \\sin D = 2\\cos \\frac{C+D}{2} \\sin \\frac{C-D}{2}$, (iii) $\\cos C + \\cos D = 2\\cos \\frac{C+D}{2} \\cos \\frac{C-D}{2}$, (iv) $\\cos D - \\cos C = 2\\sin \\frac{C+D}{2} \\sin \\frac{C-D}{2}$. Key testable facts: Note the sign reversal in (iv) compared to standard $\\cos C - \\cos D$ identity. Used for simplifying trigonometric expressions.",
+          "order": 4
+        }
+      },
+      "fieldOrder": 0,
+      "question": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক রূপান্তর সূত্র (Trigonometric Transformation Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4893\" data-top=\".5162\" data-width=\".4607\" data-height=\".1744\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4747\" data-top=\".7471\" data-width=\".4742\" data-height=\".196\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-183dfdbca3f53e8dbea4239950ef470aeac6d622.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 1; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "answer": "<style>#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}</style><div>ত্রিকোণমিতিক রূপান্তর সূত্র (Trigonometric Transformation Formulas)</div>\n\n<div style=\"display: none\"><div class=\"cloze-highlight\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4893\" data-top=\".5162\" data-width=\".4607\" data-height=\".1744\" data-occludeInactive=\"1\" ></div><br><div class=\"cloze-highlight\" data-ordinal=\"1\" data-shape=\"rect\" data-left=\".4747\" data-top=\".7471\" data-width=\".4742\" data-height=\".196\" data-occludeInactive=\"1\" ></div><br></div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    <div id=\"image-occlusion-img\"><img src=\"paste-183dfdbca3f53e8dbea4239950ef470aeac6d622.jpg\"></div>\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.setupImageCloze();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n\n\n// * Code to allow users to zoom in during review.\n// First, you need to get the image container and assign it to imgContainer\nvar imgContainer = document.querySelector('#image-occlusion-container');\n\n// Then get the image element\nvar imgElement = document.querySelector('#image-occlusion-img img');\n\n// Finally, get the canvas\nvar canvas = document.querySelector('#image-occlusion-canvas');\n\nvar imgSize = 100;\n\n// Create an event listener that will detect when the user holds\n// the Ctrl key and then scrolls the wheel of the mouse\nimgContainer.addEventListener('wheel', function(event) {\n    if (event.ctrlKey) {\n        event.preventDefault();\n\n        if (event.deltaY < 0) {\n            // Increase image size\n            imgSize += 5; // Increase by 5%. You can modify this to your liking!\n        } else {\n            // Decrease image size\n            imgSize -= 5; // Decrease by 5%.\n        }\n\n        imgElement.style.width = imgSize + '%';\n        imgElement.style.height = 'auto';\n\n        imgContainer.style.width = imgSize + '%';\n        imgContainer.style.height = 'auto';\n\n        canvas.style.width = imgSize + '%';\n        canvas.style.height = 'auto';\n    }\n});\n</script>",
+      "modelName": "Image Occlusion",
+      "ord": 0,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}",
+      "factor": 0,
+      "interval": 0,
+      "note": 1767547848008,
+      "type": 1,
+      "queue": 1,
+      "due": 1768453445,
+      "reps": 2,
+      "lapses": 0,
+      "left": 0,
+      "mod": 1789099270,
+      "nextReviews": [
+        "<⁨1⁩m",
+        "<⁨10⁩m",
+        "⁨1⁩d",
+        "⁨4⁩d"
+      ],
+      "flags": 0
+    }
+  ]
+}

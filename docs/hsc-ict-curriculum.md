@@ -1,0 +1,25 @@
+# HSC Information & Communication Technology (ICT) Curriculum Reference (Class 11–12, NCTB Bangladesh)
+
+Comprehensive NCTB curriculum mapping for Anki card taxonomy, chapter tagging, and sequential order.
+
+---
+
+## ICT Curriculum Structure & Chapter Mapping (তথ্য ও যোগাযোগ প্রযুক্তি)
+
+| Chapter | Bengali Title | English Title | Core Topics & Key Identifiers | Canonical Tag Prefix |
+| :--- | :--- | :--- | :--- | :--- |
+| **Ch 1** | তথ্য ও যোগাযোগ প্রযুক্তি: বিশ্ব ও বাংলাদেশ প্রেক্ষিত | Information & Communication Technology: World & Bangladesh Perspective | Global Village (বিশ্বগ্রাম: Marshall McLuhan), Virtual Reality (ভার্চুয়াল রিয়েলিটি), Artificial Intelligence (কৃত্রিম বুদ্ধিমত্তা), Robotics (রোবোটিক্স), Cryosurgery (ক্রায়োসার্জারি: liquid nitrogen, argon), Space Exploration (মহাকাশ অভিযান), Biometrics (বায়োমেট্রিক্স: fingerprint, retina, iris, facial recognition), Bioinformatics (বায়োইনফরমেটিক্স: DNA, protein data), Genetic Engineering (জেনেটিক ইঞ্জিনিয়ারিং: GMO, recombinant DNA), Nanotechnology (ন্যানোটেকনোলজি: $10^{-9}\text{ m}$, molecular assembly), Communication (E-mail, Teleconferencing, Video Conferencing), Telemedicine (টেলিমেডিসিন), Cybercrime, Hacking, Software Piracy, Cyber Ethics. | `ict::ch1` |
+| **Ch 2** | কমিউনিকেশন সিস্টেমস ও নেটওয়ার্কিং | Communication Systems and Networking | Data communication model (Source, Transmitter, Channel, Receiver, Destination), Bandwidth (Narrowband: 45-300 bps, Voiceband: 9600 bps, Broadband: $\ge 1$ Mbps), Transmission Methods (Asynchronous, Synchronous, Isochronous), Transmission Modes (Simplex, Half-Duplex, Full-Duplex; Unicast, Broadcast, Multicast), Media (Twisted Pair: UTP/STP, Coaxial Cable, Optical Fiber: Core, Cladding, Buffer), Wireless (Radio wave, Microwave, Infrared, Satellite communication), Wireless Standards (Bluetooth: IEEE 802.15, Wi-Fi: IEEE 802.11, WiMAX: IEEE 802.16), Mobile Generations (1G, 2G: GSM/CDMA/SMS, 3G: video call, 4G: LTE, 5G), Network Types (PAN, LAN, MAN, WAN), Topologies (Bus, Ring, Star, Tree, Mesh, Hybrid), Network Devices (Modem, NIC, Hub, Switch, Router, Gateway, Bridge), Cloud Computing (IaaS, PaaS, SaaS). | `ict::ch2` |
+| **Ch 3.1** | সংখ্যা পদ্ধতি | Number Systems | Positional vs Non-positional number systems, Decimal (base 10), Binary (base 2), Octal (base 8), Hexadecimal (base 16), Base conversions (Decimal $\leftrightarrow$ Binary/Octal/Hex, Binary $\leftrightarrow$ Octal/Hex), Binary Arithmetic (addition, subtraction), Signed numbers, 1's complement, 2's complement (২ এর পরিপূরক), Overflow, Computer Codes (BCD, EBCDIC, ASCII-7, ASCII-8, Unicode: 16-bit). | `ict::ch3::3.1` |
+| **Ch 3.2** | ডিজিটাল ডিভাইস ও বুলিয়ান অ্যালজেব্রা | Digital Devices & Boolean Algebra | Boolean Algebra postulates (স্বতঃসিদ্ধ), Duality Principle (দ্বৈত নীতি), De Morgan's Laws (ডি মরগানের উপপাদ্য), Boolean function simplification, Truth Tables, Basic Logic Gates (AND, OR, NOT), Universal Gates (NAND, NOR), Special Gates (XOR, XNOR), Universality proofs using NAND/NOR, Encoder, Decoder, Adders (Half Adder, Full Adder: sum & carry equations), Flip-Flops, Registers, Counters. | `ict::ch3::3.2` |
+| **Ch 4** | ওয়েব ডিজাইন পরিচিতি এবং এইচটিএমএল | Introduction to Web Design and HTML | Website structures (Linear, Hierarchical/Tree, Network, Hybrid), Web Page, Website, Web Server, Web Browser, IP Address (IPv4, IPv6), Domain Name, URL, DNS, HTTP/HTTPS, HTML elements & tags, Text formatting tags (`<b>`, `<i>`, `<p>`, `<h1>`–`<h6>`), Hyperlinks (`<a>`), Image embedding (`<img>`), HTML Tables (`<table>`, `<tr>`, `<th>`, `<td>`), Forms (`<form>`, `<input>`), Web hosting and publishing. | `ict::ch4` |
+| **Ch 5** | প্রোগ্রামিং ভাষা | Programming Language (C Programming) | Generations of programming languages (1GL to 5GL), Translators (Compiler, Interpreter, Assembler), Algorithm & Flowchart (symbols, logic), C program structure, Data types (`int`, `float`, `char`, `double`), Variables, Constants, Keywords, Format specifiers (`%d`, `%f`, `%c`), Operators (Arithmetic, Relational, Logical, Assignment), Input/Output (`printf`, `scanf`), Conditional statements (`if`, `if-else`, `switch`), Loop control (`for`, `while`, `do-while`), Arrays (1D, 2D arrays), Functions. | `ict::ch5` |
+| **Ch 6** | ডেটাবেজ ম্যানেজমেন্ট সিস্টেম | Database Management System (DBMS) | Data vs Information, Database components (Field, Record, Table, Database), Data types in DBMS, Keys (Primary Key, Candidate Key, Foreign Key, Composite Primary Key), Database Relationships (One-to-One, One-to-Many, Many-to-One, Many-to-Many), SQL (Structured Query Language: `SELECT`, `INSERT`, `UPDATE`, `DELETE`, `WHERE`, `ORDER BY`), Data sorting, Indexing, Data security, Encryption/Decryption. | `ict::ch6` |
+
+---
+
+## Canonical Role Taxonomy
+- **`concept`**: Foundational definition, architectural diagram, property, equation, or theoretical breakdown.
+- **`mcq`**: Multiple-choice question card, testable board question shortcut, or option evaluation.
+- **`problem`**: Multi-step algorithm, code writing, or complex truth table/base conversion calculation.
+

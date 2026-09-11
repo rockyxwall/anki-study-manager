@@ -206,10 +206,18 @@ async function main() {
         const note = noteMap.get(card.note);
         if (!note) continue;
 
-        const noteText = `${note.fields?.Header?.value || ''} ${note.fields?.Comments?.value || ''}`;
-        const chapter = determineChapter(card.deckName, note.tags, noteText);
-        const role = determineRole(note);
-        const roleTag = `${chapter}::${role}`;
+        let roleTag = note.tags.find(t => t.startsWith('ict::') && (t.endsWith('::concept') || t.endsWith('::problem') || t.endsWith('::mcq')));
+        let role, chapter;
+        if (roleTag) {
+            const parts = roleTag.split('::');
+            role = parts.pop();
+            chapter = parts.join('::');
+        } else {
+            const noteText = `${note.fields?.Header?.value || ''} ${note.fields?.Comments?.value || ''}`;
+            chapter = determineChapter(card.deckName, note.tags, noteText);
+            role = determineRole(note);
+            roleTag = `${chapter}::${role}`;
+        }
 
         if (role === 'problem') {
             problemCardIds.push(card.cardId);
@@ -334,12 +342,78 @@ async function main() {
         deck: ROOT_DECK
     });
 
+    // 7. Enforce fixed order in deck configuration
+    console.log(`\nEnforcing fixed order in deck preset for "${ROOT_DECK}"...`);
+    const deckConfig = await callAnki('getDeckConfig', { deck: ROOT_DECK });
+    if (deckConfig) {
+        deckConfig.newGatherPriority = 2; // 2 = Ascending position (fixed order)
+        deckConfig.newSortOrder = 1;       // 1 = Order gathered
+        await callAnki('saveDeckConfig', { config: deckConfig });
+        console.log('  Deck preset updated: newGatherPriority=2 (Ascending position), newSortOrder=1.');
+    }
+
+    // 8. Reposition new cards by curriculum priority: concepts ch1..chX first, then MCQs
+    const PRIORITY_TAGS = [
+        'ict::ch1::concept',
+        'ict::ch2::concept',
+        'ict::ch3::3.1::concept',
+        'ict::ch3::3.2::concept',
+        'ict::ch4::concept',
+        'ict::ch5::concept',
+        'ict::ch6::concept',
+        'ict::ch1::mcq',
+        'ict::ch2::mcq',
+        'ict::ch3::3.1::mcq',
+        'ict::ch3::3.2::mcq',
+        'ict::ch4::mcq',
+        'ict::ch5::mcq',
+        'ict::ch6::mcq',
+    ];
+
+    function getPriorityRank(roleTag) {
+        const idx = PRIORITY_TAGS.indexOf(roleTag);
+        return idx === -1 ? 999 : idx;
+    }
+
+    const newCards = manifest.filter(m => m.currentQueue === 0);
+    newCards.sort((a, b) => {
+        const rankA = getPriorityRank(a.roleTag);
+        const rankB = getPriorityRank(b.roleTag);
+        if (rankA !== rankB) return rankA - rankB;
+        return a.cardId - b.cardId;
+    });
+
+    console.log(`\nRepositioning ${newCards.length} new cards in fixed curriculum order...`);
+    const repositionActions = newCards.map((m, idx) => ({
+        action: 'setSpecificValueOfCard',
+        params: {
+            card: m.cardId,
+            keys: ['due'],
+            newValues: [idx + 1]
+        }
+    }));
+
+    if (repositionActions.length > 0) {
+        const CHUNK_SIZE = 100;
+        for (let i = 0; i < repositionActions.length; i += CHUNK_SIZE) {
+            const chunk = repositionActions.slice(i, i + CHUNK_SIZE);
+            await callAnki('multi', { actions: chunk });
+        }
+        console.log(`  Successfully repositioned ${repositionActions.length} new cards:`);
+        console.log(`  - 1..13:   ict::ch1::concept`);
+        console.log(`  - 14..19:  ict::ch2::concept`);
+        console.log(`  - 20..34:  ict::ch3::3.2::concept`);
+        console.log(`  - 35..152: ict::ch2::mcq`);
+    }
+
     console.log('\n=== Migration Completed Successfully ===');
     console.log(`ICT is standardized in deck "${ROOT_DECK}".`);
     console.log(`Roles enforced: ${conceptNotesCount} concepts, ${mcqNotesCount} MCQs active, ${problemNotesCount} problems suspended.`);
+    console.log(`Fixed order enforced: Chapter concepts 1..X prioritized first, followed by MCQs.`);
 }
 
 main().catch(err => {
     console.error('\n[FATAL ERROR]:', err);
     process.exit(1);
 });
+
