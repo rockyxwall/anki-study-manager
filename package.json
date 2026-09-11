@@ -22,6 +22,10 @@
     "migrate-chem:dry": "node scripts/migrate-chemistry-deck.mjs --dry-run",
     "migrate-chem:exec": "node scripts/migrate-chemistry-deck.mjs --execute",
     "migrate-chem:restore": "node scripts/migrate-chemistry-deck.mjs --restore",
+    "migrate-lang:dry": "node scripts/migrate-language-deck.mjs --dry-run",
+    "migrate-lang:exec": "node scripts/migrate-language-deck.mjs --execute",
+    "migrate-lang:restore": "node scripts/migrate-language-deck.mjs --restore",
+    "audio:word": "node scripts/populate-word-audio.mjs",
     "clean-tags:dry": "node scripts/clean-tags.mjs --dry-run",
     "clean-tags:exec": "node scripts/clean-tags.mjs --execute"
   },

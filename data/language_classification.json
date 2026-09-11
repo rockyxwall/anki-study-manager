@@ -1,0 +1,776 @@
+[
+  {
+    "cardId": 1760014186692,
+    "noteId": 1760014186690,
+    "word": "Atom",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1760014425704,
+    "noteId": 1760014425699,
+    "word": "Molecule",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1762187126897,
+    "noteId": 1762187126897,
+    "word": "Internet Protocol (IP)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1762187126902,
+    "noteId": 1762187126902,
+    "word": "Programmable Logic Controller (PLC)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1762187126904,
+    "noteId": 1762187126904,
+    "word": "Information & Communication Technology (ICT)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1762187126906,
+    "noteId": 1762187126906,
+    "word": "Internet of Things (IoT)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1762187126910,
+    "noteId": 1762187126910,
+    "word": "Electronic Health Record (EHR)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1762187126911,
+    "noteId": 1762187126911,
+    "word": "Computerized Patient Record (CPR)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1762187126915,
+    "noteId": 1762187126915,
+    "word": "Artificial Intelligence (AI)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1762187126920,
+    "noteId": 1762187126918,
+    "word": "Unmanned Aerial Vehicle (UAV)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1762187126921,
+    "noteId": 1762187126919,
+    "word": "Global Positioning System (GPS)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1762187126938,
+    "noteId": 1762187126936,
+    "word": "Gross Domestic Product (GDP)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764424235507,
+    "noteId": 1764424235507,
+    "word": "poncho",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764425678019,
+    "noteId": 1764425678019,
+    "word": "rosary",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764426158409,
+    "noteId": 1764426158409,
+    "word": "gaudy",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764437227796,
+    "noteId": 1764437227795,
+    "word": "sight",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764437920775,
+    "noteId": 1764437920774,
+    "word": "folk",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764440124508,
+    "noteId": 1764440124507,
+    "word": "orally",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764440765049,
+    "noteId": 1764440765048,
+    "word": "illiterate",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764441003915,
+    "noteId": 1764441003915,
+    "word": "spontaneous",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764441695325,
+    "noteId": 1764441695324,
+    "word": "literally",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764442015289,
+    "noteId": 1764442015289,
+    "word": "emotive",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764442140105,
+    "noteId": 1764442140105,
+    "word": "riverine",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764481566592,
+    "noteId": 1764481566592,
+    "word": "pilgrimage",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1764522068768,
+    "noteId": 1764522068768,
+    "word": "sophisticated",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1765478440692,
+    "noteId": 1765478440691,
+    "word": "Transmission Control Protocol (TCP)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1765481544442,
+    "noteId": 1765481544442,
+    "word": "spelling",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1766339206505,
+    "noteId": 1766339206505,
+    "word": "creed",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1767593391088,
+    "noteId": 1767593391087,
+    "word": "goal",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1768412743425,
+    "noteId": 1768412743425,
+    "word": "order",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1768412804593,
+    "noteId": 1768412804593,
+    "word": "advise",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1768412836858,
+    "noteId": 1768412836858,
+    "word": "request",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1768413502315,
+    "noteId": 1768413502315,
+    "word": "exclaim",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1788974215853,
+    "noteId": 1788974215852,
+    "word": "maneuver",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1788974215855,
+    "noteId": 1788974215855,
+    "word": "seneschal",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1788974215858,
+    "noteId": 1788974215858,
+    "word": "callously",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1788974215860,
+    "noteId": 1788974215860,
+    "word": "augment",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1788974215863,
+    "noteId": 1788974215863,
+    "word": "sloth",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1788974215865,
+    "noteId": 1788974215865,
+    "word": "stifle",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1788974215868,
+    "noteId": 1788974215868,
+    "word": "insidious",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1788974215871,
+    "noteId": 1788974215871,
+    "word": "purveyor",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1788974215874,
+    "noteId": 1788974215874,
+    "word": "opulence",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1788974215876,
+    "noteId": 1788974215876,
+    "word": "opulent",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895572,
+    "noteId": 1760014186690,
+    "word": "Atom",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895573,
+    "noteId": 1760014425699,
+    "word": "Molecule",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895574,
+    "noteId": 1762187126897,
+    "word": "Internet Protocol (IP)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895575,
+    "noteId": 1762187126902,
+    "word": "Programmable Logic Controller (PLC)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895576,
+    "noteId": 1762187126904,
+    "word": "Information & Communication Technology (ICT)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895577,
+    "noteId": 1762187126906,
+    "word": "Internet of Things (IoT)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895578,
+    "noteId": 1762187126910,
+    "word": "Electronic Health Record (EHR)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895579,
+    "noteId": 1762187126911,
+    "word": "Computerized Patient Record (CPR)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895580,
+    "noteId": 1762187126915,
+    "word": "Artificial Intelligence (AI)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895581,
+    "noteId": 1762187126918,
+    "word": "Unmanned Aerial Vehicle (UAV)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895582,
+    "noteId": 1762187126919,
+    "word": "Global Positioning System (GPS)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895583,
+    "noteId": 1762187126936,
+    "word": "Gross Domestic Product (GDP)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895584,
+    "noteId": 1764424235507,
+    "word": "poncho",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895585,
+    "noteId": 1764425678019,
+    "word": "rosary",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895586,
+    "noteId": 1764426158409,
+    "word": "gaudy",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895587,
+    "noteId": 1764437227795,
+    "word": "sight",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895588,
+    "noteId": 1764437920774,
+    "word": "folk",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895589,
+    "noteId": 1764440124507,
+    "word": "orally",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895590,
+    "noteId": 1764440765048,
+    "word": "illiterate",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895591,
+    "noteId": 1764441003915,
+    "word": "spontaneous",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895592,
+    "noteId": 1764441695324,
+    "word": "literally",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895593,
+    "noteId": 1764442015289,
+    "word": "emotive",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895594,
+    "noteId": 1764442140105,
+    "word": "riverine",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895595,
+    "noteId": 1764481566592,
+    "word": "pilgrimage",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895596,
+    "noteId": 1764522068768,
+    "word": "sophisticated",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895597,
+    "noteId": 1765478440691,
+    "word": "Transmission Control Protocol (TCP)",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895598,
+    "noteId": 1765481544442,
+    "word": "spelling",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895599,
+    "noteId": 1766339206505,
+    "word": "creed",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895600,
+    "noteId": 1767593391087,
+    "word": "goal",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895601,
+    "noteId": 1768412743425,
+    "word": "order",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895602,
+    "noteId": 1768412804593,
+    "word": "advise",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895603,
+    "noteId": 1768412836858,
+    "word": "request",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895604,
+    "noteId": 1768413502315,
+    "word": "exclaim",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895605,
+    "noteId": 1788974215852,
+    "word": "maneuver",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895606,
+    "noteId": 1788974215855,
+    "word": "seneschal",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895607,
+    "noteId": 1788974215858,
+    "word": "callously",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895608,
+    "noteId": 1788974215860,
+    "word": "augment",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895609,
+    "noteId": 1788974215863,
+    "word": "sloth",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895610,
+    "noteId": 1788974215865,
+    "word": "stifle",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895611,
+    "noteId": 1788974215868,
+    "word": "insidious",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895612,
+    "noteId": 1788974215871,
+    "word": "purveyor",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895613,
+    "noteId": 1788974215874,
+    "word": "opulence",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789106895614,
+    "noteId": 1788974215876,
+    "word": "opulent",
+    "originalDeck": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+    "roleTag": "lang::eng::word::mining",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  }
+]

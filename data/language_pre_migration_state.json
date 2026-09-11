@@ -1,0 +1,956 @@
+{
+  "timestamp": "2026-09-11T06:08:49.899Z",
+  "cards": [
+    {
+      "cardId": 1760014186692,
+      "note": 1760014186690,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 149
+    },
+    {
+      "cardId": 1760014425704,
+      "note": 1760014425699,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 167
+    },
+    {
+      "cardId": 1762187126897,
+      "note": 1762187126897,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 152
+    },
+    {
+      "cardId": 1762187126902,
+      "note": 1762187126902,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1762187126904,
+      "note": 1762187126904,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1762187126906,
+      "note": 1762187126906,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 157
+    },
+    {
+      "cardId": 1762187126910,
+      "note": 1762187126910,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 173
+    },
+    {
+      "cardId": 1762187126911,
+      "note": 1762187126911,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1762187126915,
+      "note": 1762187126915,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1762187126920,
+      "note": 1762187126918,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1762187126921,
+      "note": 1762187126919,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1762187126938,
+      "note": 1762187126936,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 148
+    },
+    {
+      "cardId": 1764424235507,
+      "note": 1764424235507,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 170
+    },
+    {
+      "cardId": 1764425678019,
+      "note": 1764425678019,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 162
+    },
+    {
+      "cardId": 1764426158409,
+      "note": 1764426158409,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 161
+    },
+    {
+      "cardId": 1764437227796,
+      "note": 1764437227795,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 173
+    },
+    {
+      "cardId": 1764437920775,
+      "note": 1764437920774,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 171
+    },
+    {
+      "cardId": 1764440124508,
+      "note": 1764440124507,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 249
+    },
+    {
+      "cardId": 1764440765049,
+      "note": 1764440765048,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 166
+    },
+    {
+      "cardId": 1764441003915,
+      "note": 1764441003915,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 190
+    },
+    {
+      "cardId": 1764441695325,
+      "note": 1764441695324,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 180
+    },
+    {
+      "cardId": 1764442015289,
+      "note": 1764442015289,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 164
+    },
+    {
+      "cardId": 1764442140105,
+      "note": 1764442140105,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 178
+    },
+    {
+      "cardId": 1764481566592,
+      "note": 1764481566592,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 220
+    },
+    {
+      "cardId": 1764522068768,
+      "note": 1764522068768,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 209
+    },
+    {
+      "cardId": 1765478440692,
+      "note": 1765478440691,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1765481544442,
+      "note": 1765481544442,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 169
+    },
+    {
+      "cardId": 1766339206505,
+      "note": 1766339206505,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 148
+    },
+    {
+      "cardId": 1767593391088,
+      "note": 1767593391087,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1768412743425,
+      "note": 1768412743425,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 187
+    },
+    {
+      "cardId": 1768412804593,
+      "note": 1768412804593,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 148
+    },
+    {
+      "cardId": 1768412836858,
+      "note": 1768412836858,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 148
+    },
+    {
+      "cardId": 1768413502315,
+      "note": 1768413502315,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1788974215853,
+      "note": 1788974215852,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1854
+    },
+    {
+      "cardId": 1788974215855,
+      "note": 1788974215855,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1855
+    },
+    {
+      "cardId": 1788974215858,
+      "note": 1788974215858,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1856
+    },
+    {
+      "cardId": 1788974215860,
+      "note": 1788974215860,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1857
+    },
+    {
+      "cardId": 1788974215863,
+      "note": 1788974215863,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1858
+    },
+    {
+      "cardId": 1788974215865,
+      "note": 1788974215865,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1859
+    },
+    {
+      "cardId": 1788974215868,
+      "note": 1788974215868,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1860
+    },
+    {
+      "cardId": 1788974215871,
+      "note": 1788974215871,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1861
+    },
+    {
+      "cardId": 1788974215874,
+      "note": 1788974215874,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1862
+    },
+    {
+      "cardId": 1788974215876,
+      "note": 1788974215876,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1863
+    },
+    {
+      "cardId": 1789106895572,
+      "note": 1760014186690,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1865
+    },
+    {
+      "cardId": 1789106895573,
+      "note": 1760014425699,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1866
+    },
+    {
+      "cardId": 1789106895574,
+      "note": 1762187126897,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1867
+    },
+    {
+      "cardId": 1789106895575,
+      "note": 1762187126902,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1868
+    },
+    {
+      "cardId": 1789106895576,
+      "note": 1762187126904,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1869
+    },
+    {
+      "cardId": 1789106895577,
+      "note": 1762187126906,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1870
+    },
+    {
+      "cardId": 1789106895578,
+      "note": 1762187126910,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1871
+    },
+    {
+      "cardId": 1789106895579,
+      "note": 1762187126911,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1872
+    },
+    {
+      "cardId": 1789106895580,
+      "note": 1762187126915,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1873
+    },
+    {
+      "cardId": 1789106895581,
+      "note": 1762187126918,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1874
+    },
+    {
+      "cardId": 1789106895582,
+      "note": 1762187126919,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1875
+    },
+    {
+      "cardId": 1789106895583,
+      "note": 1762187126936,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1876
+    },
+    {
+      "cardId": 1789106895584,
+      "note": 1764424235507,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1877
+    },
+    {
+      "cardId": 1789106895585,
+      "note": 1764425678019,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1878
+    },
+    {
+      "cardId": 1789106895586,
+      "note": 1764426158409,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1879
+    },
+    {
+      "cardId": 1789106895587,
+      "note": 1764437227795,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1880
+    },
+    {
+      "cardId": 1789106895588,
+      "note": 1764437920774,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1881
+    },
+    {
+      "cardId": 1789106895589,
+      "note": 1764440124507,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1882
+    },
+    {
+      "cardId": 1789106895590,
+      "note": 1764440765048,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1883
+    },
+    {
+      "cardId": 1789106895591,
+      "note": 1764441003915,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1884
+    },
+    {
+      "cardId": 1789106895592,
+      "note": 1764441695324,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1885
+    },
+    {
+      "cardId": 1789106895593,
+      "note": 1764442015289,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1886
+    },
+    {
+      "cardId": 1789106895594,
+      "note": 1764442140105,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1887
+    },
+    {
+      "cardId": 1789106895595,
+      "note": 1764481566592,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1888
+    },
+    {
+      "cardId": 1789106895596,
+      "note": 1764522068768,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1889
+    },
+    {
+      "cardId": 1789106895597,
+      "note": 1765478440691,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1890
+    },
+    {
+      "cardId": 1789106895598,
+      "note": 1765481544442,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1891
+    },
+    {
+      "cardId": 1789106895599,
+      "note": 1766339206505,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1892
+    },
+    {
+      "cardId": 1789106895600,
+      "note": 1767593391087,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1893
+    },
+    {
+      "cardId": 1789106895601,
+      "note": 1768412743425,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1894
+    },
+    {
+      "cardId": 1789106895602,
+      "note": 1768412804593,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1895
+    },
+    {
+      "cardId": 1789106895603,
+      "note": 1768412836858,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1896
+    },
+    {
+      "cardId": 1789106895604,
+      "note": 1768413502315,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1897
+    },
+    {
+      "cardId": 1789106895605,
+      "note": 1788974215852,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1854
+    },
+    {
+      "cardId": 1789106895606,
+      "note": 1788974215855,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1855
+    },
+    {
+      "cardId": 1789106895607,
+      "note": 1788974215858,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1856
+    },
+    {
+      "cardId": 1789106895608,
+      "note": 1788974215860,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1857
+    },
+    {
+      "cardId": 1789106895609,
+      "note": 1788974215863,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1858
+    },
+    {
+      "cardId": 1789106895610,
+      "note": 1788974215865,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1859
+    },
+    {
+      "cardId": 1789106895611,
+      "note": 1788974215868,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1860
+    },
+    {
+      "cardId": 1789106895612,
+      "note": 1788974215871,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1861
+    },
+    {
+      "cardId": 1789106895613,
+      "note": 1788974215874,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1862
+    },
+    {
+      "cardId": 1789106895614,
+      "note": 1788974215876,
+      "deckName": "[🗣️] Language::[🔠] English::1.[🔠] Word Mining",
+      "queue": 0,
+      "due": 1863
+    }
+  ],
+  "notes": [
+    {
+      "noteId": 1760014186690,
+      "tags": [
+        "english::word-mining",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1760014425699,
+      "tags": [
+        "english::word-mining",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1762187126897,
+      "tags": [
+        "english::word-mining",
+        "ict::ch1",
+        "ict::ch2",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1762187126902,
+      "tags": [
+        "english::word-mining",
+        "ict::ch1",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1762187126904,
+      "tags": [
+        "english::word-mining",
+        "ict::ch1",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1762187126906,
+      "tags": [
+        "english::word-mining",
+        "ict::ch1",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1762187126910,
+      "tags": [
+        "english::word-mining",
+        "ict::ch1",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1762187126911,
+      "tags": [
+        "english::word-mining",
+        "ict::ch1",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1762187126915,
+      "tags": [
+        "english::word-mining",
+        "ict::ch1",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1762187126918,
+      "tags": [
+        "english::word-mining",
+        "ict::ch1",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1762187126919,
+      "tags": [
+        "english::word-mining",
+        "ict::ch1",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1762187126936,
+      "tags": [
+        "english::word-mining",
+        "ict::ch1",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1764424235507,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764425678019,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764426158409,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764437227795,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764437920774,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764440124507,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764440765048,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764441003915,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764441695324,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764442015289,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764442140105,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764481566592,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1764522068768,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1765478440691,
+      "tags": [
+        "english::word-mining",
+        "ict::ch1",
+        "ict::ch2",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1765481544442,
+      "tags": [
+        "english::word-mining",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1766339206505,
+      "tags": [
+        "english::word-mining",
+        "word-mining",
+        "yomitan"
+      ]
+    },
+    {
+      "noteId": 1767593391087,
+      "tags": [
+        "english::word-mining",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1768412743425,
+      "tags": [
+        "english::word-mining",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1768412804593,
+      "tags": [
+        "english::word-mining",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1768412836858,
+      "tags": [
+        "english::word-mining",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1768413502315,
+      "tags": [
+        "english::word-mining",
+        "spelling-fix",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1788974215852,
+      "tags": [
+        "english::word-mining",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1788974215855,
+      "tags": [
+        "english::word-mining",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1788974215858,
+      "tags": [
+        "english::word-mining",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1788974215860,
+      "tags": [
+        "english::word-mining",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1788974215863,
+      "tags": [
+        "english::word-mining",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1788974215865,
+      "tags": [
+        "english::word-mining",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1788974215868,
+      "tags": [
+        "english::word-mining",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1788974215871,
+      "tags": [
+        "english::word-mining",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1788974215874,
+      "tags": [
+        "english::word-mining",
+        "word-mining"
+      ]
+    },
+    {
+      "noteId": 1788974215876,
+      "tags": [
+        "english::word-mining",
+        "word-mining"
+      ]
+    }
+  ]
+}

@@ -22,7 +22,9 @@ Personal Anki study manager for HSC curriculum, flat tag-driven decks, and space
 - `npm run migrate-english:exec`: English flat deck migration, EFT themes, and narration rules.
 - `npm run migrate-physics:exec`: Physics flat deck migration, vector & mechanics taxonomy, CQ math suspension.
 - `npm run migrate-chem:exec`: Chemistry flat deck migration, periodic table memory pegs taxonomy, molarity problem suspension.
-- `npm run clean-tags:exec`: Strip non-canonical tags and AI-describer noise across all 6 academic decks while preserving exact canonical roles.
+- `npm run migrate-lang:exec`: Language flat deck migration, shortened vocabulary taxonomy (`lang::eng::word::*`), dual card setup.
+- `npm run audio:word`: Synthesize and attach US Male audio to vocabulary cards using Windows SAPI / System.Speech.
+- `npm run clean-tags:exec`: Strip non-canonical tags and noise across all academic & language decks while preserving exact canonical roles.
 
 ## Connection to MCP Server
 This repo works seamlessly with [`mcp-anki-connect`](https://github.com/rockyxwall/mcp-anki-connect). Both connect to the local Anki instance (`http://127.0.0.1:8765`). AI assistants (Antigravity/Claude) access Anki tools via the MCP server while operating on this workspace.

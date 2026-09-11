@@ -39,3 +39,4 @@ Following the HSC Board Question architecture:
 4. `mcq`: Objective board and admission test questions -> **ACTIVE**.
 5. `problem` (or `cq::problem`): CQ Mark 3/4 (গ/ঘ - প্রয়োগ ও উচ্চতর দক্ষতা): Multi-step quantitative math (solubility, titration, stoichiometry, Nernst, pH calculations) -> **SUSPENDED**.
 6. `peg`: Pre-Class 11 periodic table mnemonic memory pegs (`chemistry::basics::peg`) -> **34 reviewed cards ACTIVE; 556 unstudied cards SUSPENDED**.
+
