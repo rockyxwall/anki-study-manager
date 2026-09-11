@@ -27,7 +27,8 @@
     "migrate-lang:restore": "node scripts/migrate-language-deck.mjs --restore",
     "audio:word": "node scripts/populate-word-audio.mjs",
     "clean-tags:dry": "node scripts/clean-tags.mjs --dry-run",
-    "clean-tags:exec": "node scripts/clean-tags.mjs --execute"
+    "clean-tags:exec": "node scripts/clean-tags.mjs --execute",
+    "organize-types": "node scripts/organize-card-types.mjs"
   },
   "keywords": ["anki", "study", "hsc", "flashcards"],
   "license": "MIT"
