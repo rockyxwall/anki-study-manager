@@ -159,7 +159,7 @@ async function cleanDeck(deckQuery, tagResolver, defaultPrefix) {
         const canonical = tagResolver(note, defaultPrefix);
         const tags = note.tags;
 
-        const toRemove = tags.filter(t => t !== canonical);
+        const toRemove = tags.filter(t => t.toLowerCase() !== canonical.toLowerCase());
         if (toRemove.length > 0) {
             removals.push({
                 noteId: note.noteId,
@@ -168,7 +168,7 @@ async function cleanDeck(deckQuery, tagResolver, defaultPrefix) {
             });
         }
 
-        if (!tags.includes(canonical)) {
+        if (!tags.some(t => t.toLowerCase() === canonical.toLowerCase())) {
             additions.push({
                 noteId: note.noteId,
                 tag: canonical
@@ -189,17 +189,17 @@ async function main() {
 
     console.log('=== Cleaning Tags Across All 5 Academic Decks ===\n');
 
-    const ict = await cleanDeck('*ICT*', getCanonicalTag, 'ict');
-    const math = await cleanDeck('*Higher Math*', getCanonicalTag, 'math');
-    const bangla = await cleanDeck('*Bangla*', getCanonicalTag, 'bangla');
-    const english = await cleanDeck('*English*" -deck:"*Language*', getCanonicalTag, 'english');
-    const physics = await cleanDeck('*Physics*', getCanonicalTag, 'physics');
+    const ict = await cleanDeck('[🎓] Academic::2.[💻] ICT', getCanonicalTag, 'ict');
+    const math = await cleanDeck('[🎓] Academic::7.[📊] Higher Math', getCanonicalTag, 'math');
+    const bangla = await cleanDeck('[🎓] Academic::3.[📙] Bangla', getCanonicalTag, 'bangla');
+    const english = await cleanDeck('[🎓] Academic::4.[📕] English', getCanonicalTag, 'english');
+    const physics = await cleanDeck('[🎓] Academic::5.[⚡] Physics', getCanonicalTag, 'physics');
 
-    console.log(`[ICT]         Total Notes: ${ict.totalNotes.toString().padStart(3)} | Notes with tags to clean: ${ict.removals.length}`);
-    console.log(`[Higher Math] Total Notes: ${math.totalNotes.toString().padStart(3)} | Notes with tags to clean: ${math.removals.length}`);
-    console.log(`[Bangla]      Total Notes: ${bangla.totalNotes.toString().padStart(3)} | Notes with tags to clean: ${bangla.removals.length}`);
-    console.log(`[English]     Total Notes: ${english.totalNotes.toString().padStart(3)} | Notes with tags to clean: ${english.removals.length}`);
-    console.log(`[Physics]     Total Notes: ${physics.totalNotes.toString().padStart(3)} | Notes with tags to clean: ${physics.removals.length}`);
+    console.log(`[ICT]         Total Notes: ${ict.totalNotes.toString().padStart(3)} | Notes to strip: ${ict.removals.length.toString().padStart(3)} | Canonical tags to add: ${ict.additions.length.toString().padStart(3)}`);
+    console.log(`[Higher Math] Total Notes: ${math.totalNotes.toString().padStart(3)} | Notes to strip: ${math.removals.length.toString().padStart(3)} | Canonical tags to add: ${math.additions.length.toString().padStart(3)}`);
+    console.log(`[Bangla]      Total Notes: ${bangla.totalNotes.toString().padStart(3)} | Notes to strip: ${bangla.removals.length.toString().padStart(3)} | Canonical tags to add: ${bangla.additions.length.toString().padStart(3)}`);
+    console.log(`[English]     Total Notes: ${english.totalNotes.toString().padStart(3)} | Notes to strip: ${english.removals.length.toString().padStart(3)} | Canonical tags to add: ${english.additions.length.toString().padStart(3)}`);
+    console.log(`[Physics]     Total Notes: ${physics.totalNotes.toString().padStart(3)} | Notes to strip: ${physics.removals.length.toString().padStart(3)} | Canonical tags to add: ${physics.additions.length.toString().padStart(3)}`);
 
     if (isDryRun) {
         console.log('\n[DRY RUN COMPLETE] No changes made to Anki. Run with --execute to apply.');
@@ -214,19 +214,7 @@ async function main() {
         notes: allNotes.map(n => ({ noteId: n.noteId, tags: n.tags }))
     }, null, 2), 'utf8');
 
-    // Apply additions first (ensure canonical tag exists)
-    const allAdditions = [...ict.additions, ...math.additions, ...bangla.additions, ...english.additions, ...physics.additions];
-    const addGroups = {};
-    for (const a of allAdditions) {
-        addGroups[a.tag] = addGroups[a.tag] || [];
-        addGroups[a.tag].push(a.noteId);
-    }
-    for (const [tag, nids] of Object.entries(addGroups)) {
-        await callAnki('addTags', { notes: nids, tags: tag });
-        console.log(`Added canonical tag "${tag}" to ${nids.length} notes`);
-    }
-
-    // Apply removals
+    // 1. Apply removals first (strip non-canonical tags)
     const allRemovals = [...ict.removals, ...math.removals, ...bangla.removals, ...english.removals, ...physics.removals];
     const removeTagMap = {};
     for (const r of allRemovals) {
@@ -236,9 +224,38 @@ async function main() {
         }
     }
 
-    console.log(`\nStripping ${Object.keys(removeTagMap).length} unique non-canonical tags...`);
-    for (const [tag, nids] of Object.entries(removeTagMap)) {
-        await callAnki('removeTags', { notes: nids, tags: tag });
+    if (Object.keys(removeTagMap).length > 0) {
+        console.log(`\nStripping ${Object.keys(removeTagMap).length} unique non-canonical tags...`);
+        for (const [tag, nids] of Object.entries(removeTagMap)) {
+            await callAnki('removeTags', { notes: nids, tags: tag });
+        }
+    } else {
+        console.log('\nNo non-canonical tags to strip.');
+    }
+
+    // 2. Apply additions second (ensure canonical tag exists)
+    const allAdditions = [...ict.additions, ...math.additions, ...bangla.additions, ...english.additions, ...physics.additions];
+    const addGroups = {};
+    for (const a of allAdditions) {
+        addGroups[a.tag] = addGroups[a.tag] || [];
+        addGroups[a.tag].push(a.noteId);
+    }
+    if (allAdditions.length > 0) {
+        console.log(`\nApplying canonical tags to ${allAdditions.length} notes...`);
+        for (const [tag, nids] of Object.entries(addGroups)) {
+            await callAnki('addTags', { notes: nids, tags: tag });
+            console.log(`Added canonical tag "${tag}" to ${nids.length} notes`);
+        }
+    } else {
+        console.log('\nAll notes already possess canonical tags.');
+    }
+
+    console.log('\nPurging unused tags from Anki database cache...');
+    try {
+        await callAnki('clearUnusedTags');
+        console.log('Unused tags successfully purged.');
+    } catch (err) {
+        console.warn('Warning: clearUnusedTags failed or not supported:', err.message);
     }
 
     console.log('\n=== Tag Cleanup Completed Successfully ===');

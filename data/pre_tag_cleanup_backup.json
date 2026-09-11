@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T05:22:14.362Z",
+  "timestamp": "2026-09-11T05:32:36.258Z",
   "notes": [
     {
       "noteId": 1762187126917,
@@ -1185,267 +1185,179 @@
     },
     {
       "noteId": 1764133352069,
-      "tags": [
-        "Bangla::p1::kavita::meghnad::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1764595083081,
-      "tags": [
-        "Bangla::p1::gaddya::bilashi::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1764609940957,
-      "tags": [
-        "Bangla::p1::gaddya::bilashi::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1764610040088,
-      "tags": [
-        "Bangla::p1::gaddya::bilashi::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1764610205282,
-      "tags": [
-        "Bangla::p1::gaddya::bilashi::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1764610407184,
-      "tags": [
-        "Bangla::p1::gaddya::bilashi::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1764610468665,
-      "tags": [
-        "Bangla::p1::gaddya::bilashi::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768458183267,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768458219568,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768458280878,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768458348168,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768458514884,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768458576229,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768458622576,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768458681615,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768458825654,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768458907691,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768458959276,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768459038718,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768459130132,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768459197884,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768818798494,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::k"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768819034131,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::k"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768819194392,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::k"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768819552467,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::k"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768819813694,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::k"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768819948202,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::k"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768820258891,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768820472534,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768820887976,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768821331115,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768821480496,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768829743404,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768829784284,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768829851879,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768829900481,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768829945393,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768829998170,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768830035739,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768830084292,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768830144325,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1768830393844,
-      "tags": [
-        "Bangla::p1::sahapath::lalsalu::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1776867511828,
-      "tags": [
-        "Bangla::p1::gaddya::masi-pisi::mcq"
-      ]
+      "tags": []
     },
     {
       "noteId": 1776867623769,
-      "tags": [
-        "Bangla::p1::gaddya::masi-pisi::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1764163231641,
@@ -1509,453 +1421,303 @@
     },
     {
       "noteId": 1759671792732,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759672134481,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759750612323,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759751956683,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759756399364,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759756774945,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759818081792,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759818205125,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759818263188,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759818312302,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759818370110,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759818402952,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759818469402,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759818559731,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759818592692,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1759818657602,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1760106670627,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1760370265326,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1760371259554,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1760371800920,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1760413714557,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1762701184105,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1762701433401,
-      "tags": [
-        "Physics::p1::ch2::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479493665,
-      "tags": [
-        "Physics::p1::ch4::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479519437,
-      "tags": [
-        "Physics::p1::ch4::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479559246,
-      "tags": [
-        "Physics::p1::ch4::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479594564,
-      "tags": [
-        "Physics::p1::ch4::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479632476,
-      "tags": [
-        "Physics::p1::ch4::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479668495,
-      "tags": [
-        "Physics::p1::ch4::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479734872,
-      "tags": [
-        "Physics::p1::ch4::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479810281,
-      "tags": [
-        "Physics::p1::ch4::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479852284,
-      "tags": [
-        "Physics::p1::ch4::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479880015,
-      "tags": [
-        "Physics::p1::ch4::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479920027,
-      "tags": [
-        "Physics::p1::ch4::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782479975165,
-      "tags": [
-        "Physics::p1::ch4::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782480002333,
-      "tags": [
-        "Physics::p1::ch4::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782480031060,
-      "tags": [
-        "Physics::p1::ch4::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782480060222,
-      "tags": [
-        "Physics::p1::ch4::cq::kh"
-      ]
+      "tags": []
     },
     {
       "noteId": 1782480083605,
-      "tags": [
-        "Physics::p1::ch4::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783772436081,
-      "tags": [
-        "Physics::p1::ch3::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783772476371,
-      "tags": [
-        "Physics::p1::ch3::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783772581348,
-      "tags": [
-        "Physics::p1::ch3::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783772632373,
-      "tags": [
-        "Physics::p1::ch3::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783772662529,
-      "tags": [
-        "Physics::p1::ch3::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783772736650,
-      "tags": [
-        "Physics::p1::ch3::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783772820848,
-      "tags": [
-        "Physics::p1::ch3::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783772860404,
-      "tags": [
-        "Physics::p1::ch3::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783772886275,
-      "tags": [
-        "Physics::p1::ch3::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783772951104,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783772980906,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773001744,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773045602,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773077672,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773133617,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773174849,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773209337,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773247446,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773283313,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773312489,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773331336,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773374434,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773394929,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773433240,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773462433,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773496649,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773681784,
-      "tags": [
-        "Physics::p1::ch3::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773717147,
-      "tags": [
-        "Physics::p1::ch3::concept"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773753016,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783773880059,
-      "tags": [
-        "Physics::p1::ch3::cq::problem"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783866336442,
-      "tags": [
-        "Physics::p1::ch1::mcq"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783866378049,
-      "tags": [
-        "Physics::p1::ch2::mcq"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783866618695,
-      "tags": [
-        "Physics::p1::ch1::mcq"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783866657739,
-      "tags": [
-        "Physics::p2::ch2::mcq"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783866690587,
-      "tags": [
-        "Physics::p2::ch2::mcq"
-      ]
+      "tags": []
     },
     {
       "noteId": 1783866717407,
-      "tags": [
-        "Physics::p1::ch2::mcq"
-      ]
+      "tags": []
     }
   ]
 }
