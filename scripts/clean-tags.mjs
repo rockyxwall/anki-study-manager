@@ -108,13 +108,14 @@ for (const [nid, tag] of Object.entries(CURRICULUM_REALIGNMENTS)) {
     groundTruthTags.set(parseInt(nid, 10), tag);
 }
 
-// 2. Load manifest ground truth from all 5 subjects if manifests exist
+// 2. Load manifest ground truth from all 6 subjects if manifests exist
 const MANIFEST_FILES = [
     'data/math_classification.json',
     'data/ict_classification.json',
     'data/bangla_classification.json',
     'data/english_classification.json',
-    'data/physics_classification.json'
+    'data/physics_classification.json',
+    'data/chemistry_classification.json'
 ];
 
 for (const mf of MANIFEST_FILES) {
@@ -138,8 +139,8 @@ function getCanonicalTag(note, defaultPrefix = '') {
         return groundTruthTags.get(note.noteId);
     }
     const tags = note.tags || [];
-    // Search for any existing structured tag: e.g. physics::*, bangla::*, english::*, math::*, ict::*
-    const match = tags.find(t => t.startsWith(defaultPrefix) && (t.endsWith('::concept') || t.endsWith('::mcq') || t.endsWith('::problem') || t.includes('::cq::')));
+    // Search for any existing structured tag: e.g. physics::*, bangla::*, english::*, math::*, ict::*, chemistry::*
+    const match = tags.find(t => t.startsWith(defaultPrefix) && (t.endsWith('::concept') || t.endsWith('::mcq') || t.endsWith('::problem') || t.endsWith('::peg') || t.includes('::cq::')));
     if (match) return match;
     return `${defaultPrefix}::concept`;
 }
@@ -187,19 +188,21 @@ async function main() {
         return;
     }
 
-    console.log('=== Cleaning Tags Across All 5 Academic Decks ===\n');
+    console.log('=== Cleaning Tags Across All 6 Academic Decks ===\n');
 
     const ict = await cleanDeck('[🎓] Academic::2.[💻] ICT', getCanonicalTag, 'ict');
     const math = await cleanDeck('[🎓] Academic::7.[📊] Higher Math', getCanonicalTag, 'math');
     const bangla = await cleanDeck('[🎓] Academic::3.[📙] Bangla', getCanonicalTag, 'bangla');
     const english = await cleanDeck('[🎓] Academic::4.[📕] English', getCanonicalTag, 'english');
     const physics = await cleanDeck('[🎓] Academic::5.[⚡] Physics', getCanonicalTag, 'physics');
+    const chemistry = await cleanDeck('[🎓] Academic::6.[🧪] Chemistry', getCanonicalTag, 'chemistry');
 
     console.log(`[ICT]         Total Notes: ${ict.totalNotes.toString().padStart(3)} | Notes to strip: ${ict.removals.length.toString().padStart(3)} | Canonical tags to add: ${ict.additions.length.toString().padStart(3)}`);
     console.log(`[Higher Math] Total Notes: ${math.totalNotes.toString().padStart(3)} | Notes to strip: ${math.removals.length.toString().padStart(3)} | Canonical tags to add: ${math.additions.length.toString().padStart(3)}`);
     console.log(`[Bangla]      Total Notes: ${bangla.totalNotes.toString().padStart(3)} | Notes to strip: ${bangla.removals.length.toString().padStart(3)} | Canonical tags to add: ${bangla.additions.length.toString().padStart(3)}`);
     console.log(`[English]     Total Notes: ${english.totalNotes.toString().padStart(3)} | Notes to strip: ${english.removals.length.toString().padStart(3)} | Canonical tags to add: ${english.additions.length.toString().padStart(3)}`);
     console.log(`[Physics]     Total Notes: ${physics.totalNotes.toString().padStart(3)} | Notes to strip: ${physics.removals.length.toString().padStart(3)} | Canonical tags to add: ${physics.additions.length.toString().padStart(3)}`);
+    console.log(`[Chemistry]   Total Notes: ${chemistry.totalNotes.toString().padStart(3)} | Notes to strip: ${chemistry.removals.length.toString().padStart(3)} | Canonical tags to add: ${chemistry.additions.length.toString().padStart(3)}`);
 
     if (isDryRun) {
         console.log('\n[DRY RUN COMPLETE] No changes made to Anki. Run with --execute to apply.');
@@ -208,14 +211,14 @@ async function main() {
 
     // Save backup before cleaning
     console.log(`\nSaving safety backup to ${BACKUP_PATH}...`);
-    const allNotes = [...ict.notes, ...math.notes, ...bangla.notes, ...english.notes, ...physics.notes];
+    const allNotes = [...ict.notes, ...math.notes, ...bangla.notes, ...english.notes, ...physics.notes, ...chemistry.notes];
     fs.writeFileSync(BACKUP_PATH, JSON.stringify({
         timestamp: new Date().toISOString(),
         notes: allNotes.map(n => ({ noteId: n.noteId, tags: n.tags }))
     }, null, 2), 'utf8');
 
     // 1. Apply removals first (strip non-canonical tags)
-    const allRemovals = [...ict.removals, ...math.removals, ...bangla.removals, ...english.removals, ...physics.removals];
+    const allRemovals = [...ict.removals, ...math.removals, ...bangla.removals, ...english.removals, ...physics.removals, ...chemistry.removals];
     const removeTagMap = {};
     for (const r of allRemovals) {
         for (const t of r.remove) {
@@ -234,7 +237,7 @@ async function main() {
     }
 
     // 2. Apply additions second (ensure canonical tag exists)
-    const allAdditions = [...ict.additions, ...math.additions, ...bangla.additions, ...english.additions, ...physics.additions];
+    const allAdditions = [...ict.additions, ...math.additions, ...bangla.additions, ...english.additions, ...physics.additions, ...chemistry.additions];
     const addGroups = {};
     for (const a of allAdditions) {
         addGroups[a.tag] = addGroups[a.tag] || [];

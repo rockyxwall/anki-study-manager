@@ -13,6 +13,7 @@ Personal Anki study manager for HSC curriculum, flat tag-driven decks, and space
   - Physics NCTB curriculum: [`docs/hsc-physics-curriculum.md`](./docs/hsc-physics-curriculum.md)
   - Bangla NCTB curriculum: [`docs/hsc-bangla-curriculum.md`](./docs/hsc-bangla-curriculum.md)
   - English NCTB curriculum: [`docs/hsc-english-curriculum.md`](./docs/hsc-english-curriculum.md)
+  - Chemistry NCTB curriculum: [`docs/hsc-chemistry-curriculum.md`](./docs/hsc-chemistry-curriculum.md)
 
 ## Workflows & Scripts
 - `npm run migrate-math:exec`: Higher Math flat deck migration and curriculum queue sequencing.
@@ -20,7 +21,8 @@ Personal Anki study manager for HSC curriculum, flat tag-driven decks, and space
 - `npm run migrate-bangla:exec`: Bangla flat deck migration, CQ ক/খ taxonomy, and queue sequencing.
 - `npm run migrate-english:exec`: English flat deck migration, EFT themes, and narration rules.
 - `npm run migrate-physics:exec`: Physics flat deck migration, vector & mechanics taxonomy, CQ math suspension.
-- `npm run clean-tags:exec`: Strip non-canonical tags and AI-describer noise across all 5 decks while preserving exact canonical roles.
+- `npm run migrate-chem:exec`: Chemistry flat deck migration, periodic table memory pegs taxonomy, molarity problem suspension.
+- `npm run clean-tags:exec`: Strip non-canonical tags and AI-describer noise across all 6 academic decks while preserving exact canonical roles.
 
 ## Connection to MCP Server
 This repo works seamlessly with [`mcp-anki-connect`](https://github.com/rockyxwall/mcp-anki-connect). Both connect to the local Anki instance (`http://127.0.0.1:8765`). AI assistants (Antigravity/Claude) access Anki tools via the MCP server while operating on this workspace.

@@ -19,6 +19,9 @@
     "migrate-physics:dry": "node scripts/migrate-physics-deck.mjs --dry-run",
     "migrate-physics:exec": "node scripts/migrate-physics-deck.mjs --execute",
     "migrate-physics:restore": "node scripts/migrate-physics-deck.mjs --restore",
+    "migrate-chem:dry": "node scripts/migrate-chemistry-deck.mjs --dry-run",
+    "migrate-chem:exec": "node scripts/migrate-chemistry-deck.mjs --execute",
+    "migrate-chem:restore": "node scripts/migrate-chemistry-deck.mjs --restore",
     "clean-tags:dry": "node scripts/clean-tags.mjs --dry-run",
     "clean-tags:exec": "node scripts/clean-tags.mjs --execute"
   },

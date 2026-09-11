@@ -198,6 +198,32 @@ ict
   - Suspends problems, keeps concepts active.
   - Enforces flat root deck `[🎓] Academic::2.[💻] ICT`.
   - Flags: `--dry-run`, `--execute`, `--restore`.
+- **`scripts/migrate-bangla-deck.mjs`**:
+  - Audits Bangla 1st & 2nd paper cards (Kavita, Gaddya, Sahapath - Lalsalu).
+  - Classifies into `bangla::...::concept`, `::cq::k`, `::cq::kh`, `::mcq`, `::problem`.
+  - Enforces flat root deck `[🎓] Academic::3.[📙] Bangla`.
+  - Flags: `--dry-run`, `--execute`, `--restore`.
+- **`scripts/migrate-english-deck.mjs`**:
+  - Audits English 1st & 2nd paper cards (Theme analysis, Narration, Right Forms of Verbs).
+  - Classifies into `english::p1::theme::concept`, `english::p2::grammar::narration::concept`, `english::p2::grammar::rfov::problem`.
+  - Enforces flat root deck `[🎓] Academic::4.[📕] English`.
+  - Flags: `--dry-run`, `--execute`, `--restore`.
+- **`scripts/migrate-physics-deck.mjs`**:
+  - Audits Physics 1st & 2nd paper cards across NCTB curriculum (Vector, Dynamics, Work/Energy, Gravity, Periodic Motion).
+  - Classifies into `physics::pX::chY::concept`, `::cq::kh`, `::cq::problem`, `::mcq`.
+  - Enforces flat root deck `[🎓] Academic::5.[⚡] Physics`.
+  - Flags: `--dry-run`, `--execute`, `--restore`.
+- **`scripts/migrate-chemistry-deck.mjs`**:
+  - Audits Chemistry 1st & 2nd paper cards and Periodic Table memory pegs.
+  - Classifies 118 element notes into pre-11 foundations `chemistry::basics::peg` (34 reviewed cards active, 556 unstudied cards suspended).
+  - Classifies academic cards into `chemistry::p1::ch2::concept`, `::cq::kh`, `chemistry::p1::ch4::concept`, `chemistry::p2::ch3::problem`.
+  - Enforces flat root deck `[🎓] Academic::6.[🧪] Chemistry`.
+  - Flags: `--dry-run`, `--execute`, `--restore`.
+- **`scripts/clean-tags.mjs`**:
+  - Universal tag cleaner across all 6 academic decks.
+  - Enforces 100% single canonical hierarchical tag per note.
+  - Strips loose AI-describer tags and purges unused tags from Anki cache.
+  - Flags: `--dry-run`, `--execute`.
 - **`scripts/describe-io-cards.mjs`**:
   - Batch-describes Image Occlusion flashcards with Gemini Vision API.
   - Extracts title, formulas, and topic tags automatically.

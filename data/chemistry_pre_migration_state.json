@@ -1,0 +1,5115 @@
+{
+  "timestamp": "2026-09-11T05:48:28.653Z",
+  "cards": [
+    {
+      "cardId": 1748108305996,
+      "note": 1748108305995,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 149
+    },
+    {
+      "cardId": 1748108305997,
+      "note": 1748108305995,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108305998,
+      "note": 1748108305995,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108305999,
+      "note": 1748108305995,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306000,
+      "note": 1748108305995,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306002,
+      "note": 1748108306001,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 199
+    },
+    {
+      "cardId": 1748108306003,
+      "note": 1748108306001,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306004,
+      "note": 1748108306001,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306005,
+      "note": 1748108306001,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306006,
+      "note": 1748108306001,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306008,
+      "note": 1748108306007,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 154
+    },
+    {
+      "cardId": 1748108306009,
+      "note": 1748108306007,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306010,
+      "note": 1748108306007,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306011,
+      "note": 1748108306007,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306012,
+      "note": 1748108306007,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306014,
+      "note": 1748108306013,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 153
+    },
+    {
+      "cardId": 1748108306015,
+      "note": 1748108306013,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306016,
+      "note": 1748108306013,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306017,
+      "note": 1748108306013,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306018,
+      "note": 1748108306013,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306020,
+      "note": 1748108306019,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 150
+    },
+    {
+      "cardId": 1748108306021,
+      "note": 1748108306019,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306022,
+      "note": 1748108306019,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306023,
+      "note": 1748108306019,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306024,
+      "note": 1748108306019,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306026,
+      "note": 1748108306025,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 175
+    },
+    {
+      "cardId": 1748108306027,
+      "note": 1748108306025,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306028,
+      "note": 1748108306025,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306029,
+      "note": 1748108306025,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306030,
+      "note": 1748108306025,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306032,
+      "note": 1748108306031,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 158
+    },
+    {
+      "cardId": 1748108306033,
+      "note": 1748108306031,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306034,
+      "note": 1748108306031,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306035,
+      "note": 1748108306031,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306036,
+      "note": 1748108306031,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306038,
+      "note": 1748108306037,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 324
+    },
+    {
+      "cardId": 1748108306039,
+      "note": 1748108306037,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306040,
+      "note": 1748108306037,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306041,
+      "note": 1748108306037,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306042,
+      "note": 1748108306037,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306044,
+      "note": 1748108306043,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 189
+    },
+    {
+      "cardId": 1748108306045,
+      "note": 1748108306043,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306046,
+      "note": 1748108306043,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306047,
+      "note": 1748108306043,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306048,
+      "note": 1748108306043,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306050,
+      "note": 1748108306049,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 152
+    },
+    {
+      "cardId": 1748108306051,
+      "note": 1748108306049,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306052,
+      "note": 1748108306049,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306053,
+      "note": 1748108306049,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306054,
+      "note": 1748108306049,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306056,
+      "note": 1748108306055,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 192
+    },
+    {
+      "cardId": 1748108306057,
+      "note": 1748108306055,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306058,
+      "note": 1748108306055,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306059,
+      "note": 1748108306055,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306060,
+      "note": 1748108306055,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306062,
+      "note": 1748108306061,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 168
+    },
+    {
+      "cardId": 1748108306063,
+      "note": 1748108306061,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306064,
+      "note": 1748108306061,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306065,
+      "note": 1748108306061,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306066,
+      "note": 1748108306061,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306068,
+      "note": 1748108306067,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 150
+    },
+    {
+      "cardId": 1748108306069,
+      "note": 1748108306067,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306070,
+      "note": 1748108306067,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306071,
+      "note": 1748108306067,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306072,
+      "note": 1748108306067,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306074,
+      "note": 1748108306073,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 188
+    },
+    {
+      "cardId": 1748108306075,
+      "note": 1748108306073,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306076,
+      "note": 1748108306073,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306077,
+      "note": 1748108306073,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306078,
+      "note": 1748108306073,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306080,
+      "note": 1748108306079,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 149
+    },
+    {
+      "cardId": 1748108306081,
+      "note": 1748108306079,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306082,
+      "note": 1748108306079,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306083,
+      "note": 1748108306079,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306084,
+      "note": 1748108306079,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306086,
+      "note": 1748108306085,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 172
+    },
+    {
+      "cardId": 1748108306087,
+      "note": 1748108306085,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306088,
+      "note": 1748108306085,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306089,
+      "note": 1748108306085,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306090,
+      "note": 1748108306085,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306092,
+      "note": 1748108306091,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 202
+    },
+    {
+      "cardId": 1748108306093,
+      "note": 1748108306091,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306094,
+      "note": 1748108306091,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306095,
+      "note": 1748108306091,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306096,
+      "note": 1748108306091,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306098,
+      "note": 1748108306097,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 191
+    },
+    {
+      "cardId": 1748108306099,
+      "note": 1748108306097,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306100,
+      "note": 1748108306097,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306101,
+      "note": 1748108306097,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306102,
+      "note": 1748108306097,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306104,
+      "note": 1748108306103,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 149
+    },
+    {
+      "cardId": 1748108306105,
+      "note": 1748108306103,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306106,
+      "note": 1748108306103,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306107,
+      "note": 1748108306103,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306108,
+      "note": 1748108306103,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306110,
+      "note": 1748108306109,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 190
+    },
+    {
+      "cardId": 1748108306111,
+      "note": 1748108306109,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306112,
+      "note": 1748108306109,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306113,
+      "note": 1748108306109,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306114,
+      "note": 1748108306109,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306116,
+      "note": 1748108306115,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1748108306117,
+      "note": 1748108306115,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306118,
+      "note": 1748108306115,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306119,
+      "note": 1748108306115,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306120,
+      "note": 1748108306115,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306122,
+      "note": 1748108306121,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 149
+    },
+    {
+      "cardId": 1748108306123,
+      "note": 1748108306121,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306124,
+      "note": 1748108306121,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306125,
+      "note": 1748108306121,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306126,
+      "note": 1748108306121,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306128,
+      "note": 1748108306127,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 152
+    },
+    {
+      "cardId": 1748108306129,
+      "note": 1748108306127,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306130,
+      "note": 1748108306127,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306131,
+      "note": 1748108306127,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306132,
+      "note": 1748108306127,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306134,
+      "note": 1748108306133,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 149
+    },
+    {
+      "cardId": 1748108306135,
+      "note": 1748108306133,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306136,
+      "note": 1748108306133,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306137,
+      "note": 1748108306133,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306138,
+      "note": 1748108306133,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306140,
+      "note": 1748108306139,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 152
+    },
+    {
+      "cardId": 1748108306141,
+      "note": 1748108306139,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306142,
+      "note": 1748108306139,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306143,
+      "note": 1748108306139,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306144,
+      "note": 1748108306139,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306146,
+      "note": 1748108306145,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 176
+    },
+    {
+      "cardId": 1748108306147,
+      "note": 1748108306145,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306148,
+      "note": 1748108306145,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306149,
+      "note": 1748108306145,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306150,
+      "note": 1748108306145,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306152,
+      "note": 1748108306151,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 163
+    },
+    {
+      "cardId": 1748108306153,
+      "note": 1748108306151,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306154,
+      "note": 1748108306151,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306155,
+      "note": 1748108306151,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306156,
+      "note": 1748108306151,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306158,
+      "note": 1748108306157,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 151
+    },
+    {
+      "cardId": 1748108306159,
+      "note": 1748108306157,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306160,
+      "note": 1748108306157,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306161,
+      "note": 1748108306157,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306162,
+      "note": 1748108306157,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306164,
+      "note": 1748108306163,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1748108306165,
+      "note": 1748108306163,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306166,
+      "note": 1748108306163,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306167,
+      "note": 1748108306163,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306168,
+      "note": 1748108306163,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306170,
+      "note": 1748108306169,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 171
+    },
+    {
+      "cardId": 1748108306171,
+      "note": 1748108306169,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306172,
+      "note": 1748108306169,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306173,
+      "note": 1748108306169,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306174,
+      "note": 1748108306169,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306176,
+      "note": 1748108306175,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1748108306177,
+      "note": 1748108306175,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306178,
+      "note": 1748108306175,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306179,
+      "note": 1748108306175,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306180,
+      "note": 1748108306175,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306182,
+      "note": 1748108306181,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 149
+    },
+    {
+      "cardId": 1748108306183,
+      "note": 1748108306181,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306184,
+      "note": 1748108306181,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306185,
+      "note": 1748108306181,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306186,
+      "note": 1748108306181,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306188,
+      "note": 1748108306187,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 153
+    },
+    {
+      "cardId": 1748108306189,
+      "note": 1748108306187,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306190,
+      "note": 1748108306187,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306191,
+      "note": 1748108306187,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306192,
+      "note": 1748108306187,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306194,
+      "note": 1748108306193,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1748108306195,
+      "note": 1748108306193,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306196,
+      "note": 1748108306193,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306197,
+      "note": 1748108306193,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306198,
+      "note": 1748108306193,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306200,
+      "note": 1748108306199,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306201,
+      "note": 1748108306199,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306202,
+      "note": 1748108306199,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306203,
+      "note": 1748108306199,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306204,
+      "note": 1748108306199,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306206,
+      "note": 1748108306205,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306207,
+      "note": 1748108306205,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306208,
+      "note": 1748108306205,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306209,
+      "note": 1748108306205,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306210,
+      "note": 1748108306205,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306212,
+      "note": 1748108306211,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306213,
+      "note": 1748108306211,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306214,
+      "note": 1748108306211,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306215,
+      "note": 1748108306211,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306216,
+      "note": 1748108306211,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306218,
+      "note": 1748108306217,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306219,
+      "note": 1748108306217,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306220,
+      "note": 1748108306217,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306221,
+      "note": 1748108306217,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306222,
+      "note": 1748108306217,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306224,
+      "note": 1748108306223,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306225,
+      "note": 1748108306223,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306226,
+      "note": 1748108306223,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306227,
+      "note": 1748108306223,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306228,
+      "note": 1748108306223,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306230,
+      "note": 1748108306229,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306231,
+      "note": 1748108306229,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306232,
+      "note": 1748108306229,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306233,
+      "note": 1748108306229,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306234,
+      "note": 1748108306229,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306236,
+      "note": 1748108306235,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306237,
+      "note": 1748108306235,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306238,
+      "note": 1748108306235,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306239,
+      "note": 1748108306235,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306240,
+      "note": 1748108306235,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306242,
+      "note": 1748108306241,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306243,
+      "note": 1748108306241,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306244,
+      "note": 1748108306241,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306245,
+      "note": 1748108306241,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306246,
+      "note": 1748108306241,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306248,
+      "note": 1748108306247,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306249,
+      "note": 1748108306247,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306250,
+      "note": 1748108306247,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306251,
+      "note": 1748108306247,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306252,
+      "note": 1748108306247,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306254,
+      "note": 1748108306253,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306255,
+      "note": 1748108306253,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306256,
+      "note": 1748108306253,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306257,
+      "note": 1748108306253,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306258,
+      "note": 1748108306253,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306260,
+      "note": 1748108306259,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306261,
+      "note": 1748108306259,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306262,
+      "note": 1748108306259,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306263,
+      "note": 1748108306259,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306264,
+      "note": 1748108306259,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306266,
+      "note": 1748108306265,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306267,
+      "note": 1748108306265,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306268,
+      "note": 1748108306265,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306269,
+      "note": 1748108306265,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306270,
+      "note": 1748108306265,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306272,
+      "note": 1748108306271,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306273,
+      "note": 1748108306271,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306274,
+      "note": 1748108306271,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306275,
+      "note": 1748108306271,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306276,
+      "note": 1748108306271,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306278,
+      "note": 1748108306277,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306279,
+      "note": 1748108306277,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306280,
+      "note": 1748108306277,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306281,
+      "note": 1748108306277,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306282,
+      "note": 1748108306277,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306284,
+      "note": 1748108306283,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306285,
+      "note": 1748108306283,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306286,
+      "note": 1748108306283,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306287,
+      "note": 1748108306283,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306288,
+      "note": 1748108306283,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306290,
+      "note": 1748108306289,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306291,
+      "note": 1748108306289,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306292,
+      "note": 1748108306289,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306293,
+      "note": 1748108306289,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306294,
+      "note": 1748108306289,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306296,
+      "note": 1748108306295,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306297,
+      "note": 1748108306295,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306298,
+      "note": 1748108306295,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306299,
+      "note": 1748108306295,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306300,
+      "note": 1748108306295,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306302,
+      "note": 1748108306301,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306303,
+      "note": 1748108306301,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306304,
+      "note": 1748108306301,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306305,
+      "note": 1748108306301,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306306,
+      "note": 1748108306301,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306308,
+      "note": 1748108306307,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306309,
+      "note": 1748108306307,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306310,
+      "note": 1748108306307,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306311,
+      "note": 1748108306307,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306312,
+      "note": 1748108306307,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306314,
+      "note": 1748108306313,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306315,
+      "note": 1748108306313,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306316,
+      "note": 1748108306313,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306317,
+      "note": 1748108306313,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306318,
+      "note": 1748108306313,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306320,
+      "note": 1748108306319,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306321,
+      "note": 1748108306319,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306322,
+      "note": 1748108306319,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306323,
+      "note": 1748108306319,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306324,
+      "note": 1748108306319,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306326,
+      "note": 1748108306325,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306327,
+      "note": 1748108306325,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306328,
+      "note": 1748108306325,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306329,
+      "note": 1748108306325,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306330,
+      "note": 1748108306325,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306332,
+      "note": 1748108306331,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306333,
+      "note": 1748108306331,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306334,
+      "note": 1748108306331,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306335,
+      "note": 1748108306331,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306336,
+      "note": 1748108306331,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306338,
+      "note": 1748108306337,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306339,
+      "note": 1748108306337,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306340,
+      "note": 1748108306337,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306341,
+      "note": 1748108306337,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306342,
+      "note": 1748108306337,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306344,
+      "note": 1748108306343,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306345,
+      "note": 1748108306343,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306346,
+      "note": 1748108306343,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306347,
+      "note": 1748108306343,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306348,
+      "note": 1748108306343,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306350,
+      "note": 1748108306349,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306351,
+      "note": 1748108306349,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306352,
+      "note": 1748108306349,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306353,
+      "note": 1748108306349,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306354,
+      "note": 1748108306349,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306356,
+      "note": 1748108306355,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306357,
+      "note": 1748108306355,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306358,
+      "note": 1748108306355,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306359,
+      "note": 1748108306355,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306360,
+      "note": 1748108306355,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306362,
+      "note": 1748108306361,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306363,
+      "note": 1748108306361,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306364,
+      "note": 1748108306361,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306365,
+      "note": 1748108306361,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306366,
+      "note": 1748108306361,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306368,
+      "note": 1748108306367,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306369,
+      "note": 1748108306367,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306370,
+      "note": 1748108306367,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306371,
+      "note": 1748108306367,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306372,
+      "note": 1748108306367,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306374,
+      "note": 1748108306373,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306375,
+      "note": 1748108306373,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306376,
+      "note": 1748108306373,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306377,
+      "note": 1748108306373,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306378,
+      "note": 1748108306373,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306380,
+      "note": 1748108306379,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306381,
+      "note": 1748108306379,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306382,
+      "note": 1748108306379,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306383,
+      "note": 1748108306379,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306384,
+      "note": 1748108306379,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306386,
+      "note": 1748108306385,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306387,
+      "note": 1748108306385,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306388,
+      "note": 1748108306385,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306389,
+      "note": 1748108306385,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306390,
+      "note": 1748108306385,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306392,
+      "note": 1748108306391,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306393,
+      "note": 1748108306391,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306394,
+      "note": 1748108306391,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306395,
+      "note": 1748108306391,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306396,
+      "note": 1748108306391,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306398,
+      "note": 1748108306397,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306399,
+      "note": 1748108306397,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306400,
+      "note": 1748108306397,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306401,
+      "note": 1748108306397,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306402,
+      "note": 1748108306397,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306404,
+      "note": 1748108306403,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306405,
+      "note": 1748108306403,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306406,
+      "note": 1748108306403,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306407,
+      "note": 1748108306403,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306408,
+      "note": 1748108306403,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306410,
+      "note": 1748108306409,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306411,
+      "note": 1748108306409,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306412,
+      "note": 1748108306409,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306413,
+      "note": 1748108306409,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306414,
+      "note": 1748108306409,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306416,
+      "note": 1748108306415,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306417,
+      "note": 1748108306415,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306418,
+      "note": 1748108306415,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306419,
+      "note": 1748108306415,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306420,
+      "note": 1748108306415,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306422,
+      "note": 1748108306421,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306423,
+      "note": 1748108306421,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306424,
+      "note": 1748108306421,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306425,
+      "note": 1748108306421,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306426,
+      "note": 1748108306421,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306428,
+      "note": 1748108306427,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306429,
+      "note": 1748108306427,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306430,
+      "note": 1748108306427,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306431,
+      "note": 1748108306427,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306432,
+      "note": 1748108306427,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306434,
+      "note": 1748108306433,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306435,
+      "note": 1748108306433,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306436,
+      "note": 1748108306433,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306437,
+      "note": 1748108306433,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306438,
+      "note": 1748108306433,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306440,
+      "note": 1748108306439,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306441,
+      "note": 1748108306439,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306442,
+      "note": 1748108306439,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306443,
+      "note": 1748108306439,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306444,
+      "note": 1748108306439,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306446,
+      "note": 1748108306445,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306447,
+      "note": 1748108306445,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306448,
+      "note": 1748108306445,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306449,
+      "note": 1748108306445,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306450,
+      "note": 1748108306445,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306452,
+      "note": 1748108306451,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306453,
+      "note": 1748108306451,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306454,
+      "note": 1748108306451,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306455,
+      "note": 1748108306451,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306456,
+      "note": 1748108306451,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306458,
+      "note": 1748108306457,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306459,
+      "note": 1748108306457,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306460,
+      "note": 1748108306457,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306461,
+      "note": 1748108306457,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306462,
+      "note": 1748108306457,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306464,
+      "note": 1748108306463,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306465,
+      "note": 1748108306463,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306466,
+      "note": 1748108306463,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306467,
+      "note": 1748108306463,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306468,
+      "note": 1748108306463,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306470,
+      "note": 1748108306469,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306471,
+      "note": 1748108306469,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306472,
+      "note": 1748108306469,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306473,
+      "note": 1748108306469,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306474,
+      "note": 1748108306469,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306476,
+      "note": 1748108306475,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306477,
+      "note": 1748108306475,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306478,
+      "note": 1748108306475,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306479,
+      "note": 1748108306475,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306480,
+      "note": 1748108306475,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306482,
+      "note": 1748108306481,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306483,
+      "note": 1748108306481,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306484,
+      "note": 1748108306481,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306485,
+      "note": 1748108306481,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306486,
+      "note": 1748108306481,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306488,
+      "note": 1748108306487,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306489,
+      "note": 1748108306487,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306490,
+      "note": 1748108306487,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306491,
+      "note": 1748108306487,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306492,
+      "note": 1748108306487,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306494,
+      "note": 1748108306493,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306495,
+      "note": 1748108306493,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306496,
+      "note": 1748108306493,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306497,
+      "note": 1748108306493,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306498,
+      "note": 1748108306493,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306500,
+      "note": 1748108306499,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306501,
+      "note": 1748108306499,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306502,
+      "note": 1748108306499,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306503,
+      "note": 1748108306499,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306504,
+      "note": 1748108306499,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306506,
+      "note": 1748108306505,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306507,
+      "note": 1748108306505,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306508,
+      "note": 1748108306505,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306509,
+      "note": 1748108306505,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306510,
+      "note": 1748108306505,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306512,
+      "note": 1748108306511,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306513,
+      "note": 1748108306511,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306514,
+      "note": 1748108306511,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306515,
+      "note": 1748108306511,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306516,
+      "note": 1748108306511,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306518,
+      "note": 1748108306517,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306519,
+      "note": 1748108306517,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306520,
+      "note": 1748108306517,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306521,
+      "note": 1748108306517,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306522,
+      "note": 1748108306517,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306524,
+      "note": 1748108306523,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306525,
+      "note": 1748108306523,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306526,
+      "note": 1748108306523,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306527,
+      "note": 1748108306523,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306528,
+      "note": 1748108306523,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306530,
+      "note": 1748108306529,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306531,
+      "note": 1748108306529,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306532,
+      "note": 1748108306529,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306533,
+      "note": 1748108306529,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306534,
+      "note": 1748108306529,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306536,
+      "note": 1748108306535,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306537,
+      "note": 1748108306535,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306538,
+      "note": 1748108306535,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306539,
+      "note": 1748108306535,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306540,
+      "note": 1748108306535,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306542,
+      "note": 1748108306541,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306543,
+      "note": 1748108306541,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306544,
+      "note": 1748108306541,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306545,
+      "note": 1748108306541,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306546,
+      "note": 1748108306541,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306548,
+      "note": 1748108306547,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306549,
+      "note": 1748108306547,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306550,
+      "note": 1748108306547,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306551,
+      "note": 1748108306547,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306552,
+      "note": 1748108306547,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306554,
+      "note": 1748108306553,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306555,
+      "note": 1748108306553,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306556,
+      "note": 1748108306553,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306557,
+      "note": 1748108306553,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306558,
+      "note": 1748108306553,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306560,
+      "note": 1748108306559,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306561,
+      "note": 1748108306559,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306562,
+      "note": 1748108306559,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306563,
+      "note": 1748108306559,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306564,
+      "note": 1748108306559,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306566,
+      "note": 1748108306565,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306567,
+      "note": 1748108306565,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306568,
+      "note": 1748108306565,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306569,
+      "note": 1748108306565,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306570,
+      "note": 1748108306565,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306572,
+      "note": 1748108306571,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306573,
+      "note": 1748108306571,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306574,
+      "note": 1748108306571,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306575,
+      "note": 1748108306571,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306576,
+      "note": 1748108306571,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306578,
+      "note": 1748108306577,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306579,
+      "note": 1748108306577,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306580,
+      "note": 1748108306577,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306581,
+      "note": 1748108306577,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306582,
+      "note": 1748108306577,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306584,
+      "note": 1748108306583,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306585,
+      "note": 1748108306583,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306586,
+      "note": 1748108306583,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306587,
+      "note": 1748108306583,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306588,
+      "note": 1748108306583,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306590,
+      "note": 1748108306589,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306591,
+      "note": 1748108306589,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306592,
+      "note": 1748108306589,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306593,
+      "note": 1748108306589,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306594,
+      "note": 1748108306589,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306596,
+      "note": 1748108306595,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306597,
+      "note": 1748108306595,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306598,
+      "note": 1748108306595,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306599,
+      "note": 1748108306595,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306600,
+      "note": 1748108306595,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306602,
+      "note": 1748108306601,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306603,
+      "note": 1748108306601,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306604,
+      "note": 1748108306601,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306605,
+      "note": 1748108306601,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306606,
+      "note": 1748108306601,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306608,
+      "note": 1748108306607,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306609,
+      "note": 1748108306607,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306610,
+      "note": 1748108306607,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306611,
+      "note": 1748108306607,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306612,
+      "note": 1748108306607,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306614,
+      "note": 1748108306613,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306615,
+      "note": 1748108306613,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306616,
+      "note": 1748108306613,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306617,
+      "note": 1748108306613,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306618,
+      "note": 1748108306613,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306620,
+      "note": 1748108306619,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306621,
+      "note": 1748108306619,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306622,
+      "note": 1748108306619,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306623,
+      "note": 1748108306619,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306624,
+      "note": 1748108306619,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306626,
+      "note": 1748108306625,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306627,
+      "note": 1748108306625,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306628,
+      "note": 1748108306625,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306629,
+      "note": 1748108306625,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306630,
+      "note": 1748108306625,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306632,
+      "note": 1748108306631,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306633,
+      "note": 1748108306631,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306634,
+      "note": 1748108306631,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306635,
+      "note": 1748108306631,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306636,
+      "note": 1748108306631,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306638,
+      "note": 1748108306637,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306639,
+      "note": 1748108306637,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306640,
+      "note": 1748108306637,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306641,
+      "note": 1748108306637,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306642,
+      "note": 1748108306637,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306644,
+      "note": 1748108306643,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306645,
+      "note": 1748108306643,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306646,
+      "note": 1748108306643,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306647,
+      "note": 1748108306643,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306648,
+      "note": 1748108306643,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306650,
+      "note": 1748108306649,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306651,
+      "note": 1748108306649,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306652,
+      "note": 1748108306649,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306653,
+      "note": 1748108306649,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306654,
+      "note": 1748108306649,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306656,
+      "note": 1748108306655,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306657,
+      "note": 1748108306655,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306658,
+      "note": 1748108306655,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306659,
+      "note": 1748108306655,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306660,
+      "note": 1748108306655,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306662,
+      "note": 1748108306661,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306663,
+      "note": 1748108306661,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306664,
+      "note": 1748108306661,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306665,
+      "note": 1748108306661,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306666,
+      "note": 1748108306661,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306668,
+      "note": 1748108306667,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306669,
+      "note": 1748108306667,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306670,
+      "note": 1748108306667,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306671,
+      "note": 1748108306667,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306672,
+      "note": 1748108306667,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306674,
+      "note": 1748108306673,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306675,
+      "note": 1748108306673,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306676,
+      "note": 1748108306673,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306677,
+      "note": 1748108306673,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306678,
+      "note": 1748108306673,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306680,
+      "note": 1748108306679,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306681,
+      "note": 1748108306679,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306682,
+      "note": 1748108306679,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306683,
+      "note": 1748108306679,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306684,
+      "note": 1748108306679,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306686,
+      "note": 1748108306685,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306687,
+      "note": 1748108306685,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306688,
+      "note": 1748108306685,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306689,
+      "note": 1748108306685,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306690,
+      "note": 1748108306685,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306692,
+      "note": 1748108306691,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306693,
+      "note": 1748108306691,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306694,
+      "note": 1748108306691,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306695,
+      "note": 1748108306691,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306696,
+      "note": 1748108306691,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306698,
+      "note": 1748108306697,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306699,
+      "note": 1748108306697,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306700,
+      "note": 1748108306697,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306701,
+      "note": 1748108306697,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1748108306702,
+      "note": 1748108306697,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Periodic Table Memory Pegs",
+      "queue": 0,
+      "due": 0
+    },
+    {
+      "cardId": 1760019051990,
+      "note": 1760019051987,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::a.|🧪| 1st Paper::2.[🧪] Qualitative Chemistry::A-B & Concepts",
+      "queue": 2,
+      "due": 174
+    },
+    {
+      "cardId": 1760019051991,
+      "note": 1760019051987,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::a.|🧪| 1st Paper::2.[🧪] Qualitative Chemistry::A-B & Concepts",
+      "queue": 2,
+      "due": 171
+    },
+    {
+      "cardId": 1760274821995,
+      "note": 1760274821995,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::a.|🧪| 1st Paper::2.[🧪] Qualitative Chemistry::A-B & Concepts",
+      "queue": 2,
+      "due": 172
+    },
+    {
+      "cardId": 1760274821996,
+      "note": 1760274821995,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::a.|🧪| 1st Paper::2.[🧪] Qualitative Chemistry::A-B & Concepts",
+      "queue": 2,
+      "due": 208
+    },
+    {
+      "cardId": 1760274821997,
+      "note": 1760274821995,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::a.|🧪| 1st Paper::2.[🧪] Qualitative Chemistry::A-B & Concepts",
+      "queue": 2,
+      "due": 266
+    },
+    {
+      "cardId": 1762625220515,
+      "note": 1762625220515,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::a.|🧪| 1st Paper::2.[🧪] Qualitative Chemistry::A-B & Concepts",
+      "queue": 2,
+      "due": 152
+    },
+    {
+      "cardId": 1762625220516,
+      "note": 1762625220515,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::a.|🧪| 1st Paper::2.[🧪] Qualitative Chemistry::A-B & Concepts",
+      "queue": 2,
+      "due": 155
+    },
+    {
+      "cardId": 1762872201459,
+      "note": 1762872201459,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::a.|🧪| 1st Paper::2.[🧪] Qualitative Chemistry::A-B & Concepts",
+      "queue": 2,
+      "due": 174
+    },
+    {
+      "cardId": 1762950046202,
+      "note": 1762950046202,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::a.|🧪| 1st Paper::2.[🧪] Qualitative Chemistry",
+      "queue": 2,
+      "due": 169
+    },
+    {
+      "cardId": 1763194618105,
+      "note": 1763194618105,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::b.|🧪| 2nd Paper::3.|🧪| Quantitative Chemistry",
+      "queue": 1,
+      "due": 1781999247
+    },
+    {
+      "cardId": 1763351673701,
+      "note": 1763351673699,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::c.|🧪| Brain::Info Dump",
+      "queue": 2,
+      "due": 151
+    },
+    {
+      "cardId": 1765123024464,
+      "note": 1765123024463,
+      "deckName": "[🎓] Academic::6.[🧪] Chemistry::a.|🧪| 1st Paper::2.[🧪] Qualitative Chemistry",
+      "queue": 2,
+      "due": 152
+    }
+  ],
+  "notes": [
+    {
+      "noteId": 1748108305995,
+      "tags": [
+        "group:1",
+        "period:1"
+      ]
+    },
+    {
+      "noteId": 1748108306001,
+      "tags": [
+        "group:18",
+        "period:1"
+      ]
+    },
+    {
+      "noteId": 1748108306007,
+      "tags": [
+        "group:1",
+        "period:2"
+      ]
+    },
+    {
+      "noteId": 1748108306013,
+      "tags": [
+        "group:2",
+        "period:2"
+      ]
+    },
+    {
+      "noteId": 1748108306019,
+      "tags": [
+        "group:13",
+        "period:2"
+      ]
+    },
+    {
+      "noteId": 1748108306025,
+      "tags": [
+        "group:14",
+        "period:2"
+      ]
+    },
+    {
+      "noteId": 1748108306031,
+      "tags": [
+        "group:15",
+        "period:2"
+      ]
+    },
+    {
+      "noteId": 1748108306037,
+      "tags": [
+        "group:16",
+        "period:2"
+      ]
+    },
+    {
+      "noteId": 1748108306043,
+      "tags": [
+        "group:17",
+        "period:2"
+      ]
+    },
+    {
+      "noteId": 1748108306049,
+      "tags": [
+        "group:18",
+        "period:2"
+      ]
+    },
+    {
+      "noteId": 1748108306055,
+      "tags": [
+        "group:1",
+        "period:3"
+      ]
+    },
+    {
+      "noteId": 1748108306061,
+      "tags": [
+        "group:2",
+        "period:3"
+      ]
+    },
+    {
+      "noteId": 1748108306067,
+      "tags": [
+        "group:13",
+        "period:3"
+      ]
+    },
+    {
+      "noteId": 1748108306073,
+      "tags": [
+        "group:14",
+        "period:3"
+      ]
+    },
+    {
+      "noteId": 1748108306079,
+      "tags": [
+        "group:15",
+        "period:3"
+      ]
+    },
+    {
+      "noteId": 1748108306085,
+      "tags": [
+        "group:16",
+        "period:3"
+      ]
+    },
+    {
+      "noteId": 1748108306091,
+      "tags": [
+        "group:17",
+        "period:3"
+      ]
+    },
+    {
+      "noteId": 1748108306097,
+      "tags": [
+        "group:18",
+        "period:3"
+      ]
+    },
+    {
+      "noteId": 1748108306103,
+      "tags": [
+        "group:1",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306109,
+      "tags": [
+        "group:2",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306115,
+      "tags": [
+        "group:3",
+        "leech",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306121,
+      "tags": [
+        "group:4",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306127,
+      "tags": [
+        "group:5",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306133,
+      "tags": [
+        "group:6",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306139,
+      "tags": [
+        "group:7",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306145,
+      "tags": [
+        "group:8",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306151,
+      "tags": [
+        "group:9",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306157,
+      "tags": [
+        "group:10",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306163,
+      "tags": [
+        "group:11",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306169,
+      "tags": [
+        "group:12",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306175,
+      "tags": [
+        "group:13",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306181,
+      "tags": [
+        "group:14",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306187,
+      "tags": [
+        "group:15",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306193,
+      "tags": [
+        "group:16",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306199,
+      "tags": [
+        "group:17",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306205,
+      "tags": [
+        "group:18",
+        "period:4"
+      ]
+    },
+    {
+      "noteId": 1748108306211,
+      "tags": [
+        "group:1",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306217,
+      "tags": [
+        "group:2",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306223,
+      "tags": [
+        "group:3",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306229,
+      "tags": [
+        "group:4",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306235,
+      "tags": [
+        "group:5",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306241,
+      "tags": [
+        "group:6",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306247,
+      "tags": [
+        "group:7",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306253,
+      "tags": [
+        "group:8",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306259,
+      "tags": [
+        "group:9",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306265,
+      "tags": [
+        "group:10",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306271,
+      "tags": [
+        "group:11",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306277,
+      "tags": [
+        "group:12",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306283,
+      "tags": [
+        "group:13",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306289,
+      "tags": [
+        "group:14",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306295,
+      "tags": [
+        "group:15",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306301,
+      "tags": [
+        "group:16",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306307,
+      "tags": [
+        "group:17",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306313,
+      "tags": [
+        "group:18",
+        "period:5"
+      ]
+    },
+    {
+      "noteId": 1748108306319,
+      "tags": [
+        "group:1",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306325,
+      "tags": [
+        "group:2",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306331,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306337,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306343,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306349,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306355,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306361,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306367,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306373,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306379,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306385,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306391,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306397,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306403,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306409,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306415,
+      "tags": [
+        "group:Lanthanoids",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306421,
+      "tags": [
+        "group:4",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306427,
+      "tags": [
+        "group:5",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306433,
+      "tags": [
+        "group:6",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306439,
+      "tags": [
+        "group:7",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306445,
+      "tags": [
+        "group:8",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306451,
+      "tags": [
+        "group:9",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306457,
+      "tags": [
+        "group:10",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306463,
+      "tags": [
+        "group:11",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306469,
+      "tags": [
+        "group:12",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306475,
+      "tags": [
+        "group:13",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306481,
+      "tags": [
+        "group:14",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306487,
+      "tags": [
+        "group:15",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306493,
+      "tags": [
+        "group:16",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306499,
+      "tags": [
+        "group:17",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306505,
+      "tags": [
+        "group:18",
+        "period:6"
+      ]
+    },
+    {
+      "noteId": 1748108306511,
+      "tags": [
+        "group:1",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306517,
+      "tags": [
+        "group:2",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306523,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306529,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306535,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306541,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306547,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306553,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306559,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306565,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306571,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306577,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306583,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306589,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306595,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306601,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306607,
+      "tags": [
+        "group:Actinoids",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306613,
+      "tags": [
+        "group:4",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306619,
+      "tags": [
+        "group:5",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306625,
+      "tags": [
+        "group:6",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306631,
+      "tags": [
+        "group:7",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306637,
+      "tags": [
+        "group:8",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306643,
+      "tags": [
+        "group:9",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306649,
+      "tags": [
+        "group:10",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306655,
+      "tags": [
+        "group:11",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306661,
+      "tags": [
+        "group:12",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306667,
+      "tags": [
+        "group:13",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306673,
+      "tags": [
+        "group:14",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306679,
+      "tags": [
+        "group:15",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306685,
+      "tags": [
+        "group:16",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306691,
+      "tags": [
+        "group:17",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1748108306697,
+      "tags": [
+        "group:18",
+        "period:7"
+      ]
+    },
+    {
+      "noteId": 1760019051987,
+      "tags": [
+        "Atomic-Structure",
+        "Chemical-Bonding",
+        "Chemistry",
+        "Valence-Electrons"
+      ]
+    },
+    {
+      "noteId": 1760274821995,
+      "tags": [
+        "Atomic-Structure",
+        "Chemistry",
+        "Isobars",
+        "Isotones",
+        "Isotopes"
+      ]
+    },
+    {
+      "noteId": 1762625220515,
+      "tags": [
+        "Atomic-Structure",
+        "Bohr-Model",
+        "Quantum-Mechanics",
+        "Rutherford-Model"
+      ]
+    },
+    {
+      "noteId": 1762872201459,
+      "tags": [
+        "Atomic-Structure",
+        "Bohr-Model",
+        "Quantum-Mechanics"
+      ]
+    },
+    {
+      "noteId": 1762950046202,
+      "tags": [
+        "conversion",
+        "metric-system",
+        "units"
+      ]
+    },
+    {
+      "noteId": 1763194618105,
+      "tags": []
+    },
+    {
+      "noteId": 1763351673699,
+      "tags": [
+        "Chemistry",
+        "KOH",
+        "Molarity",
+        "Solution",
+        "রসায়ন"
+      ]
+    },
+    {
+      "noteId": 1765123024463,
+      "tags": [
+        "Atomic-Structure",
+        "Chemistry",
+        "Quantum-Mechanics",
+        "quantum-numbers"
+      ]
+    }
+  ]
+}
