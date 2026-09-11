@@ -28,7 +28,8 @@
     "audio:word": "node scripts/populate-word-audio.mjs",
     "clean-tags:dry": "node scripts/clean-tags.mjs --dry-run",
     "organize-types": "node scripts/organize-card-types.mjs",
-    "reorganize-presets": "node scripts/reorganize-deck-presets.mjs"
+    "reorganize-presets": "node scripts/reorganize-deck-presets.mjs",
+    "import-kotlin": "node scripts/import-kotlin-course.mjs"
   },
   "keywords": ["anki", "study", "hsc", "flashcards"],
   "license": "MIT"

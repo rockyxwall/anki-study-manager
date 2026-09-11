@@ -1,0 +1,318 @@
+[
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Decision]</b><br>AI generates:<br><pre><code>var userList = listOf(\"Alice\", \"Bob\")\nuserList = userList + \"Charlie\"</code></pre>Why reject this in state management? What is the correct pattern?",
+      "Back": "<b>Problem:</b> Reallocates whole list on heap every change + <code>var</code> allows reassignment races.<br><br><b>Decision:</b><br>1. If local mutable accumulation needed: <code>val userList = mutableListOf(...)</code><br>2. If reactive UI state: <code>val userList = MutableStateFlow&lt;List&lt;String&gt;&gt;(...)</code><br><br><b>Rule:</b> Always <code>val</code> by default. Only use <code>var</code> when mutation strictly required."
+    },
+    "tags": ["incode::kotlin::vars::decision"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Tour: Hello World]</b><br>Difference between <code>\"$user\"</code> and <code>\"${user.name}\"</code> in string templates?",
+      "Back": "<code>$user</code> evaluates a single variable identifier directly.<br><br><code>${...}</code> evaluates arbitrary expressions, property access chains, or function calls before converting result to String."
+    },
+    "tags": ["incode::kotlin::vars::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Variables]</b><br>Does <code>val</code> mean the object itself is immutable?",
+      "Back": "<b>No.</b> <code>val</code> is a <b>read-only reference</b> (cannot reassign the variable pointer).<br><br>If pointing to a mutable object (e.g. <code>val list = mutableListOf(1, 2)</code>), contents can still be mutated (<code>list.add(3)</code>)."
+    },
+    "tags": ["incode::kotlin::vars::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[AI Code Audit]</b><br>AI declares top-level:<br><pre><code>var currentUser: User? = null</code></pre>What risk does this create in an Android app?",
+      "Back": "<b>Risk:</b> Global mutable state.<br>1. Leaks memory or persists stale state across Android Activity lifecycles.<br>2. Thread-unsafe: concurrent writes cause crashes or data corruption.<br><br><b>Fix:</b> Scope state inside a <code>ViewModel</code> or inject via Dependency Injection (Hilt/Koin)."
+    },
+    "tags": ["incode::kotlin::vars::audit"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Types]</b><br>When should you write explicit type annotations instead of relying on Kotlin type inference?",
+      "Back": "1. <b>Public API / ViewModel boundaries:</b> Establishes clear contract.<br>2. <b>Complex expressions:</b> Prevents accidental type widening (e.g. <code>Int</code> vs <code>Long</code>).<br>3. <b>Abstract types:</b> When exposing an interface rather than implementation (e.g. <code>val list: List&lt;T&gt; = mutableListOf()</code>)."
+    },
+    "tags": ["incode::kotlin::vars::decision"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Null Safety]</b><br>Difference between <code>String</code> and <code>String?</code> in Kotlin type system?",
+      "Back": "<code>String</code> is guaranteed non-null at compile time. It can never hold <code>null</code>.<br><br><code>String?</code> is nullable. The compiler strictly forces null checking before dereferencing."
+    },
+    "tags": ["incode::kotlin::nulls::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[AI Code Audit]</b><br>AI generates:<br><pre><code>val name: String? = apiResponse.userName\nval length = name!!.length</code></pre>Why is this dangerous, and how to fix?",
+      "Back": "<b>Bug:</b> <code>!!</code> (not-null assertion) throws <code>NullPointerException</code> at runtime if <code>name</code> is null.<br><br><b>Fix:</b> Safe call + Elvis operator fallback:<br><pre><code>val length = name?.length ?: 0</code></pre><b>Rule:</b> Treat <code>!!</code> as an AI red flag in production code."
+    },
+    "tags": ["incode::kotlin::nulls::audit"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Idiom]</b><br>How does the Elvis operator (<code>?:</code>) behave with early returns?",
+      "Back": "Right-hand side of <code>?:</code> can be an expression, <code>return</code>, or <code>throw</code>:<br><pre><code>val user = userRepository.getUser() ?: return</code></pre>Serves as an idiomatic guard clause, exiting the function immediately when value is null."
+    },
+    "tags": ["incode::kotlin::nulls::idiom"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[AI Code Audit: Platform Types]</b><br>Java method: <code>public String getTitle() { return null; }</code><br>Kotlin code:<br><pre><code>val title: String = javaObject.getTitle()</code></pre>What happens at runtime?",
+      "Back": "<b>Throws NullPointerException</b> at assignment!<br><br>Java methods return \"Platform Types\" (<code>String!</code>), where Kotlin compiler skips null checks.<br><br><b>Fix:</b> Always declare explicit nullable type on Java interop:<br><pre><code>val title: String? = javaObject.getTitle()</code></pre>"
+    },
+    "tags": ["incode::kotlin::nulls::audit"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Null Safety]</b><br>How does safe casting <code>as?</code> differ from unsafe <code>as</code>?",
+      "Back": "<code>as</code> throws <code>ClassCastException</code> if cast fails.<br><br><code>as?</code> returns <code>null</code> on failure instead of crashing:<br><pre><code>val number = value as? Int ?: 0</code></pre>"
+    },
+    "tags": ["incode::kotlin::nulls::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Collections]</b><br>Difference between <code>List&lt;T&gt;</code> and <code>MutableList&lt;T&gt;</code>?",
+      "Back": "<code>List&lt;T&gt;</code> is a <b>read-only view</b> (no <code>add()</code>, <code>remove()</code>, <code>clear()</code>).<br><br><code>MutableList&lt;T&gt;</code> provides mutation operations.<br>In Kotlin standard library, read-only and mutable collection interfaces are strictly segregated."
+    },
+    "tags": ["incode::kotlin::collections::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[AI Code Audit]</b><br>AI writes ViewModel:<br><pre><code>class CartViewModel : ViewModel() {\n    val items = mutableListOf&lt;CartItem&gt;()\n}</code></pre>Why is this an architectural bug in Android?",
+      "Back": "1. <b>Encapsulation leak:</b> UI layer can directly modify <code>items.add(...)</code> bypassing ViewModel validation.<br>2. <b>Non-reactive:</b> Compose or UI won't observe internal mutations.<br><br><b>Fix:</b> Use private backing property with <code>StateFlow&lt;List&lt;CartItem&gt;&gt;</code>."
+    },
+    "tags": ["incode::kotlin::collections::audit"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Decision]</b><br>When transforming collections in Android, when should you use <code>asSequence()</code>?",
+      "Back": "<b>Standard operations (eager):</b> Best for small/medium lists (&lt;1,000 items). Minimal overhead.<br><br><b>asSequence() (lazy):</b> Best for very large lists or long operation chains where you only take the first match (avoids creating intermediate lists in memory)."
+    },
+    "tags": ["incode::kotlin::collections::decision"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Idiom]</b><br>What does <code>associateBy</code> do versus <code>groupBy</code>?",
+      "Back": "<code>associateBy</code> produces <code>Map&lt;K, V&gt;</code> where each key maps to a <b>single element</b> (duplicates overwrite).<br><br><code>groupBy</code> produces <code>Map&lt;K, List&lt;V&gt;&gt;</code> where each key maps to a <b>list of matching elements</b>."
+    },
+    "tags": ["incode::kotlin::collections::idiom"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Control Flow]</b><br>What does it mean that <code>if</code> and <code>when</code> are <b>expressions</b> in Kotlin?",
+      "Back": "They return a value! They can be assigned directly to variables or returned from functions:<br><pre><code>val status = if (score &gt;= 50) \"Pass\" else \"Fail\"</code></pre>Eliminates temporary mutable accumulator variables."
+    },
+    "tags": ["incode::kotlin::control::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Decision]</b><br>When to use argument-less <code>when</code> in Kotlin?",
+      "Back": "When replacing long, cluttered <code>if-else if-else</code> chains with complex independent boolean conditions:<br><pre><code>when {\n    x.isOdd() -&gt; print(\"odd\")\n    y.isEven() -&gt; print(\"even\")\n    else -&gt; print(\"default\")\n}</code></pre>"
+    },
+    "tags": ["incode::kotlin::control::decision"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Smart Casts]</b><br>Why does smart casting work on <code>val</code> but fail on <code>var</code> properties?",
+      "Back": "<b>Compiler guarantee:</b> <code>val</code> cannot change after check.<br><br><b>Var property:</b> Another thread or custom getter could mutate the property value between the type check and its usage."
+    },
+    "tags": ["incode::kotlin::control::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[AI Code Audit]</b><br>AI handles sealed UI state:<br><pre><code>when (state) {\n    is UiState.Loading -&gt; showSpinner()\n    is UiState.Success -&gt; showData(state.data)\n    else -&gt; log(\"unknown\")\n}</code></pre>What architectural issue does <code>else</code> create here?",
+      "Back": "<b>Defeats compiler exhaustiveness check!</b><br><br>If a developer adds <code>UiState.Error</code> later, compiler won't warn you—it silently falls into <code>else</code>.<br><br><b>Fix:</b> Remove <code>else</code>. Handle every sealed branch explicitly."
+    },
+    "tags": ["incode::kotlin::control::audit"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Idiom]</b><br>How do Default and Named Arguments in Kotlin eliminate Java's Builder Pattern?",
+      "Back": "Default values in function signatures allow callers to pass only required parameters in any order:<br><pre><code>fun createButton(text: String, isEnabled: Boolean = true, icon: Icon? = null)</code></pre>Call: <code>createButton(text = \"Save\", icon = myIcon)</code>"
+    },
+    "tags": ["incode::kotlin::functions::idiom"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Syntax]</b><br>What is a single-expression function, and when should it be used?",
+      "Back": "Function whose body is a single expression, omitting <code>{}</code> and <code>return</code>:<br><pre><code>fun isAdult(age: Int): Boolean = age &gt;= 18</code></pre>Use for simple transformations, math calculations, or delegating calls."
+    },
+    "tags": ["incode::kotlin::functions::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Tour: Functions]</b><br>What is the <b>trailing lambda convention</b> in Kotlin?",
+      "Back": "If the last parameter of a function is a lambda, the curly braces <code>{ }</code> can be placed <b>outside</b> the parentheses <code>( )</code>:<br><pre><code>button.setOnClickListener { view -&gt; handleClick() }</code></pre>This convention is the foundation of Jetpack Compose UI DSLs."
+    },
+    "tags": ["incode::kotlin::functions::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[AI Code Audit]</b><br>AI writes high-frequency utility in Android:<br><pre><code>fun &lt;T&gt; measureTime(block: () -&gt; T): T {\n    val start = System.currentTimeMillis()\n    val res = block()\n    Log.d(\"Perf\", \"${System.currentTimeMillis() - start}ms\")\n    return res\n}</code></pre>What optimization keyword should be added and why?",
+      "Back": "Add <code>inline</code>:<br><pre><code>inline fun &lt;T&gt; measureTime(block: () -&gt; T): T</code></pre><b>Reason:</b> Without <code>inline</code>, a new Function object is allocated on heap on every invocation. <code>inline</code> inserts the body directly at call-site."
+    },
+    "tags": ["incode::kotlin::functions::audit"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Classes]</b><br>What 5 methods does a <code>data class</code> automatically generate?",
+      "Back": "1. <code>equals()</code> (value equality based on primary constructor properties)<br>2. <code>hashCode()</code><br>3. <code>toString()</code> (e.g. <code>User(name=Alice, age=20)</code>)<br>4. <code>copy()</code> (non-destructive mutation)<br>5. <code>componentN()</code> (destructuring declarations)"
+    },
+    "tags": ["incode::kotlin::classes::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Decision]</b><br>How should you update an existing immutable <code>data class</code> instance in Android state?",
+      "Back": "Use the generated <code>.copy()</code> method:<br><pre><code>val updatedUser = currentUser.copy(age = currentUser.age + 1)</code></pre>Produces a fresh instance with specified fields changed while maintaining immutability."
+    },
+    "tags": ["incode::kotlin::classes::decision"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Architecture]</b><br>Why use <code>sealed interface</code> instead of <code>enum class</code> for UI State in Android?",
+      "Back": "<b>Enums:</b> Every constant has the exact same properties and no unique data payload.<br><br><b>Sealed interfaces:</b> Each state variant can carry distinct data payload:<br><pre><code>sealed interface UiState {\n    data object Loading : UiState\n    data class Success(val items: List&lt;Item&gt;) : UiState\n    data class Error(val error: Throwable) : UiState\n}</code></pre>"
+    },
+    "tags": ["incode::kotlin::classes::decision"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Classes]</b><br>What is a <code>data object</code> (Kotlin 1.9+)?",
+      "Back": "A singleton object that includes generated <code>toString()</code>, <code>equals()</code>, and <code>hashCode()</code>.<br><br>Ideal for state markers without payloads, such as <code>data object Loading : UiState</code>."
+    },
+    "tags": ["incode::kotlin::classes::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[AI Code Audit]</b><br>AI defines model:<br><pre><code>data class Product(val id: String, var price: Double)</code></pre>Why should properties in a <code>data class</code> be <code>val</code> instead of <code>var</code>?",
+      "Back": "Mutating a <code>var</code> in a data class alters its <code>hashCode()</code>.<br><br>If stored inside a <code>HashSet</code> or <code>HashMap</code>, the object becomes unretrievable or corrupts hash bucket lookups."
+    },
+    "tags": ["incode::kotlin::classes::audit"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Classes]</b><br>What is a <code>companion object</code> in Kotlin?",
+      "Back": "An object singleton tied to a class declaration holding factory methods, constants, or helpers.<br><br>Unlike Java statics, it is an actual runtime object instance that can implement interfaces."
+    },
+    "tags": ["incode::kotlin::classes::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Android Concurrency]</b><br>What are the 3 main Kotlin Coroutine Dispatchers and when to use each?",
+      "Back": "1. <code>Dispatchers.Main</code>: UI interaction, Compose state updates, small quick callbacks.<br>2. <code>Dispatchers.IO</code>: Disk reading/writing, database queries (Room), network calls (Retrofit).<br>3. <code>Dispatchers.Default</code>: CPU-intensive operations (JSON parsing, sorting large datasets)."
+    },
+    "tags": ["incode::kotlin::android::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[AI Code Audit]</b><br>AI writes background fetch in Android:<br><pre><code>fun fetchProfile() {\n    GlobalScope.launch {\n        val profile = api.getProfile()\n        updateUi(profile)\n    }\n}</code></pre>Identify two fatal bugs in this snippet.",
+      "Back": "1. <b>Memory Leak / Uncontrolled Lifecycle:</b> <code>GlobalScope</code> never cancels when Screen closes.<br>2. <b>Thread crash:</b> <code>updateUi()</code> runs on background thread.<br><br><b>Fix:</b> Use <code>viewModelScope.launch { ... }</code> (scoped to ViewModel lifecycle and runs on Main dispatcher by default)."
+    },
+    "tags": ["incode::kotlin::android::audit"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Android Architecture]</b><br>When should you use <code>StateFlow</code> versus <code>SharedFlow</code>?",
+      "Back": "<b>StateFlow:</b> For persistent UI State (always has initial value, replays latest value to new subscribers).<br><br><b>SharedFlow:</b> For one-time events (snackbars, toast messages, navigation actions) that should not replay on screen rotation."
+    },
+    "tags": ["incode::kotlin::android::decision"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Android Compose]</b><br>Why must state inside a Composable function be wrapped in <code>remember { mutableStateOf(...) }</code>?",
+      "Back": "Without <code>remember</code>, the state re-initializes to default on <b>every recomposition frame</b>.<br><br><code>remember</code> preserves the state across recompositions inside the composition slot table."
+    },
+    "tags": ["incode::kotlin::android::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[AI Code Audit: Jetpack Compose]</b><br>AI writes Composable:<br><pre><code>@Composable\nfun UserProfile(user: User) {\n    val formattedDate = SimpleDateFormat(\"yyyy-MM-dd\").format(user.timestamp)\n    Text(text = formattedDate)\n}</code></pre>Why is this a performance footgun in Compose?",
+      "Back": "<code>SimpleDateFormat</code> is expensive and gets allocated on <b>every recomposition frame</b>.<br><br><b>Fix:</b> Wrap in <code>remember(user.timestamp) { ... }</code> so it only recomputes when timestamp changes."
+    },
+    "tags": ["incode::kotlin::android::audit"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Kotlin Coroutines]</b><br>What does <code>suspend</code> keyword actually do on a function?",
+      "Back": "Marks a function that can pause execution without blocking the underlying thread, and resume when result is ready.<br><br>Can only be called from inside another suspending function or a coroutine scope."
+    },
+    "tags": ["incode::kotlin::android::concept"]
+  },
+  {
+    "deckName": "[🪟] iNCode::[🟣] Kotlin",
+    "modelName": "Basic",
+    "fields": {
+      "Front": "<b>[Android Architecture]</b><br>What is State Hoisting in Android Jetpack Compose?",
+      "Back": "Pattern of moving state <b>upward</b> to make a component stateless, reusable, and easily testable.<br><br>A hoisted composable accepts: <code>(value: T, onValueChange: (T) -&gt; Unit)</code> instead of owning internal state."
+    },
+    "tags": ["incode::kotlin::android::decision"]
+  }
+]
+
