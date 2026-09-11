@@ -1,0 +1,1651 @@
+{
+  "timestamp": "2026-09-11T05:18:38.467Z",
+  "cards": [
+    {
+      "cardId": 1759671792733,
+      "note": 1759671792732,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 1,
+      "due": 1770258829
+    },
+    {
+      "cardId": 1759672134481,
+      "note": 1759672134481,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 1,
+      "due": 1770258691
+    },
+    {
+      "cardId": 1759750612324,
+      "note": 1759750612323,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 1,
+      "due": 1770258618
+    },
+    {
+      "cardId": 1759751956685,
+      "note": 1759751956683,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 206
+    },
+    {
+      "cardId": 1759751956686,
+      "note": 1759751956683,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 163
+    },
+    {
+      "cardId": 1759756399365,
+      "note": 1759756399364,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 166
+    },
+    {
+      "cardId": 1759756774945,
+      "note": 1759756774945,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 197
+    },
+    {
+      "cardId": 1759818081793,
+      "note": 1759818081792,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 149
+    },
+    {
+      "cardId": 1759818205126,
+      "note": 1759818205125,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 148
+    },
+    {
+      "cardId": 1759818263188,
+      "note": 1759818263188,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 1,
+      "due": 1770258615
+    },
+    {
+      "cardId": 1759818312303,
+      "note": 1759818312302,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 154
+    },
+    {
+      "cardId": 1759818370110,
+      "note": 1759818370110,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 478
+    },
+    {
+      "cardId": 1759818370111,
+      "note": 1759818370110,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1759818402953,
+      "note": 1759818402952,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 158
+    },
+    {
+      "cardId": 1759818469402,
+      "note": 1759818469402,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 1,
+      "due": 1770258774
+    },
+    {
+      "cardId": 1759818559731,
+      "note": 1759818559731,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 146
+    },
+    {
+      "cardId": 1759818592693,
+      "note": 1759818592692,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 1,
+      "due": 1770258632
+    },
+    {
+      "cardId": 1759818657602,
+      "note": 1759818657602,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 153
+    },
+    {
+      "cardId": 1760106670627,
+      "note": 1760106670627,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": -1,
+      "due": 97
+    },
+    {
+      "cardId": 1760370265326,
+      "note": 1760370265326,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 150
+    },
+    {
+      "cardId": 1760371259554,
+      "note": 1760371259554,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": -1,
+      "due": 1766352078
+    },
+    {
+      "cardId": 1760371800920,
+      "note": 1760371800920,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": -1,
+      "due": 97
+    },
+    {
+      "cardId": 1760413714557,
+      "note": 1760413714557,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::2: Vector::A-B & Concepts",
+      "queue": 2,
+      "due": 285
+    },
+    {
+      "cardId": 1762701184105,
+      "note": 1762701184105,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper",
+      "queue": 2,
+      "due": 183
+    },
+    {
+      "cardId": 1762701433402,
+      "note": 1762701433401,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper",
+      "queue": 2,
+      "due": 194
+    },
+    {
+      "cardId": 1762701433403,
+      "note": 1762701433401,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper",
+      "queue": 2,
+      "due": 155
+    },
+    {
+      "cardId": 1782479493665,
+      "note": 1782479493665,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1782
+    },
+    {
+      "cardId": 1782479493666,
+      "note": 1782479493665,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1782
+    },
+    {
+      "cardId": 1782479519441,
+      "note": 1782479519437,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1783
+    },
+    {
+      "cardId": 1782479519442,
+      "note": 1782479519437,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1783
+    },
+    {
+      "cardId": 1782479559246,
+      "note": 1782479559246,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1784
+    },
+    {
+      "cardId": 1782479559247,
+      "note": 1782479559246,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1784
+    },
+    {
+      "cardId": 1782479559248,
+      "note": 1782479559246,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1784
+    },
+    {
+      "cardId": 1782479594564,
+      "note": 1782479594564,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1785
+    },
+    {
+      "cardId": 1782479594565,
+      "note": 1782479594564,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1785
+    },
+    {
+      "cardId": 1782479594566,
+      "note": 1782479594564,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1785
+    },
+    {
+      "cardId": 1782479632476,
+      "note": 1782479632476,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1786
+    },
+    {
+      "cardId": 1782479632477,
+      "note": 1782479632476,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1786
+    },
+    {
+      "cardId": 1782479632478,
+      "note": 1782479632476,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1786
+    },
+    {
+      "cardId": 1782479668495,
+      "note": 1782479668495,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1787
+    },
+    {
+      "cardId": 1782479668496,
+      "note": 1782479668495,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1787
+    },
+    {
+      "cardId": 1782479668497,
+      "note": 1782479668495,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1787
+    },
+    {
+      "cardId": 1782479668498,
+      "note": 1782479668495,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1787
+    },
+    {
+      "cardId": 1782479734873,
+      "note": 1782479734872,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::1",
+      "queue": 0,
+      "due": 1788
+    },
+    {
+      "cardId": 1782479810281,
+      "note": 1782479810281,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1789
+    },
+    {
+      "cardId": 1782479810282,
+      "note": 1782479810281,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1789
+    },
+    {
+      "cardId": 1782479810283,
+      "note": 1782479810281,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1789
+    },
+    {
+      "cardId": 1782479852285,
+      "note": 1782479852284,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1790
+    },
+    {
+      "cardId": 1782479852286,
+      "note": 1782479852284,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1790
+    },
+    {
+      "cardId": 1782479880015,
+      "note": 1782479880015,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1791
+    },
+    {
+      "cardId": 1782479880016,
+      "note": 1782479880015,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1791
+    },
+    {
+      "cardId": 1782479880017,
+      "note": 1782479880015,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1791
+    },
+    {
+      "cardId": 1782479920027,
+      "note": 1782479920027,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1792
+    },
+    {
+      "cardId": 1782479920028,
+      "note": 1782479920027,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1792
+    },
+    {
+      "cardId": 1782479975165,
+      "note": 1782479975165,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1793
+    },
+    {
+      "cardId": 1782479975166,
+      "note": 1782479975165,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1793
+    },
+    {
+      "cardId": 1782479975167,
+      "note": 1782479975165,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1793
+    },
+    {
+      "cardId": 1782480002333,
+      "note": 1782480002333,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1794
+    },
+    {
+      "cardId": 1782480002334,
+      "note": 1782480002333,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1794
+    },
+    {
+      "cardId": 1782480002335,
+      "note": 1782480002333,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1794
+    },
+    {
+      "cardId": 1782480031060,
+      "note": 1782480031060,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1795
+    },
+    {
+      "cardId": 1782480031061,
+      "note": 1782480031060,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1795
+    },
+    {
+      "cardId": 1782480060222,
+      "note": 1782480060222,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1796
+    },
+    {
+      "cardId": 1782480060223,
+      "note": 1782480060222,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1796
+    },
+    {
+      "cardId": 1782480060224,
+      "note": 1782480060222,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1796
+    },
+    {
+      "cardId": 1782480083605,
+      "note": 1782480083605,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1797
+    },
+    {
+      "cardId": 1782480083606,
+      "note": 1782480083605,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1797
+    },
+    {
+      "cardId": 1782480083607,
+      "note": 1782480083605,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::4::2(!)",
+      "queue": 0,
+      "due": 1797
+    },
+    {
+      "cardId": 1783772436082,
+      "note": 1783772436081,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::formulas",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783772476371,
+      "note": 1783772476371,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::formulas",
+      "queue": 2,
+      "due": 309
+    },
+    {
+      "cardId": 1783772581348,
+      "note": 1783772581348,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::formulas",
+      "queue": 2,
+      "due": 303
+    },
+    {
+      "cardId": 1783772632373,
+      "note": 1783772632373,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::formulas",
+      "queue": 2,
+      "due": 304
+    },
+    {
+      "cardId": 1783772662529,
+      "note": 1783772662529,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::formulas",
+      "queue": 2,
+      "due": 303
+    },
+    {
+      "cardId": 1783772736650,
+      "note": 1783772736650,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::formulas",
+      "queue": 2,
+      "due": 303
+    },
+    {
+      "cardId": 1783772820848,
+      "note": 1783772820848,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::formulas",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783772860404,
+      "note": 1783772860404,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::formulas",
+      "queue": 2,
+      "due": 313
+    },
+    {
+      "cardId": 1783772886275,
+      "note": 1783772886275,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::formulas",
+      "queue": 2,
+      "due": 304
+    },
+    {
+      "cardId": 1783772951104,
+      "note": 1783772951104,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1807
+    },
+    {
+      "cardId": 1783772980906,
+      "note": 1783772980906,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1808
+    },
+    {
+      "cardId": 1783773001744,
+      "note": 1783773001744,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1809
+    },
+    {
+      "cardId": 1783773045602,
+      "note": 1783773045602,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1810
+    },
+    {
+      "cardId": 1783773077672,
+      "note": 1783773077672,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1811
+    },
+    {
+      "cardId": 1783773133617,
+      "note": 1783773133617,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 1,
+      "due": 1783913772
+    },
+    {
+      "cardId": 1783773133618,
+      "note": 1783773133617,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1812
+    },
+    {
+      "cardId": 1783773133619,
+      "note": 1783773133617,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1812
+    },
+    {
+      "cardId": 1783773174849,
+      "note": 1783773174849,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1813
+    },
+    {
+      "cardId": 1783773209337,
+      "note": 1783773209337,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1814
+    },
+    {
+      "cardId": 1783773247446,
+      "note": 1783773247446,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1815
+    },
+    {
+      "cardId": 1783773283313,
+      "note": 1783773283313,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1816
+    },
+    {
+      "cardId": 1783773283314,
+      "note": 1783773283313,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1816
+    },
+    {
+      "cardId": 1783773312489,
+      "note": 1783773312489,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1817
+    },
+    {
+      "cardId": 1783773312490,
+      "note": 1783773312489,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1817
+    },
+    {
+      "cardId": 1783773331336,
+      "note": 1783773331336,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1818
+    },
+    {
+      "cardId": 1783773374434,
+      "note": 1783773374434,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1819
+    },
+    {
+      "cardId": 1783773394929,
+      "note": 1783773394929,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1820
+    },
+    {
+      "cardId": 1783773394930,
+      "note": 1783773394929,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1820
+    },
+    {
+      "cardId": 1783773433240,
+      "note": 1783773433240,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1821
+    },
+    {
+      "cardId": 1783773462433,
+      "note": 1783773462433,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1822
+    },
+    {
+      "cardId": 1783773496650,
+      "note": 1783773496649,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1823
+    },
+    {
+      "cardId": 1783773496651,
+      "note": 1783773496649,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1823
+    },
+    {
+      "cardId": 1783773681784,
+      "note": 1783773681784,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::formulas",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783773717147,
+      "note": 1783773717147,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::formulas",
+      "queue": 2,
+      "due": 310
+    },
+    {
+      "cardId": 1783773753016,
+      "note": 1783773753016,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 1,
+      "due": 1783920062
+    },
+    {
+      "cardId": 1783773880059,
+      "note": 1783773880059,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1828
+    },
+    {
+      "cardId": 1783773880060,
+      "note": 1783773880059,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::3::cq",
+      "queue": 0,
+      "due": 1828
+    },
+    {
+      "cardId": 1783866336442,
+      "note": 1783866336442,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866336443,
+      "note": 1783866336442,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866336444,
+      "note": 1783866336442,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 305
+    },
+    {
+      "cardId": 1783866378049,
+      "note": 1783866378049,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 302
+    },
+    {
+      "cardId": 1783866378050,
+      "note": 1783866378049,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866618696,
+      "note": 1783866618695,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866618697,
+      "note": 1783866618695,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866618698,
+      "note": 1783866618695,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866618699,
+      "note": 1783866618695,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866618700,
+      "note": 1783866618695,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866618701,
+      "note": 1783866618695,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 306
+    },
+    {
+      "cardId": 1783866657739,
+      "note": 1783866657739,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866657740,
+      "note": 1783866657739,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866657741,
+      "note": 1783866657739,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866657742,
+      "note": 1783866657739,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866657743,
+      "note": 1783866657739,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 302
+    },
+    {
+      "cardId": 1783866657744,
+      "note": 1783866657739,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 304
+    },
+    {
+      "cardId": 1783866657745,
+      "note": 1783866657739,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866657746,
+      "note": 1783866657739,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866690587,
+      "note": 1783866690587,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 305
+    },
+    {
+      "cardId": 1783866690588,
+      "note": 1783866690587,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866690589,
+      "note": 1783866690587,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866690590,
+      "note": 1783866690587,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866717407,
+      "note": 1783866717407,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    },
+    {
+      "cardId": 1783866717408,
+      "note": 1783866717407,
+      "deckName": "[🎓] Academic::5.[⚡] Physics::a.|⚡| 1st Paper::mcq",
+      "queue": 2,
+      "due": 301
+    }
+  ],
+  "notes": [
+    {
+      "noteId": 1759671792732,
+      "tags": [
+        "Bengali",
+        "Direction",
+        "Magnitude",
+        "Physical-Quantities",
+        "Physics",
+        "Vectors"
+      ]
+    },
+    {
+      "noteId": 1759672134481,
+      "tags": [
+        "Physical-Quantities",
+        "Physics",
+        "Vector-and-Scalar",
+        "পদার্থবিজ্ঞান",
+        "ভৌত-রাশি",
+        "স্কেলার"
+      ]
+    },
+    {
+      "noteId": 1759750612323,
+      "tags": [
+        "Bengali",
+        "Direction",
+        "Magnitude",
+        "Notation",
+        "Physics",
+        "Representation",
+        "Vector"
+      ]
+    },
+    {
+      "noteId": 1759751956683,
+      "tags": [
+        "displacement",
+        "distance",
+        "kinematics",
+        "Physics",
+        "scalar",
+        "Vector"
+      ]
+    },
+    {
+      "noteId": 1759756399364,
+      "tags": [
+        "Bengali",
+        "formula",
+        "kinematics",
+        "Physics",
+        "scalar",
+        "speed",
+        "Vector",
+        "velocity"
+      ]
+    },
+    {
+      "noteId": 1759756774945,
+      "tags": [
+        "Classification",
+        "Definition",
+        "Physics",
+        "Quantity",
+        "scalar",
+        "Vector",
+        "পদার্থবিজ্ঞান",
+        "প্রকারভেদ",
+        "ভেক্টর",
+        "রাশি",
+        "সংজ্ঞা",
+        "স্কেলার"
+      ]
+    },
+    {
+      "noteId": 1759818081792,
+      "tags": [
+        "bengali-physics",
+        "mechanics",
+        "Physics",
+        "Vectors"
+      ]
+    },
+    {
+      "noteId": 1759818205125,
+      "tags": [
+        "Definition",
+        "leech",
+        "Mathematics",
+        "Physics",
+        "Reciprocal-Vector",
+        "Vector",
+        "গণিত",
+        "পদার্থবিজ্ঞান",
+        "ভেক্টর"
+      ]
+    },
+    {
+      "noteId": 1759818263188,
+      "tags": [
+        "Physics",
+        "Position",
+        "Radius-Vector",
+        "Vector",
+        "অবস্থান",
+        "পদার্থবিজ্ঞান",
+        "ব্যাসার্ধ-ভেক্টর",
+        "ভেক্টর"
+      ]
+    },
+    {
+      "noteId": 1759818312302,
+      "tags": [
+        "Direction",
+        "Magnitude",
+        "math",
+        "Physics",
+        "unit-vector",
+        "Vector",
+        "একক-ভেক্টর",
+        "ভেক্টর"
+      ]
+    },
+    {
+      "noteId": 1759818370110,
+      "tags": [
+        "math",
+        "Null-Vector",
+        "Physics",
+        "Vector",
+        "Zero-Vector",
+        "নাল-ভেক্টর",
+        "ভেক্টর",
+        "শূন্য-ভেক্টর"
+      ]
+    },
+    {
+      "noteId": 1759818402952,
+      "tags": [
+        "Definition",
+        "math",
+        "Physics",
+        "Proper-Vector",
+        "Vector",
+        "ভেক্টর",
+        "সধিক-ভেক্টর"
+      ]
+    },
+    {
+      "noteId": 1759818469402,
+      "tags": [
+        "Bengali",
+        "Coplanar",
+        "Mathematics",
+        "Physics",
+        "Vector-types",
+        "Vectors"
+      ]
+    },
+    {
+      "noteId": 1759818559731,
+      "tags": [
+        "bengali-physics",
+        "Negative-Vector",
+        "Physics",
+        "Vector"
+      ]
+    },
+    {
+      "noteId": 1759818592692,
+      "tags": [
+        "bengali-physics",
+        "Physics",
+        "Vector-types",
+        "Vectors"
+      ]
+    },
+    {
+      "noteId": 1759818657602,
+      "tags": [
+        "bengali-physics",
+        "mechanics",
+        "Physics",
+        "Vector"
+      ]
+    },
+    {
+      "noteId": 1760106670627,
+      "tags": [
+        "Magnitude",
+        "math",
+        "Physics",
+        "Vector"
+      ]
+    },
+    {
+      "noteId": 1760370265326,
+      "tags": []
+    },
+    {
+      "noteId": 1760371259554,
+      "tags": []
+    },
+    {
+      "noteId": 1760371800920,
+      "tags": []
+    },
+    {
+      "noteId": 1760413714557,
+      "tags": []
+    },
+    {
+      "noteId": 1762701184105,
+      "tags": [
+        "bengali-physics",
+        "mechanics",
+        "Physics",
+        "Vector"
+      ]
+    },
+    {
+      "noteId": 1762701433401,
+      "tags": [
+        "bengali-physics",
+        "mechanics",
+        "Physics",
+        "Vectors"
+      ]
+    },
+    {
+      "noteId": 1782479493665,
+      "tags": [
+        "bengali-physics",
+        "Elastic-Collision",
+        "Impulse",
+        "mechanics",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1782479519437,
+      "tags": [
+        "angular-momentum",
+        "banking-of-roads",
+        "mechanics",
+        "Physics",
+        "rotational-motion"
+      ]
+    },
+    {
+      "noteId": 1782479559246,
+      "tags": [
+        "Center-of-Gravity",
+        "Physics",
+        "Radius-of-Gyration",
+        "rotational-motion",
+        "Torque"
+      ]
+    },
+    {
+      "noteId": 1782479594564,
+      "tags": [
+        "bengali-physics",
+        "Definitions",
+        "mechanics",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1782479632476,
+      "tags": [
+        "banking-angle",
+        "fundamental-forces",
+        "mechanics",
+        "momentum",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1782479668495,
+      "tags": [
+        "centrifugal",
+        "couple",
+        "force",
+        "mechanics",
+        "non-conservative",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1782479734872,
+      "tags": [
+        "bengali-physics",
+        "mechanics",
+        "Newtonian-Physics",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1782479810281,
+      "tags": [
+        "angular-momentum",
+        "bengali-physics",
+        "Impulse",
+        "mechanics",
+        "Physics",
+        "Torque"
+      ]
+    },
+    {
+      "noteId": 1782479852284,
+      "tags": [
+        "angular-momentum",
+        "Centripetal-Force",
+        "HSC-Physics",
+        "mechanics",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1782479880015,
+      "tags": [
+        "Apparent-Weight",
+        "banking-of-roads",
+        "Electromagnetism",
+        "mechanics",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1782479920027,
+      "tags": [
+        "angular-momentum",
+        "gravitation",
+        "mechanics",
+        "newtons-laws",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1782479975165,
+      "tags": [
+        "angular-momentum",
+        "moment-of-inertia",
+        "Physics",
+        "rotational-motion",
+        "Torque"
+      ]
+    },
+    {
+      "noteId": 1782480002333,
+      "tags": [
+        "angular-momentum",
+        "mechanics",
+        "Physics",
+        "rotational-motion",
+        "Torque"
+      ]
+    },
+    {
+      "noteId": 1782480031060,
+      "tags": [
+        "Circular-Motion",
+        "Derived-Units",
+        "mechanics",
+        "Newton",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1782480060222,
+      "tags": [
+        "angular-momentum",
+        "Circular-Motion",
+        "Newton's-Laws",
+        "Newtonian-Mechanics",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1782480083605,
+      "tags": [
+        "angular-motion",
+        "force",
+        "mechanics",
+        "momentum",
+        "Physics",
+        "Torque"
+      ]
+    },
+    {
+      "noteId": 1783772436081,
+      "tags": [
+        "kinematics",
+        "Physics",
+        "Projectile-Motion",
+        "গতিবিদ্যা",
+        "প্রাস"
+      ]
+    },
+    {
+      "noteId": 1783772476371,
+      "tags": [
+        "kinematics",
+        "mechanics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783772581348,
+      "tags": [
+        "bengali-physics",
+        "kinematics",
+        "mechanics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783772632373,
+      "tags": [
+        "bengali-physics",
+        "kinematics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783772662529,
+      "tags": [
+        "kinematics",
+        "Physics",
+        "Projectile-Motion",
+        "trajectory-equation"
+      ]
+    },
+    {
+      "noteId": 1783772736650,
+      "tags": [
+        "kinematics",
+        "mechanics",
+        "Physics",
+        "Projectile-Motion",
+        "প্রাস"
+      ]
+    },
+    {
+      "noteId": 1783772820848,
+      "tags": [
+        "bengali-physics",
+        "kinematics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783772860404,
+      "tags": [
+        "kinematics",
+        "mechanics",
+        "Physics",
+        "Projectile-Motion",
+        "প্রাস"
+      ]
+    },
+    {
+      "noteId": 1783772886275,
+      "tags": [
+        "inclined-plane",
+        "mechanics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783772951104,
+      "tags": [
+        "kinematics",
+        "Physics",
+        "projectile",
+        "Projectile-Motion",
+        "প্রাস"
+      ]
+    },
+    {
+      "noteId": 1783772980906,
+      "tags": [
+        "kinematics",
+        "Physics",
+        "Projectile-Motion",
+        "প্রাসের-গতি"
+      ]
+    },
+    {
+      "noteId": 1783773001744,
+      "tags": [
+        "kinematics",
+        "Physics",
+        "Projectile-Motion",
+        "প্রাসের-গতি"
+      ]
+    },
+    {
+      "noteId": 1783773045602,
+      "tags": [
+        "kinematics",
+        "Physics",
+        "Projectile-Motion",
+        "প্রাসের-গতি"
+      ]
+    },
+    {
+      "noteId": 1783773077672,
+      "tags": [
+        "kinematics",
+        "Physics",
+        "projectile",
+        "Projectile-Motion",
+        "প্রাসের-গতি"
+      ]
+    },
+    {
+      "noteId": 1783773133617,
+      "tags": [
+        "bangla-physics",
+        "kinematics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783773174849,
+      "tags": [
+        "kinematics",
+        "Physics",
+        "Projectile-Motion",
+        "projectile-trajectory"
+      ]
+    },
+    {
+      "noteId": 1783773209337,
+      "tags": [
+        "kinematics",
+        "Physics",
+        "Projectile-Motion",
+        "projectile-trajectory",
+        "প্রাসের-গতি"
+      ]
+    },
+    {
+      "noteId": 1783773247446,
+      "tags": [
+        "bengali-physics",
+        "kinematics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783773283313,
+      "tags": [
+        "kinematics",
+        "kinetic-energy",
+        "Physics",
+        "Projectile-Motion",
+        "প্রাসের-গতি"
+      ]
+    },
+    {
+      "noteId": 1783773312489,
+      "tags": [
+        "bengali-physics",
+        "kinematics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783773331336,
+      "tags": [
+        "bengali-physics",
+        "kinematics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783773374434,
+      "tags": [
+        "bengali-physics",
+        "kinematics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783773394929,
+      "tags": [
+        "HSC-Physics",
+        "kinematics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783773433240,
+      "tags": [
+        "bengali-physics",
+        "kinematics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783773462433,
+      "tags": [
+        "bangla-physics",
+        "kinematics",
+        "Physics",
+        "Projectile-Motion"
+      ]
+    },
+    {
+      "noteId": 1783773496649,
+      "tags": [
+        "bangla-physics",
+        "kinematics",
+        "Physics",
+        "Projectile-Motion",
+        "vector-analysis"
+      ]
+    },
+    {
+      "noteId": 1783773681784,
+      "tags": [
+        "bengali-physics",
+        "graphs",
+        "kinematics",
+        "motion",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1783773717147,
+      "tags": [
+        "bengali-physics",
+        "equations-of-motion",
+        "gravity",
+        "kinematics",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1783773753016,
+      "tags": [
+        "bengali-physics",
+        "displacement",
+        "kinematics",
+        "Physics",
+        "velocity-time-graph"
+      ]
+    },
+    {
+      "noteId": 1783773880059,
+      "tags": [
+        "Bengali",
+        "kinematics",
+        "motion",
+        "Physics",
+        "Problem-Solving"
+      ]
+    },
+    {
+      "noteId": 1783866336442,
+      "tags": [
+        "conversion",
+        "errors",
+        "measurement",
+        "Physics",
+        "units"
+      ]
+    },
+    {
+      "noteId": 1783866378049,
+      "tags": [
+        "cross-product",
+        "mechanics",
+        "Physics",
+        "Projectile-Motion",
+        "Vector"
+      ]
+    },
+    {
+      "noteId": 1783866618695,
+      "tags": [
+        "Dynamics",
+        "kinematics",
+        "mcq",
+        "mechanics",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1783866657739,
+      "tags": [
+        "electrostatics",
+        "mcq",
+        "mechanics",
+        "Physics",
+        "thermodynamics"
+      ]
+    },
+    {
+      "noteId": 1783866690587,
+      "tags": [
+        "bengali-medium",
+        "current-electricity",
+        "electrostatics",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1783866717407,
+      "tags": [
+        "kinematics",
+        "mcq",
+        "mechanics",
+        "Physics",
+        "rotational-motion",
+        "Vectors"
+      ]
+    }
+  ]
+}

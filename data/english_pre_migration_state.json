@@ -1,0 +1,425 @@
+{
+  "timestamp": "2026-09-11T05:18:01.597Z",
+  "cards": [
+    {
+      "cardId": 1764163231642,
+      "note": 1764163231641,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 76
+    },
+    {
+      "cardId": 1764163231643,
+      "note": 1764163231641,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 102
+    },
+    {
+      "cardId": 1764163231644,
+      "note": 1764163231641,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 76
+    },
+    {
+      "cardId": 1764163231645,
+      "note": 1764163231641,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 96
+    },
+    {
+      "cardId": 1764163504105,
+      "note": 1764163231641,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 78
+    },
+    {
+      "cardId": 1764163541095,
+      "note": 1764163231641,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 98
+    },
+    {
+      "cardId": 1764163601193,
+      "note": 1764163231641,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 101
+    },
+    {
+      "cardId": 1764163657363,
+      "note": 1764163231641,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 76
+    },
+    {
+      "cardId": 1764163672946,
+      "note": 1764163231641,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 96
+    },
+    {
+      "cardId": 1764163939216,
+      "note": 1764163231641,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 97
+    },
+    {
+      "cardId": 1764172848375,
+      "note": 1764172848375,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 1527
+    },
+    {
+      "cardId": 1764172848376,
+      "note": 1764172848375,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 1764524894
+    },
+    {
+      "cardId": 1764172848377,
+      "note": 1764172848375,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 1527
+    },
+    {
+      "cardId": 1764172848378,
+      "note": 1764172848375,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 1764524707
+    },
+    {
+      "cardId": 1764172848379,
+      "note": 1764172848375,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 1527
+    },
+    {
+      "cardId": 1764172848380,
+      "note": 1764172848375,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 79
+    },
+    {
+      "cardId": 1764172848381,
+      "note": 1764172848375,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 1527
+    },
+    {
+      "cardId": 1764172848382,
+      "note": 1764172848375,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 1764524698
+    },
+    {
+      "cardId": 1764172848383,
+      "note": 1764172848375,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 1764524885
+    },
+    {
+      "cardId": 1764172848384,
+      "note": 1764172848375,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::RFofV",
+      "queue": -1,
+      "due": 1527
+    },
+    {
+      "cardId": 1767508215030,
+      "note": 1767508215024,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 164
+    },
+    {
+      "cardId": 1767508215031,
+      "note": 1767508215024,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 158
+    },
+    {
+      "cardId": 1767508215032,
+      "note": 1767508215024,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 166
+    },
+    {
+      "cardId": 1767508215033,
+      "note": 1767508215024,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 213
+    },
+    {
+      "cardId": 1767508215034,
+      "note": 1767508215024,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 155
+    },
+    {
+      "cardId": 1767508458489,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 204
+    },
+    {
+      "cardId": 1767508458490,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 161
+    },
+    {
+      "cardId": 1767509083571,
+      "note": 1767509083571,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 211
+    },
+    {
+      "cardId": 1767509083572,
+      "note": 1767509083571,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 167
+    },
+    {
+      "cardId": 1767509083573,
+      "note": 1767509083571,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 154
+    },
+    {
+      "cardId": 1768413076445,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 181
+    },
+    {
+      "cardId": 1768413076446,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 213
+    },
+    {
+      "cardId": 1768413076447,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 176
+    },
+    {
+      "cardId": 1768413076448,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 162
+    },
+    {
+      "cardId": 1768413076449,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1768413076450,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 168
+    },
+    {
+      "cardId": 1768413076451,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 165
+    },
+    {
+      "cardId": 1768413622941,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 212
+    },
+    {
+      "cardId": 1768413622942,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 204
+    },
+    {
+      "cardId": 1768413622943,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 209
+    },
+    {
+      "cardId": 1768413622944,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 151
+    },
+    {
+      "cardId": 1768413622945,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 202
+    },
+    {
+      "cardId": 1768413622946,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 154
+    },
+    {
+      "cardId": 1768413622947,
+      "note": 1767508458489,
+      "deckName": "[🎓] Academic::4.[📕] English::Narration",
+      "queue": 2,
+      "due": 175
+    },
+    {
+      "cardId": 1780741247242,
+      "note": 1780741247242,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::Theme Writing",
+      "queue": 0,
+      "due": 1751
+    },
+    {
+      "cardId": 1780741280102,
+      "note": 1780741280102,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::Theme Writing",
+      "queue": 0,
+      "due": 1752
+    },
+    {
+      "cardId": 1780741394738,
+      "note": 1780741394738,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::Theme Writing",
+      "queue": 0,
+      "due": 1754
+    },
+    {
+      "cardId": 1780741424411,
+      "note": 1780741424411,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::Theme Writing",
+      "queue": 0,
+      "due": 1755
+    },
+    {
+      "cardId": 1780741636955,
+      "note": 1780741636955,
+      "deckName": "[🎓] Academic::4.[📕] English::[📕] 1st Paper::Theme Writing",
+      "queue": 0,
+      "due": 1756
+    }
+  ],
+  "notes": [
+    {
+      "noteId": 1764163231641,
+      "tags": []
+    },
+    {
+      "noteId": 1764172848375,
+      "tags": []
+    },
+    {
+      "noteId": 1767508215024,
+      "tags": [
+        "Bengali-Grammar",
+        "Direct-to-Indirect",
+        "English-Grammar",
+        "Narration"
+      ]
+    },
+    {
+      "noteId": 1767508458489,
+      "tags": [
+        "Bengali-English",
+        "Direct-Indirect-Speech",
+        "English-Grammar",
+        "Narration"
+      ]
+    },
+    {
+      "noteId": 1767509083571,
+      "tags": [
+        "Direct-Indirect-Speech",
+        "English-Grammar",
+        "Narration",
+        "Passage-Narration"
+      ]
+    },
+    {
+      "noteId": 1780741247242,
+      "tags": [
+        "D.H.-Lawrence",
+        "English-Literature",
+        "Literature",
+        "Poetry-Analysis"
+      ]
+    },
+    {
+      "noteId": 1780741280102,
+      "tags": [
+        "English-Literature",
+        "Langston-Hughes",
+        "Literature",
+        "Poetry-Analysis"
+      ]
+    },
+    {
+      "noteId": 1780741394738,
+      "tags": [
+        "Literature",
+        "Poetry-Analysis",
+        "Robert-Hayden",
+        "Thematic-Study"
+      ]
+    },
+    {
+      "noteId": 1780741424411,
+      "tags": [
+        "Analysis",
+        "Bengali-Poetry",
+        "Jibanananda-Das",
+        "Literature"
+      ]
+    },
+    {
+      "noteId": 1780741636955,
+      "tags": []
+    }
+  ]
+}

@@ -17,29 +17,58 @@ Standardized structure across all academic subjects:
 
 ---
 
-## 2. Minimum Information Principle (Concepts vs MCQs vs Problems)
+## 2. Minimum Information Principle & 5-Tier Role Taxonomy
 
 Anki's Spaced Repetition System (SRS) is designed for **atomic single-fact recall** (under 10 seconds per card).
+To accommodate Board Exam Creative Questions (CQs) while strictly preserving atomic recall, we use a **5-Tier Role Taxonomy**:
+
+```
+Academic Subject Deck
+ ├── 1. concept          <- Formulas, physical laws, core theory, grammar rules, author bio (ACTIVE)
+ ├── 2. cq::k  (mark1)   <- Board CQ Part ক (1-mark direct factual recall, definitions) (ACTIVE)
+ ├── 3. cq::kh (mark2)   <- Board CQ Part খ (2-mark conceptual reasoning & quote explanations) (ACTIVE)
+ ├── 4. mcq              <- Board exam multiple-choice questions & option occlusions (ACTIVE)
+ └── 5. problem          <- Board CQ Part গ & ঘ (3/4-mark multi-step math/stimulus essays/cloze practice) (SUSPENDED)
+```
 
 ### A. Concepts (`<subject>::*::concept`) — **ACTIVE**
 - **What belongs here:**
   - **Higher Math:** Definitions, formulas, identities, geometrical conditions, standard values ($\omega^3=1$, $\sqrt{\pm i}$).
   - **ICT:** Technical terms, bandwidth speeds, protocol numbers, transmission types, number system bases/weights/codes (BCD, ASCII, Unicode), logic gate truth equations/theorems, HTML tags/attributes, C language syntax/data types/format specifiers, database keys/SQL commands.
+  - **Physics:** Fundamental physical laws, equations of motion, vector cross/dot product rules, circuit formulas, dimensions, units.
+  - **Bangla & English:** Author biographies, textbook core themes, grammar rules (narration, voice, samas, pronunciation).
 - **Card Format:** Cloze deletion, Basic Q&A (single answer), Image Occlusion on formula sheets, comparison tables, and circuit diagrams.
-- **State in Anki:** Active (`-is:suspended`), prioritized in daily review queues.
+- **State in Anki:** Active (`-is:suspended`), prioritized first in daily review queues.
 
-### B. MCQs (`<subject>::*::mcq`) — **ACTIVE**
+### B. Board CQ Part ক (`<subject>::*::cq::k`) — **ACTIVE**
 - **What belongs here:**
-  - **Higher Math & ICT:** Board questions, test paper multiple-choice questions, and factual question sheets.
-  - Testable options, rapid-fire identification, and option occlusions.
+  - 1-mark factual definitions, technical terms, book names, character names, constants independent of stimulus.
+  - Examples: *'পরম শূন্য তাপমাত্রা কাকে বলে?'*, *'ব্যাংকিং কোণ কী?'*, *'মজিদের প্রথম স্ত্রীর নাম কী?'*.
+- **Why active:** Pure rote memory recall taking <5 seconds. Represents 10% of total written CQ score.
+- **State in Anki:** Active (`-is:suspended`), prioritized after concepts.
+
+### C. Board CQ Part খ (`<subject>::*::cq::kh`) — **ACTIVE**
+- **What belongs here:**
+  - 2-mark conceptual reasoning and quote/line explanations independent of stimulus.
+  - Examples: *'ঘর্ষণ বল একটি অসংরক্ষণশীল বল কেন?'*, *''খোদার এলেম কি ঘেরাও দিয়া রাখা যায়?'-ব্যাখ্যা করো'*.
+- **Why active:** 2–3 sentence conceptual reasoning taking <15 seconds. Represents 20% of total written CQ score.
+- **State in Anki:** Active (`-is:suspended`), prioritized after ক-definitions.
+
+### D. MCQs (`<subject>::*::mcq`) — **ACTIVE**
+- **What belongs here:**
+  - Board questions, test paper multiple-choice questions, and factual question sheets.
+  - Rapid-fire option evaluation and option occlusions.
 - **Card Format:** Image Occlusion on question sets, 4-choice Q&A, or Cloze on question stems.
-- **State in Anki:** Active (`-is:suspended`), prioritized in daily review queues alongside concepts.
+- **State in Anki:** Active (`-is:suspended`), prioritized after concepts and CQ A/B.
 
-### C. Problems (`<subject>::*::problem`) — **SUSPENDED**
+### E. Problems (`<subject>::*::problem` / `<subject>::*::cq::problem`) — **SUSPENDED**
 - **What belongs here:**
+  - **Physics:** Board CQ Part গ (3-mark application) and Part ঘ (4-mark higher ability) multi-step math calculations based on unseen stimuli.
   - **Higher Math:** Multi-step coordinate geometry problems, 8-step determinant row/column operation proofs, multi-line limit derivations.
-  - **ICT:** Multi-step base conversions with fractional calculations, step-by-step 2's complement subtraction workings, complete multi-variable truth table solving proofs, full algorithmic C programs (sorting, series sum, prime checks), multi-table SQL join query writing.
-- **Why suspend:** Multi-step calculation cards cause SRS review fatigue and card failure loops. Full problem solving belongs on paper practice and IDE coding, not daily flashcard recall.
+  - **ICT:** Multi-step base conversions, 2's complement subtraction workings, complete multi-variable truth table solving proofs, full algorithmic C programs.
+  - **Bangla:** 3-mark & 4-mark stimulus essay comparison questions.
+  - **English:** Full paragraph cloze exercises (e.g. RFofV multi-blank passages).
+- **Why suspend:** Multi-step calculation cards and essay answers cause SRS review fatigue and card failure loops. Full problem solving belongs on paper practice and IDE coding, not daily flashcard recall.
 - **State in Anki:** Tagged and suspended (`is:suspended`). Searchable for reference, but excluded from daily reviews.
 
 ---

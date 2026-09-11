@@ -1,15 +1,16 @@
 #!/usr/bin/env node
 
 /**
- * Script to clean up and strip non-canonical / AI-describer loose tags from ICT and Math notes.
+ * Script to clean up and strip non-canonical / AI-describer loose tags from all 5 academic decks:
+ * - [??] Academic::2.[??] ICT
+ * - [??] Academic::7.[??] Higher Math
+ * - [??] Academic::3.[??] Bangla
+ * - [??] Academic::4.[??] English
+ * - [??] Academic::5.[?] Physics
  * 
  * Rules:
- * - Every note in ICT retains exactly its canonical tag:
- *   ict::chX::concept, ict::chX::mcq, ict::chX::problem (or ict::ch3::3.X::*)
- * - Every note in Higher Math retains exactly its canonical tag:
- *   math::basics::*, math::p1::chX::*, math::p2::ch3::*
- * - All AI-describer loose tags (Physics, Networking, Matrix, Coordinate-Geometry, etc.)
- *   and legacy flat tags (ict, math, ict::ch1, math-bengali, etc.) are removed.
+ * - Every note retains exactly its canonical hierarchical tag.
+ * - All AI-describer loose tags and legacy flat tags are removed.
  * 
  * Flags:
  *   --dry-run   Preview tag removals without modifying Anki.
@@ -39,6 +40,9 @@ async function callAnki(action, params = {}) {
     return data.result;
 }
 
+const groundTruthTags = new Map();
+
+// 1. Load canonical tags from snapshots & git
 const mathPath = path.resolve(process.cwd(), 'data', 'pre_migration_state.json');
 const ictPath = path.resolve(process.cwd(), 'data', 'ict_pre_migration_state.json');
 
@@ -50,8 +54,6 @@ const ictRaw = fs.existsSync(ictPath)
     : execSync('git show 3ebf82c:data/ict_pre_migration_state.json', { encoding: 'utf8' });
 const mathGit = JSON.parse(mathRaw);
 const ictGit = JSON.parse(ictRaw);
-
-const groundTruthTags = new Map();
 
 mathGit.notes.forEach(n => {
     const tags = n.tags;
@@ -98,7 +100,7 @@ const CURRICULUM_REALIGNMENTS = {
     1762402200638: 'math::p2::ch3::concept',
     1780321375405: 'math::basics::concept',
     1781548908851: 'math::basics::concept',
-    // ICT realignments (NCTB Ch1 Global Village & Data vs Ch2)
+    // ICT realignments
     1766560301106: 'ict::ch1::concept',
     1766385402749: 'ict::ch1::concept'
 };
@@ -106,76 +108,71 @@ for (const [nid, tag] of Object.entries(CURRICULUM_REALIGNMENTS)) {
     groundTruthTags.set(parseInt(nid, 10), tag);
 }
 
-function getIctCanonicalTag(note) {
+// 2. Load manifest ground truth from all 5 subjects if manifests exist
+const MANIFEST_FILES = [
+    'data/math_classification.json',
+    'data/ict_classification.json',
+    'data/bangla_classification.json',
+    'data/english_classification.json',
+    'data/physics_classification.json'
+];
+
+for (const mf of MANIFEST_FILES) {
+    const fullPath = path.resolve(process.cwd(), mf);
+    if (fs.existsSync(fullPath)) {
+        try {
+            const list = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+            for (const item of list) {
+                if (item.noteId && item.roleTag) {
+                    groundTruthTags.set(item.noteId, item.roleTag);
+                }
+            }
+        } catch (e) {
+            // ignore
+        }
+    }
+}
+
+function getCanonicalTag(note, defaultPrefix = '') {
     if (groundTruthTags.has(note.noteId)) {
         return groundTruthTags.get(note.noteId);
     }
-    const tagStr = note.tags.join(' ').toLowerCase();
-    const isMcq = note.tags.some(t => t.toLowerCase().includes('mcq'));
-    const role = isMcq ? 'mcq' : 'concept';
-
-    if (tagStr.includes('ict::ch3::3.1')) return `ict::ch3::3.1::${role}`;
-    if (tagStr.includes('ict::ch3::3.2')) return `ict::ch3::3.2::${role}`;
-    if (tagStr.includes('ict::ch1')) return `ict::ch1::${role}`;
-    if (tagStr.includes('ict::ch2')) return `ict::ch2::${role}`;
-    if (tagStr.includes('ict::ch4')) return `ict::ch4::${role}`;
-    if (tagStr.includes('ict::ch5')) return `ict::ch5::${role}`;
-    if (tagStr.includes('ict::ch6')) return `ict::ch6::${role}`;
-
-    return `ict::ch1::${role}`;
+    const tags = note.tags || [];
+    // Search for any existing structured tag: e.g. physics::*, bangla::*, english::*, math::*, ict::*
+    const match = tags.find(t => t.startsWith(defaultPrefix) && (t.endsWith('::concept') || t.endsWith('::mcq') || t.endsWith('::problem') || t.includes('::cq::')));
+    if (match) return match;
+    return `${defaultPrefix}::concept`;
 }
 
-function getMathCanonicalTag(note) {
-    if (groundTruthTags.has(note.noteId)) {
-        return groundTruthTags.get(note.noteId);
-    }
-    const tags = note.tags;
-    const tagStr = tags.join(' ').toLowerCase();
-    const isProblem = tags.some(t => t.includes('::problem'));
-    const isMcq = tags.some(t => t.includes('::mcq'));
-    const role = isProblem ? 'problem' : (isMcq ? 'mcq' : 'concept');
+async function cleanDeck(deckQuery, tagResolver, defaultPrefix) {
+    const cardIds = await callAnki('findCards', { query: `deck:"${deckQuery}"` });
+    if (cardIds.length === 0) return { totalNotes: 0, removals: [], additions: [], notes: [] };
 
-    if (tags.some(t => t.startsWith('math::p2::ch3')) || tagStr.includes('complex') || tagStr.includes('omega') || tagStr.includes('imaginary')) {
-        return `math::p2::ch3::${role}`;
-    }
-    if (tags.some(t => t.startsWith('math::basics')) && !tags.some(t => t.startsWith('math::p1::ch3'))) {
-        return `math::basics::${role}`;
-    }
-    if (tags.some(t => t.startsWith('math::p1::ch9')) || tagStr.includes('calculus') || tagStr.includes('limit') || tagStr.includes('অবিচ্ছিন্নতা') || tagStr.includes('অন্তরীকরণ')) {
-        return `math::p1::ch9::${role}`;
-    }
-    if (tags.some(t => t.startsWith('math::p1::ch7')) || tagStr.includes('trigonometry') || tagStr.includes('ত্রিকোণমিতি') || tagStr.includes('compound-angles')) {
-        return `math::p1::ch7::${role}`;
-    }
-    if (tags.some(t => t.startsWith('math::p1::ch4')) || tagStr.includes('circle') || tagStr.includes('বৃত্ত')) {
-        return `math::p1::ch4::${role}`;
-    }
-    if (tags.some(t => t.startsWith('math::p1::ch3')) || tagStr.includes('coordinate-geometry') || tagStr.includes('straight-lines') || tagStr.includes('locus') || tagStr.includes('স্থানাঙ্ক-জ্যামিতি') || tagStr.includes('সঞ্চারপথ')) {
-        return `math::p1::ch3::${role}`;
-    }
-    if (tags.some(t => t.startsWith('math::p1::ch2')) || tagStr.includes('vector')) {
-        return `math::p1::ch2::${role}`;
-    }
-
-    return `math::p1::ch1::${role}`;
-}
-
-async function cleanDeck(deckQuery, getCanonicalTagFn) {
-    const res = await callAnki('findNotes', { query: `deck:"${deckQuery}"` });
-    const notes = await callAnki('notesInfo', { notes: res });
+    const cards = await callAnki('cardsInfo', { cards: cardIds });
+    const noteIds = Array.from(new Set(cards.map(c => c.note)));
+    const notes = await callAnki('notesInfo', { notes: noteIds });
 
     const removals = [];
     const additions = [];
 
-    for (const n of notes) {
-        const canonical = getCanonicalTagFn(n);
-        const tagsToRemove = n.tags.filter(t => t !== canonical);
+    for (const note of notes) {
+        const canonical = tagResolver(note, defaultPrefix);
+        const tags = note.tags;
 
-        if (!n.tags.includes(canonical)) {
-            additions.push({ noteId: n.noteId, tag: canonical });
+        const toRemove = tags.filter(t => t !== canonical);
+        if (toRemove.length > 0) {
+            removals.push({
+                noteId: note.noteId,
+                canonical,
+                remove: toRemove
+            });
         }
-        if (tagsToRemove.length > 0) {
-            removals.push({ noteId: n.noteId, remove: tagsToRemove, canonical });
+
+        if (!tags.includes(canonical)) {
+            additions.push({
+                noteId: note.noteId,
+                tag: canonical
+            });
         }
     }
 
@@ -190,24 +187,19 @@ async function main() {
         return;
     }
 
-    console.log('=== Cleaning Tags in ICT & Higher Math Decks ===\n');
+    console.log('=== Cleaning Tags Across All 5 Academic Decks ===\n');
 
-    const ict = await cleanDeck('[🎓] Academic::2.[💻] ICT', getIctCanonicalTag);
-    const math = await cleanDeck('[🎓] Academic::7.[📊] Higher Math', getMathCanonicalTag);
+    const ict = await cleanDeck('*ICT*', getCanonicalTag, 'ict');
+    const math = await cleanDeck('*Higher Math*', getCanonicalTag, 'math');
+    const bangla = await cleanDeck('*Bangla*', getCanonicalTag, 'bangla');
+    const english = await cleanDeck('*English*" -deck:"*Language*', getCanonicalTag, 'english');
+    const physics = await cleanDeck('*Physics*', getCanonicalTag, 'physics');
 
-    console.log(`[ICT] Total Notes: ${ict.totalNotes} | Notes with redundant tags to strip: ${ict.removals.length}`);
-    console.log(`[Math] Total Notes: ${math.totalNotes} | Notes with redundant tags to strip: ${math.removals.length}`);
-
-    // Sample preview
-    console.log('\n--- Sample ICT Cleanup Preview ---');
-    ict.removals.slice(0, 3).forEach(r => {
-        console.log(`Note ${r.noteId}: Keep "${r.canonical}", Remove [${r.remove.slice(0, 6).join(', ')}... (${r.remove.length} tags)]`);
-    });
-
-    console.log('\n--- Sample Math Cleanup Preview ---');
-    math.removals.slice(0, 3).forEach(r => {
-        console.log(`Note ${r.noteId}: Keep "${r.canonical}", Remove [${r.remove.slice(0, 6).join(', ')}... (${r.remove.length} tags)]`);
-    });
+    console.log(`[ICT]         Total Notes: ${ict.totalNotes.toString().padStart(3)} | Notes with tags to clean: ${ict.removals.length}`);
+    console.log(`[Higher Math] Total Notes: ${math.totalNotes.toString().padStart(3)} | Notes with tags to clean: ${math.removals.length}`);
+    console.log(`[Bangla]      Total Notes: ${bangla.totalNotes.toString().padStart(3)} | Notes with tags to clean: ${bangla.removals.length}`);
+    console.log(`[English]     Total Notes: ${english.totalNotes.toString().padStart(3)} | Notes with tags to clean: ${english.removals.length}`);
+    console.log(`[Physics]     Total Notes: ${physics.totalNotes.toString().padStart(3)} | Notes with tags to clean: ${physics.removals.length}`);
 
     if (isDryRun) {
         console.log('\n[DRY RUN COMPLETE] No changes made to Anki. Run with --execute to apply.');
@@ -216,14 +208,14 @@ async function main() {
 
     // Save backup before cleaning
     console.log(`\nSaving safety backup to ${BACKUP_PATH}...`);
-    const allNotes = [...ict.notes, ...math.notes];
+    const allNotes = [...ict.notes, ...math.notes, ...bangla.notes, ...english.notes, ...physics.notes];
     fs.writeFileSync(BACKUP_PATH, JSON.stringify({
         timestamp: new Date().toISOString(),
         notes: allNotes.map(n => ({ noteId: n.noteId, tags: n.tags }))
     }, null, 2), 'utf8');
 
     // Apply additions first (ensure canonical tag exists)
-    const allAdditions = [...ict.additions, ...math.additions];
+    const allAdditions = [...ict.additions, ...math.additions, ...bangla.additions, ...english.additions, ...physics.additions];
     const addGroups = {};
     for (const a of allAdditions) {
         addGroups[a.tag] = addGroups[a.tag] || [];
@@ -235,8 +227,7 @@ async function main() {
     }
 
     // Apply removals
-    const allRemovals = [...ict.removals, ...math.removals];
-    // Group notes by tag to remove
+    const allRemovals = [...ict.removals, ...math.removals, ...bangla.removals, ...english.removals, ...physics.removals];
     const removeTagMap = {};
     for (const r of allRemovals) {
         for (const t of r.remove) {
@@ -251,7 +242,7 @@ async function main() {
     }
 
     console.log('\n=== Tag Cleanup Completed Successfully ===');
-    console.log('All notes in ICT and Higher Math now strictly carry their single canonical taxonomy tag.');
+    console.log('All notes across all 5 decks now strictly carry their canonical hierarchical tags.');
 }
 
 main().catch(err => {

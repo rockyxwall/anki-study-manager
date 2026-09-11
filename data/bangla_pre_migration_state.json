@@ -1,0 +1,974 @@
+{
+  "timestamp": "2026-09-11T05:16:33.903Z",
+  "cards": [
+    {
+      "cardId": 1764133352069,
+      "note": 1764133352069,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::a.|📙| কবিতা::1.বিভীষণের প্রতি মেঘনাদ",
+      "queue": 2,
+      "due": 126
+    },
+    {
+      "cardId": 1764595083084,
+      "note": 1764595083081,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.বিলাসী",
+      "queue": 2,
+      "due": 123
+    },
+    {
+      "cardId": 1764609940957,
+      "note": 1764609940957,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.বিলাসী",
+      "queue": 2,
+      "due": 179
+    },
+    {
+      "cardId": 1764610040088,
+      "note": 1764610040088,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.বিলাসী",
+      "queue": 2,
+      "due": 178
+    },
+    {
+      "cardId": 1764610205282,
+      "note": 1764610205282,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.বিলাসী",
+      "queue": 2,
+      "due": 177
+    },
+    {
+      "cardId": 1764610407184,
+      "note": 1764610407184,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.বিলাসী",
+      "queue": 2,
+      "due": 129
+    },
+    {
+      "cardId": 1764610468665,
+      "note": 1764610468665,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.বিলাসী",
+      "queue": 2,
+      "due": 207
+    },
+    {
+      "cardId": 1768458183267,
+      "note": 1768458183267,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1603
+    },
+    {
+      "cardId": 1768458183268,
+      "note": 1768458183267,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1603
+    },
+    {
+      "cardId": 1768458219569,
+      "note": 1768458219568,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1604
+    },
+    {
+      "cardId": 1768458280878,
+      "note": 1768458280878,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1605
+    },
+    {
+      "cardId": 1768458348168,
+      "note": 1768458348168,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1606
+    },
+    {
+      "cardId": 1768458514884,
+      "note": 1768458514884,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1607
+    },
+    {
+      "cardId": 1768458576229,
+      "note": 1768458576229,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1608
+    },
+    {
+      "cardId": 1768458622577,
+      "note": 1768458622576,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1609
+    },
+    {
+      "cardId": 1768458681615,
+      "note": 1768458681615,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1610
+    },
+    {
+      "cardId": 1768458825654,
+      "note": 1768458825654,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1611
+    },
+    {
+      "cardId": 1768458825655,
+      "note": 1768458825654,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1611
+    },
+    {
+      "cardId": 1768458907691,
+      "note": 1768458907691,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1612
+    },
+    {
+      "cardId": 1768458959276,
+      "note": 1768458959276,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1613
+    },
+    {
+      "cardId": 1768459038719,
+      "note": 1768459038718,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1614
+    },
+    {
+      "cardId": 1768459130132,
+      "note": 1768459130132,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1615
+    },
+    {
+      "cardId": 1768459130133,
+      "note": 1768459130132,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1615
+    },
+    {
+      "cardId": 1768459130134,
+      "note": 1768459130132,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1615
+    },
+    {
+      "cardId": 1768459130135,
+      "note": 1768459130132,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1615
+    },
+    {
+      "cardId": 1768459130136,
+      "note": 1768459130132,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1615
+    },
+    {
+      "cardId": 1768459197884,
+      "note": 1768459197884,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু",
+      "queue": 0,
+      "due": 1616
+    },
+    {
+      "cardId": 1768818798498,
+      "note": 1768818798494,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 229
+    },
+    {
+      "cardId": 1768819034131,
+      "note": 1768819034131,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 220
+    },
+    {
+      "cardId": 1768819034132,
+      "note": 1768819034131,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 229
+    },
+    {
+      "cardId": 1768819034133,
+      "note": 1768819034131,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 220
+    },
+    {
+      "cardId": 1768819034134,
+      "note": 1768819034131,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 228
+    },
+    {
+      "cardId": 1768819194392,
+      "note": 1768819194392,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 220
+    },
+    {
+      "cardId": 1768819194393,
+      "note": 1768819194392,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 241
+    },
+    {
+      "cardId": 1768819194394,
+      "note": 1768819194392,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 227
+    },
+    {
+      "cardId": 1768819552467,
+      "note": 1768819552467,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 222
+    },
+    {
+      "cardId": 1768819552468,
+      "note": 1768819552467,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 224
+    },
+    {
+      "cardId": 1768819552469,
+      "note": 1768819552467,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 220
+    },
+    {
+      "cardId": 1768819813694,
+      "note": 1768819813694,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 220
+    },
+    {
+      "cardId": 1768819813696,
+      "note": 1768819813694,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 220
+    },
+    {
+      "cardId": 1768819813697,
+      "note": 1768819813694,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 223
+    },
+    {
+      "cardId": 1768819948202,
+      "note": 1768819948202,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 220
+    },
+    {
+      "cardId": 1768819948203,
+      "note": 1768819948202,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 226
+    },
+    {
+      "cardId": 1768819948204,
+      "note": 1768819948202,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::1-mark",
+      "queue": 2,
+      "due": 223
+    },
+    {
+      "cardId": 1768820258891,
+      "note": 1768820258891,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 2,
+      "due": 265
+    },
+    {
+      "cardId": 1768820258892,
+      "note": 1768820258891,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 2,
+      "due": 264
+    },
+    {
+      "cardId": 1768820472534,
+      "note": 1768820472534,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 2,
+      "due": 264
+    },
+    {
+      "cardId": 1768820472535,
+      "note": 1768820472534,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1624
+    },
+    {
+      "cardId": 1768820887976,
+      "note": 1768820887976,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1625
+    },
+    {
+      "cardId": 1768820887977,
+      "note": 1768820887976,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1625
+    },
+    {
+      "cardId": 1768821331115,
+      "note": 1768821331115,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1626
+    },
+    {
+      "cardId": 1768821331116,
+      "note": 1768821331115,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1626
+    },
+    {
+      "cardId": 1768821480496,
+      "note": 1768821480496,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 2,
+      "due": 264
+    },
+    {
+      "cardId": 1768821480497,
+      "note": 1768821480496,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1627
+    },
+    {
+      "cardId": 1768829743405,
+      "note": 1768829743404,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1628
+    },
+    {
+      "cardId": 1768829743406,
+      "note": 1768829743404,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 1,
+      "due": 1780731052
+    },
+    {
+      "cardId": 1768829784284,
+      "note": 1768829784284,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 2,
+      "due": 265
+    },
+    {
+      "cardId": 1768829784285,
+      "note": 1768829784284,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1629
+    },
+    {
+      "cardId": 1768829851879,
+      "note": 1768829851879,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1630
+    },
+    {
+      "cardId": 1768829851880,
+      "note": 1768829851879,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1630
+    },
+    {
+      "cardId": 1768829900481,
+      "note": 1768829900481,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1631
+    },
+    {
+      "cardId": 1768829900482,
+      "note": 1768829900481,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1631
+    },
+    {
+      "cardId": 1768829945393,
+      "note": 1768829945393,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 2,
+      "due": 265
+    },
+    {
+      "cardId": 1768829945394,
+      "note": 1768829945393,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 2,
+      "due": 265
+    },
+    {
+      "cardId": 1768829998170,
+      "note": 1768829998170,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1633
+    },
+    {
+      "cardId": 1768829998171,
+      "note": 1768829998170,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 1,
+      "due": 1780730998
+    },
+    {
+      "cardId": 1768830035739,
+      "note": 1768830035739,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1634
+    },
+    {
+      "cardId": 1768830035740,
+      "note": 1768830035739,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 2,
+      "due": 264
+    },
+    {
+      "cardId": 1768830084292,
+      "note": 1768830084292,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1635
+    },
+    {
+      "cardId": 1768830084293,
+      "note": 1768830084292,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1635
+    },
+    {
+      "cardId": 1768830144325,
+      "note": 1768830144325,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 0,
+      "due": 1636
+    },
+    {
+      "cardId": 1768830144326,
+      "note": 1768830144325,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::2-mark",
+      "queue": 2,
+      "due": 264
+    },
+    {
+      "cardId": 1768830393845,
+      "note": 1768830393844,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::3-mark",
+      "queue": 0,
+      "due": 1637
+    },
+    {
+      "cardId": 1768830393846,
+      "note": 1768830393844,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::c.|📙| সহপাঠ::1.লালসালু::3-mark",
+      "queue": 0,
+      "due": 1637
+    },
+    {
+      "cardId": 1776867511829,
+      "note": 1776867511828,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.মাসি পিসি",
+      "queue": 0,
+      "due": 1679
+    },
+    {
+      "cardId": 1776867511830,
+      "note": 1776867511828,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.মাসি পিসি",
+      "queue": 0,
+      "due": 1679
+    },
+    {
+      "cardId": 1776867511831,
+      "note": 1776867511828,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.মাসি পিসি",
+      "queue": 0,
+      "due": 1679
+    },
+    {
+      "cardId": 1776867623769,
+      "note": 1776867623769,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.মাসি পিসি",
+      "queue": 0,
+      "due": 1680
+    },
+    {
+      "cardId": 1776867623770,
+      "note": 1776867623769,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.মাসি পিসি",
+      "queue": 0,
+      "due": 1680
+    },
+    {
+      "cardId": 1776867623771,
+      "note": 1776867623769,
+      "deckName": "[🎓] Academic::3.[📙] Bangla::a.|📙| 1st Paper::b.|📙| গদ্য::2.মাসি পিসি",
+      "queue": 0,
+      "due": 1680
+    }
+  ],
+  "notes": [
+    {
+      "noteId": 1764133352069,
+      "tags": [
+        "Bengali-Literature",
+        "Epic-Poetry",
+        "Meghnadbadh-Kavya",
+        "Michael-Madhusudan-Dutt"
+      ]
+    },
+    {
+      "noteId": 1764595083081,
+      "tags": [
+        "Abhagir-Swargo",
+        "Bengali-Literature",
+        "Educational-Struggle",
+        "Sarat-Chandra-Chattopadhyay"
+      ]
+    },
+    {
+      "noteId": 1764609940957,
+      "tags": [
+        "Bengali-Literature",
+        "Ke-Banchay-Ke-Banchay",
+        "Manik-Bandopadhyay",
+        "mcq"
+      ]
+    },
+    {
+      "noteId": 1764610040088,
+      "tags": [
+        "Bengali-Literature",
+        "Bilashi",
+        "Literature-Quiz",
+        "Sarat-Chandra-Chattopadhyay"
+      ]
+    },
+    {
+      "noteId": 1764610205282,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Sarat-Chandra-Chattopadhyay",
+        "Trivia"
+      ]
+    },
+    {
+      "noteId": 1764610407184,
+      "tags": [
+        "Bengali-Literature",
+        "Distance-Units",
+        "General-Knowledge",
+        "Literature"
+      ]
+    },
+    {
+      "noteId": 1764610468665,
+      "tags": [
+        "Bengali-Literature",
+        "Bilasi",
+        "Character-Analysis",
+        "Sarat-Chandra-Chattopadhyay"
+      ]
+    },
+    {
+      "noteId": 1768458183267,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Lalsalu",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768458219568,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Jamila",
+        "Lalshalu"
+      ]
+    },
+    {
+      "noteId": 1768458280878,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Jamila",
+        "Lalsalu"
+      ]
+    },
+    {
+      "noteId": 1768458348168,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Lalsalu",
+        "Literature"
+      ]
+    },
+    {
+      "noteId": 1768458514884,
+      "tags": [
+        "Bengali-Literature",
+        "Literature",
+        "Rabindranath-Tagore",
+        "Shasti"
+      ]
+    },
+    {
+      "noteId": 1768458576229,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Dhola-Mia",
+        "Lalsalu"
+      ]
+    },
+    {
+      "noteId": 1768458622576,
+      "tags": [
+        "Bengali",
+        "folklore",
+        "Literature",
+        "narrative"
+      ]
+    },
+    {
+      "noteId": 1768458681615,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Lalsalu",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768458825654,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Literature",
+        "Novel-Study"
+      ]
+    },
+    {
+      "noteId": 1768458907691,
+      "tags": [
+        "চরিত্র-বিশ্লেষণ",
+        "দুদু-মিঞা",
+        "বাংলা-সাহিত্য",
+        "লালসালু"
+      ]
+    },
+    {
+      "noteId": 1768458959276,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Literature",
+        "Social-Conflict"
+      ]
+    },
+    {
+      "noteId": 1768459038718,
+      "tags": [
+        "Bengali",
+        "Lalsalu",
+        "Literature",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768459130132,
+      "tags": [
+        "Bengali",
+        "Character-Analysis",
+        "Literature",
+        "Social-Roles"
+      ]
+    },
+    {
+      "noteId": 1768459197884,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Lalsalu",
+        "Literature",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768818798494,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Lalsalu",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768819034131,
+      "tags": [
+        "Bengali-Literature",
+        "HSC",
+        "Lalsalu",
+        "Literature",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768819194392,
+      "tags": [
+        "Bengali-Literature",
+        "HSC-Bengali",
+        "Lalsalu",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768819552467,
+      "tags": [
+        "Bengali-Literature",
+        "Lalsalu",
+        "Social-Issues",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768819813694,
+      "tags": [
+        "Bangla-Literature",
+        "HSC-Bangla",
+        "Lalsalu",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768819948202,
+      "tags": [
+        "Bengali-Literature",
+        "Lalsalu",
+        "mcq",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768820258891,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Lalsalu",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768820472534,
+      "tags": [
+        "Bengali-Literature",
+        "Lalsalu",
+        "Literature",
+        "Majid",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768820887976,
+      "tags": [
+        "Bengali-Literature",
+        "Lalsalu",
+        "Literary-Analysis",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768821331115,
+      "tags": [
+        "Bangla",
+        "HSC",
+        "Lalsalu",
+        "Literature",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768821480496,
+      "tags": [
+        "Bengali-Literature",
+        "HSC-Bengali",
+        "Lalsalu",
+        "Majid",
+        "Rahima"
+      ]
+    },
+    {
+      "noteId": 1768829743404,
+      "tags": [
+        "Bengali-Literature",
+        "Lalsalu",
+        "Literature",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768829784284,
+      "tags": [
+        "Bengali-Literature",
+        "Lalsalu",
+        "Novel-Analysis",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768829851879,
+      "tags": [
+        "Bengali-Literature",
+        "Lalsalu",
+        "Novel-Analysis",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768829900481,
+      "tags": [
+        "Bengali-Literature",
+        "Lalsalu",
+        "Literary-Analysis",
+        "Majid",
+        "Rahima",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768829945393,
+      "tags": [
+        "Bengali-Literature",
+        "Lalsalu",
+        "Majid",
+        "Religion-and-Fraud",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768829998170,
+      "tags": [
+        "Bangla-Literature",
+        "HSC-Bangla",
+        "Lalsalu",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768830035739,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Lalsalu",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768830084292,
+      "tags": [
+        "Bengali-Literature",
+        "HSC-Bengali",
+        "Lalsalu",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768830144325,
+      "tags": [
+        "Bengali-Literature",
+        "Character-Analysis",
+        "Lalsalu",
+        "Majid",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1768830393844,
+      "tags": [
+        "Bengali-Literature",
+        "Lalsalu",
+        "Literary-Analysis",
+        "Superstition",
+        "Syed-Waliullah"
+      ]
+    },
+    {
+      "noteId": 1776867511828,
+      "tags": [
+        "Bengali-Literature",
+        "HSC-Bengali",
+        "Manik-Bandopadhyay",
+        "Masi-Pisi",
+        "mcq"
+      ]
+    },
+    {
+      "noteId": 1776867623769,
+      "tags": [
+        "Bengali-Literature",
+        "HSC-Bengali",
+        "Manik-Bandopadhyay",
+        "Masi-Pisi"
+      ]
+    }
+  ]
+}
