@@ -6,7 +6,10 @@
   "scripts": {
     "migrate-math:dry": "node scripts/migrate-math-deck.mjs --dry-run",
     "migrate-math:exec": "node scripts/migrate-math-deck.mjs --execute",
-    "migrate-math:restore": "node scripts/migrate-math-deck.mjs --restore"
+    "migrate-math:restore": "node scripts/migrate-math-deck.mjs --restore",
+    "migrate-ict:dry": "node scripts/migrate-ict-deck.mjs --dry-run",
+    "migrate-ict:exec": "node scripts/migrate-ict-deck.mjs --execute",
+    "migrate-ict:restore": "node scripts/migrate-ict-deck.mjs --restore"
   },
   "keywords": ["anki", "study", "hsc", "flashcards"],
   "license": "MIT"

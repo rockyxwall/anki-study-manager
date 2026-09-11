@@ -1,0 +1,3539 @@
+{
+  "timestamp": "2026-09-11T03:38:05.070Z",
+  "cards": [
+    {
+      "cardId": 1762187126919,
+      "note": 1762187126917,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782041635
+    },
+    {
+      "cardId": 1764176389072,
+      "note": 1764176389072,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1764176389073,
+      "note": 1764176389072,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1764176389074,
+      "note": 1764176389072,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1764176658334,
+      "note": 1764176658334,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1764177048453,
+      "note": 1764177048452,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042224
+    },
+    {
+      "cardId": 1764177048454,
+      "note": 1764177048452,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1764177048455,
+      "note": 1764177048452,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042263
+    },
+    {
+      "cardId": 1766385331351,
+      "note": 1766385331351,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 110
+    },
+    {
+      "cardId": 1766385402749,
+      "note": 1766385402749,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 142
+    },
+    {
+      "cardId": 1766385515797,
+      "note": 1766385515797,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 105
+    },
+    {
+      "cardId": 1766385840696,
+      "note": 1766385840696,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 104
+    },
+    {
+      "cardId": 1766385948780,
+      "note": 1766385948780,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769191829
+    },
+    {
+      "cardId": 1766386169601,
+      "note": 1766386169601,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1766386169602,
+      "note": 1766386169601,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 163
+    },
+    {
+      "cardId": 1766386606767,
+      "note": 1766386606767,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 170
+    },
+    {
+      "cardId": 1766386606768,
+      "note": 1766386606767,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769176098
+    },
+    {
+      "cardId": 1766386606769,
+      "note": 1766386606767,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 190
+    },
+    {
+      "cardId": 1766386606770,
+      "note": 1766386606767,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 130
+    },
+    {
+      "cardId": 1766386606771,
+      "note": 1766386606767,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 104
+    },
+    {
+      "cardId": 1766387090031,
+      "note": 1766387090030,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 104
+    },
+    {
+      "cardId": 1766387090032,
+      "note": 1766387090030,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 157
+    },
+    {
+      "cardId": 1766387090033,
+      "note": 1766387090030,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 176
+    },
+    {
+      "cardId": 1766387090034,
+      "note": 1766387090030,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 104
+    },
+    {
+      "cardId": 1766387280035,
+      "note": 1766387280035,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 131
+    },
+    {
+      "cardId": 1766387280037,
+      "note": 1766387280035,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 131
+    },
+    {
+      "cardId": 1766387280038,
+      "note": 1766387280035,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 141
+    },
+    {
+      "cardId": 1766405882444,
+      "note": 1766405882443,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 130
+    },
+    {
+      "cardId": 1766405882445,
+      "note": 1766405882443,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 130
+    },
+    {
+      "cardId": 1766406312712,
+      "note": 1766406312712,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 112
+    },
+    {
+      "cardId": 1766406613849,
+      "note": 1766406613848,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 104
+    },
+    {
+      "cardId": 1766406912245,
+      "note": 1766406912245,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 107
+    },
+    {
+      "cardId": 1766407168607,
+      "note": 1766407168607,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1578
+    },
+    {
+      "cardId": 1766407168608,
+      "note": 1766407168607,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 108
+    },
+    {
+      "cardId": 1766407278711,
+      "note": 1766407278711,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 103
+    },
+    {
+      "cardId": 1766407278712,
+      "note": 1766407278711,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 130
+    },
+    {
+      "cardId": 1766407278713,
+      "note": 1766407278711,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 111
+    },
+    {
+      "cardId": 1766407278714,
+      "note": 1766407278711,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 111
+    },
+    {
+      "cardId": 1766407278715,
+      "note": 1766407278711,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 104
+    },
+    {
+      "cardId": 1766407278716,
+      "note": 1766407278711,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1579
+    },
+    {
+      "cardId": 1766407278717,
+      "note": 1766407278711,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1579
+    },
+    {
+      "cardId": 1766407278718,
+      "note": 1766407278711,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 105
+    },
+    {
+      "cardId": 1766407462754,
+      "note": 1766407462754,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1580
+    },
+    {
+      "cardId": 1766407462755,
+      "note": 1766407462754,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 104
+    },
+    {
+      "cardId": 1766407624482,
+      "note": 1766407624481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1581
+    },
+    {
+      "cardId": 1766407798066,
+      "note": 1766407798066,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 103
+    },
+    {
+      "cardId": 1766407798067,
+      "note": 1766407798066,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 105
+    },
+    {
+      "cardId": 1766559519615,
+      "note": 1766559519615,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 103
+    },
+    {
+      "cardId": 1766559519616,
+      "note": 1766559519615,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 104
+    },
+    {
+      "cardId": 1766559519617,
+      "note": 1766559519615,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 104
+    },
+    {
+      "cardId": 1766560301106,
+      "note": 1766560301106,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1586
+    },
+    {
+      "cardId": 1769169447892,
+      "note": 1769169447892,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782041936
+    },
+    {
+      "cardId": 1769169509523,
+      "note": 1769169509523,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1639
+    },
+    {
+      "cardId": 1769169563541,
+      "note": 1769169563540,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1640
+    },
+    {
+      "cardId": 1769169633262,
+      "note": 1769169633262,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1641
+    },
+    {
+      "cardId": 1769169752615,
+      "note": 1769169752615,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042152
+    },
+    {
+      "cardId": 1769169784438,
+      "note": 1769169784438,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782041974
+    },
+    {
+      "cardId": 1769169812830,
+      "note": 1769169812830,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1644
+    },
+    {
+      "cardId": 1769169890144,
+      "note": 1769169890144,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042258
+    },
+    {
+      "cardId": 1769169939084,
+      "note": 1769169939084,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1646
+    },
+    {
+      "cardId": 1769169939085,
+      "note": 1769169939084,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1646
+    },
+    {
+      "cardId": 1769169971444,
+      "note": 1769169971444,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1647
+    },
+    {
+      "cardId": 1769169971445,
+      "note": 1769169971444,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042050
+    },
+    {
+      "cardId": 1769170008140,
+      "note": 1769170008140,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1648
+    },
+    {
+      "cardId": 1769170008141,
+      "note": 1769170008140,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1648
+    },
+    {
+      "cardId": 1769170086049,
+      "note": 1769170086049,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1649
+    },
+    {
+      "cardId": 1769170086050,
+      "note": 1769170086049,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1649
+    },
+    {
+      "cardId": 1769170120391,
+      "note": 1769170120391,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1650
+    },
+    {
+      "cardId": 1769170120392,
+      "note": 1769170120391,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042101
+    },
+    {
+      "cardId": 1769170145132,
+      "note": 1769170145132,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1651
+    },
+    {
+      "cardId": 1769281697404,
+      "note": 1769281697404,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769281697405,
+      "note": 1769281697404,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769281697406,
+      "note": 1769281697404,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769281697407,
+      "note": 1769281697404,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769281697408,
+      "note": 1769281697404,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769281697409,
+      "note": 1769281697404,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769281697410,
+      "note": 1769281697404,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 133
+    },
+    {
+      "cardId": 1769281697411,
+      "note": 1769281697404,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769281789974,
+      "note": 1769281789974,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769281789975,
+      "note": 1769281789974,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769281789976,
+      "note": 1769281789974,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769281789977,
+      "note": 1769281789974,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769281789978,
+      "note": 1769281789974,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 133
+    },
+    {
+      "cardId": 1769281789979,
+      "note": 1769281789974,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769283320838,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769283320839,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769283320840,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769283320841,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769283320842,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769283320843,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769283320844,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769283320845,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769283320846,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769283320847,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769283320848,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769283320849,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 134
+    },
+    {
+      "cardId": 1769283320850,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769283320851,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769283320852,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769283320853,
+      "note": 1769283320838,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284387999,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284388000,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284388001,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284388002,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284388003,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284388004,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284388005,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284388006,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284388007,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284388008,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284388009,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284388010,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284388011,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284388012,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284388013,
+      "note": 1769284387999,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284482581,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284482582,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284482583,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284482584,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284482585,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284482586,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284482587,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284482588,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284482589,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284482590,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284482591,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284482592,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284482593,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284482594,
+      "note": 1769284482581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284555232,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284555233,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284555234,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284555235,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284555236,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284555237,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284555238,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284555239,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284555240,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284555241,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284555242,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284555243,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284555244,
+      "note": 1769284555232,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284623804,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284623805,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284623806,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284623807,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284623808,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284623809,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284623810,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284623811,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284623812,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284623813,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284623814,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284623815,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284623816,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284623817,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284623818,
+      "note": 1769284623804,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284753494,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284753495,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284753496,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284753497,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284753498,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284753499,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284753500,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769284753501,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284753502,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284753503,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284753504,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284753505,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284753506,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769284753507,
+      "note": 1769284753494,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 142
+    },
+    {
+      "cardId": 1769284783268,
+      "note": 1769284783268,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769284783269,
+      "note": 1769284783268,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769284783270,
+      "note": 1769284783268,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336400257,
+      "note": 1769336400253,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345517
+    },
+    {
+      "cardId": 1769336400258,
+      "note": 1769336400253,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769336400259,
+      "note": 1769336400253,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1663
+    },
+    {
+      "cardId": 1769336472291,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1664
+    },
+    {
+      "cardId": 1769336472292,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1664
+    },
+    {
+      "cardId": 1769336472293,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1664
+    },
+    {
+      "cardId": 1769336472294,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345408
+    },
+    {
+      "cardId": 1769336472295,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1664
+    },
+    {
+      "cardId": 1769336472296,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769336472297,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1664
+    },
+    {
+      "cardId": 1769336472298,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1664
+    },
+    {
+      "cardId": 1769336472299,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1664
+    },
+    {
+      "cardId": 1769336472300,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769336472301,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769336472302,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345353
+    },
+    {
+      "cardId": 1769336472303,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345244
+    },
+    {
+      "cardId": 1769336472304,
+      "note": 1769336472291,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769336546760,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769336546761,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546762,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546763,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546764,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769336546765,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546766,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546767,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336546768,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546769,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546770,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769336546771,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546772,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546773,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345417
+    },
+    {
+      "cardId": 1769336546774,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546775,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546776,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546777,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336546778,
+      "note": 1769336546760,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1665
+    },
+    {
+      "cardId": 1769336632829,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336632830,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336632831,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336632832,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336632833,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336632834,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336632835,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336632836,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336632837,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769336632838,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345572
+    },
+    {
+      "cardId": 1769336632839,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336632840,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769336632841,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336632842,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336632843,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336632844,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769336632845,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336632846,
+      "note": 1769336632829,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1666
+    },
+    {
+      "cardId": 1769336693295,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1667
+    },
+    {
+      "cardId": 1769336693296,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1667
+    },
+    {
+      "cardId": 1769336693297,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1667
+    },
+    {
+      "cardId": 1769336693298,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1667
+    },
+    {
+      "cardId": 1769336693299,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769336693300,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1667
+    },
+    {
+      "cardId": 1769336693301,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1667
+    },
+    {
+      "cardId": 1769336693302,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336693303,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1667
+    },
+    {
+      "cardId": 1769336693304,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1667
+    },
+    {
+      "cardId": 1769336693305,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1667
+    },
+    {
+      "cardId": 1769336693306,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769336693307,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769336693308,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1667
+    },
+    {
+      "cardId": 1769336693309,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336693310,
+      "note": 1769336693295,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1667
+    },
+    {
+      "cardId": 1769336744727,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1668
+    },
+    {
+      "cardId": 1769336744728,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769336744729,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769336744730,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336744731,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1668
+    },
+    {
+      "cardId": 1769336744732,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769336744733,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1668
+    },
+    {
+      "cardId": 1769336744734,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345234
+    },
+    {
+      "cardId": 1769336744735,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1668
+    },
+    {
+      "cardId": 1769336744736,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1668
+    },
+    {
+      "cardId": 1769336744737,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769336744738,
+      "note": 1769336744727,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1668
+    },
+    {
+      "cardId": 1769336820545,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769336820546,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336820547,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1669
+    },
+    {
+      "cardId": 1769336820548,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769336820549,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336820550,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345572
+    },
+    {
+      "cardId": 1769336820551,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769336820552,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769336820553,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336820554,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1669
+    },
+    {
+      "cardId": 1769336820555,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1669
+    },
+    {
+      "cardId": 1769336820556,
+      "note": 1769336820545,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1669
+    },
+    {
+      "cardId": 1769336878015,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878016,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878017,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878018,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878019,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878020,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878021,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878022,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878023,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878024,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878025,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878026,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878027,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1670
+    },
+    {
+      "cardId": 1769336878028,
+      "note": 1769336878015,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336954481,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954482,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769336954483,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769336954484,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954485,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769336954486,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954487,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954488,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954489,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345464
+    },
+    {
+      "cardId": 1769336954490,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954491,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954492,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954493,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954494,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954495,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954496,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336954497,
+      "note": 1769336954481,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1671
+    },
+    {
+      "cardId": 1769336998375,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769336998376,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769336998377,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1672
+    },
+    {
+      "cardId": 1769336998378,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1672
+    },
+    {
+      "cardId": 1769336998379,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1672
+    },
+    {
+      "cardId": 1769336998380,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1672
+    },
+    {
+      "cardId": 1769336998381,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1672
+    },
+    {
+      "cardId": 1769336998383,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1672
+    },
+    {
+      "cardId": 1769336998384,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1672
+    },
+    {
+      "cardId": 1769336998385,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345449
+    },
+    {
+      "cardId": 1769336998386,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1672
+    },
+    {
+      "cardId": 1769336998387,
+      "note": 1769336998375,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345356
+    },
+    {
+      "cardId": 1769337038329,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769337038330,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1673
+    },
+    {
+      "cardId": 1769337038331,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769337038332,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1673
+    },
+    {
+      "cardId": 1769337038333,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1673
+    },
+    {
+      "cardId": 1769337038334,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345331
+    },
+    {
+      "cardId": 1769337038335,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1673
+    },
+    {
+      "cardId": 1769337038336,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769337038337,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1673
+    },
+    {
+      "cardId": 1769337038338,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1673
+    },
+    {
+      "cardId": 1769337038339,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1673
+    },
+    {
+      "cardId": 1769337038340,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769337038341,
+      "note": 1769337038329,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1673
+    },
+    {
+      "cardId": 1769337089993,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337089994,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337089995,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337089996,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337089997,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1769345456
+    },
+    {
+      "cardId": 1769337089998,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337089999,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337090000,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337090001,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337090002,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337090003,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 137
+    },
+    {
+      "cardId": 1769337090004,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337090005,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337090006,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337090007,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337090008,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337090009,
+      "note": 1769337089993,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1674
+    },
+    {
+      "cardId": 1769337129520,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769337129521,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 136
+    },
+    {
+      "cardId": 1769337129522,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769337129523,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1675
+    },
+    {
+      "cardId": 1769337129524,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1675
+    },
+    {
+      "cardId": 1769337129525,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769337129526,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 135
+    },
+    {
+      "cardId": 1769337129527,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1675
+    },
+    {
+      "cardId": 1769337129528,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1675
+    },
+    {
+      "cardId": 1769337129529,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1675
+    },
+    {
+      "cardId": 1769337129530,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 2,
+      "due": 132
+    },
+    {
+      "cardId": 1769337129531,
+      "note": 1769337129520,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1675
+    },
+    {
+      "cardId": 1780907094696,
+      "note": 1780907094696,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042437
+    },
+    {
+      "cardId": 1780907139491,
+      "note": 1780907139491,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042329
+    },
+    {
+      "cardId": 1780907200373,
+      "note": 1780907200373,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042424
+    },
+    {
+      "cardId": 1780907255826,
+      "note": 1780907255826,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042477
+    },
+    {
+      "cardId": 1780907255827,
+      "note": 1780907255826,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042550
+    },
+    {
+      "cardId": 1780907255828,
+      "note": 1780907255826,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042544
+    },
+    {
+      "cardId": 1780907279778,
+      "note": 1780907279778,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042393
+    },
+    {
+      "cardId": 1780907364382,
+      "note": 1780907364382,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042496
+    },
+    {
+      "cardId": 1780907364383,
+      "note": 1780907364382,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782041905
+    },
+    {
+      "cardId": 1780907364384,
+      "note": 1780907364382,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042519
+    },
+    {
+      "cardId": 1780907364385,
+      "note": 1780907364382,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1762
+    },
+    {
+      "cardId": 1780907399560,
+      "note": 1780907399560,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1763
+    },
+    {
+      "cardId": 1780907416132,
+      "note": 1780907416132,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1764
+    },
+    {
+      "cardId": 1780907430096,
+      "note": 1780907430096,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1765
+    },
+    {
+      "cardId": 1780907470703,
+      "note": 1780907470703,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1766
+    },
+    {
+      "cardId": 1780907488362,
+      "note": 1780907488362,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1767
+    },
+    {
+      "cardId": 1780907530513,
+      "note": 1780907530513,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1768
+    },
+    {
+      "cardId": 1780907547581,
+      "note": 1780907547581,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1769
+    },
+    {
+      "cardId": 1780907567417,
+      "note": 1780907567417,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1770
+    },
+    {
+      "cardId": 1780926532736,
+      "note": 1780926532735,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1771
+    },
+    {
+      "cardId": 1780926560282,
+      "note": 1780926560282,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1772
+    },
+    {
+      "cardId": 1780926581210,
+      "note": 1780926581210,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1773
+    },
+    {
+      "cardId": 1780926621226,
+      "note": 1780926621226,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1774
+    },
+    {
+      "cardId": 1780926703395,
+      "note": 1780926703395,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1775
+    },
+    {
+      "cardId": 1780926718451,
+      "note": 1780926718451,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 0,
+      "due": 1776
+    },
+    {
+      "cardId": 1780927686864,
+      "note": 1780927686862,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042239
+    },
+    {
+      "cardId": 1780927805047,
+      "note": 1780927805047,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042274
+    },
+    {
+      "cardId": 1780927805048,
+      "note": 1780927805047,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042225
+    },
+    {
+      "cardId": 1780927805049,
+      "note": 1780927805047,
+      "deckName": "[🎓] Academic::2.[💻] ICT",
+      "queue": 1,
+      "due": 1782042194
+    }
+  ],
+  "notes": [
+    {
+      "noteId": 1762187126917,
+      "tags": [
+        "ict::ch1"
+      ]
+    },
+    {
+      "noteId": 1764176389072,
+      "tags": [
+        "Basic-Arithmetic",
+        "ict::ch3::3.1",
+        "Mathematics",
+        "Number-System",
+        "সংখ্যা-পদ্ধতি"
+      ]
+    },
+    {
+      "noteId": 1764176658334,
+      "tags": [
+        "Computer-Science",
+        "ict",
+        "ict::ch3::3.1",
+        "Number-System",
+        "Positional-Number-System"
+      ]
+    },
+    {
+      "noteId": 1764177048452,
+      "tags": [
+        "Computer-Science",
+        "Digital-Electronics",
+        "ict::ch3::3.1",
+        "LSB",
+        "MSB",
+        "Number-System"
+      ]
+    },
+    {
+      "noteId": 1766385331351,
+      "tags": [
+        "Communication-System",
+        "Data-Transmission",
+        "Definition",
+        "ict",
+        "ict::ch2"
+      ]
+    },
+    {
+      "noteId": 1766385402749,
+      "tags": [
+        "Basic-Computing",
+        "Data-Science",
+        "ict",
+        "ict::ch2",
+        "Information-Technology"
+      ]
+    },
+    {
+      "noteId": 1766385515797,
+      "tags": [
+        "Bengali",
+        "Data-Communication",
+        "ict",
+        "ict::ch2",
+        "Networking"
+      ]
+    },
+    {
+      "noteId": 1766385840696,
+      "tags": [
+        "Communication-System",
+        "Communication-Systems",
+        "Electronics",
+        "ict::ch2",
+        "Information-Technology",
+        "Physics",
+        "Signal-Processing"
+      ]
+    },
+    {
+      "noteId": 1766385948780,
+      "tags": [
+        "Bandwidth",
+        "Communication",
+        "Data-Transfer",
+        "ict",
+        "ict::ch2"
+      ]
+    },
+    {
+      "noteId": 1766386169601,
+      "tags": [
+        "Bandwidth",
+        "Computer-Science",
+        "Data-Transmission",
+        "Data-Units",
+        "ict",
+        "ict::ch2"
+      ]
+    },
+    {
+      "noteId": 1766386606767,
+      "tags": [
+        "Bandwidth",
+        "Data-Communication",
+        "ict",
+        "ict::ch2",
+        "Narrow-Band"
+      ]
+    },
+    {
+      "noteId": 1766387090030,
+      "tags": [
+        "Bandwidth",
+        "Data-Communication",
+        "ict",
+        "ict::ch2",
+        "Voice-Band"
+      ]
+    },
+    {
+      "noteId": 1766387280035,
+      "tags": [
+        "Broadband",
+        "Data-Communication",
+        "ict",
+        "ict::ch2",
+        "Networking"
+      ]
+    },
+    {
+      "noteId": 1766405882443,
+      "tags": [
+        "Computer-Science",
+        "Data-Transmission",
+        "ict::ch2",
+        "Networking",
+        "serial-parallel"
+      ]
+    },
+    {
+      "noteId": 1766406312712,
+      "tags": [
+        "Computer-Science",
+        "Data-Communication",
+        "ict",
+        "ict::ch2",
+        "Parallel-Transmission"
+      ]
+    },
+    {
+      "noteId": 1766406613848,
+      "tags": [
+        "Data-Communication",
+        "ict::ch2",
+        "Networking",
+        "Serial-Transmission",
+        "Synchronization"
+      ]
+    },
+    {
+      "noteId": 1766406912245,
+      "tags": [
+        "Asynchronous-Transmission",
+        "Computer-Science",
+        "Data-Communication",
+        "ict::ch2",
+        "Networking"
+      ]
+    },
+    {
+      "noteId": 1766407168607,
+      "tags": [
+        "Data-Communication",
+        "ict",
+        "ict::ch2",
+        "Networking",
+        "Synchronous-Transmission"
+      ]
+    },
+    {
+      "noteId": 1766407278711,
+      "tags": [
+        "Computer-Networking",
+        "Data-Communication",
+        "ict",
+        "ict::ch2",
+        "Transmission-Modes"
+      ]
+    },
+    {
+      "noteId": 1766407462754,
+      "tags": [
+        "Data-Communication",
+        "ict",
+        "ict::ch2",
+        "Networking",
+        "Transmission-Modes"
+      ]
+    },
+    {
+      "noteId": 1766407624481,
+      "tags": [
+        "Data-Communication",
+        "Full-Duplex",
+        "Half-Duplex",
+        "ict::ch2",
+        "Networking",
+        "Simplex"
+      ]
+    },
+    {
+      "noteId": 1766407798066,
+      "tags": [
+        "Broadcast",
+        "Computer-Networking",
+        "Data-Communication",
+        "ict",
+        "ict::ch2",
+        "Multicast"
+      ]
+    },
+    {
+      "noteId": 1766559519615,
+      "tags": [
+        "ict::ch2"
+      ]
+    },
+    {
+      "noteId": 1766560301106,
+      "tags": [
+        "Global-Village",
+        "ict",
+        "ict::ch2",
+        "Information-Technology",
+        "Marshall-McLuhan"
+      ]
+    },
+    {
+      "noteId": 1769169447892,
+      "tags": [
+        "Automation",
+        "Computer-Science",
+        "ict",
+        "ict::ch1",
+        "Robotics"
+      ]
+    },
+    {
+      "noteId": 1769169509523,
+      "tags": [
+        "Artificial-Intelligence",
+        "Computer-Science",
+        "Definition",
+        "ict",
+        "ict::ch1"
+      ]
+    },
+    {
+      "noteId": 1769169563540,
+      "tags": [
+        "Biometrics",
+        "ict",
+        "ict::ch1",
+        "Identification",
+        "Technology"
+      ]
+    },
+    {
+      "noteId": 1769169633262,
+      "tags": [
+        "biology",
+        "biotechnology",
+        "cryosurgery",
+        "ict::ch1",
+        "medical-technology"
+      ]
+    },
+    {
+      "noteId": 1769169752615,
+      "tags": [
+        "Definitions",
+        "ict::ch1",
+        "Nanotechnology",
+        "Physics",
+        "Science"
+      ]
+    },
+    {
+      "noteId": 1769169784438,
+      "tags": [
+        "Communication-Technology",
+        "ict",
+        "ict::ch1",
+        "Information-Technology",
+        "Video-Conferencing"
+      ]
+    },
+    {
+      "noteId": 1769169812830,
+      "tags": [
+        "Bioinformatics",
+        "biology",
+        "Definition",
+        "ict",
+        "ict::ch1"
+      ]
+    },
+    {
+      "noteId": 1769169890144,
+      "tags": [
+        "Driving-Training",
+        "ict",
+        "ict::ch1",
+        "Simulation",
+        "Technology",
+        "Virtual-Reality"
+      ]
+    },
+    {
+      "noteId": 1769169939084,
+      "tags": [
+        "Biometrics",
+        "cryosurgery",
+        "HSC-ICT",
+        "ict",
+        "ict::ch1",
+        "medical-technology"
+      ]
+    },
+    {
+      "noteId": 1769169971444,
+      "tags": [
+        "Bioinformatics",
+        "Data-Analysis",
+        "ict",
+        "ict::ch1",
+        "Simulation",
+        "Virtual-Reality"
+      ]
+    },
+    {
+      "noteId": 1769170008140,
+      "tags": [
+        "AI",
+        "Computer-Science",
+        "ict",
+        "ict::ch1",
+        "Nanotechnology"
+      ]
+    },
+    {
+      "noteId": 1769170086049,
+      "tags": [
+        "Bengali-Education",
+        "Communication-Technology",
+        "ict",
+        "ict::ch1",
+        "Information-Technology",
+        "Virtual-Reality"
+      ]
+    },
+    {
+      "noteId": 1769170120391,
+      "tags": [
+        "Artificial-Intelligence",
+        "biology",
+        "cryosurgery",
+        "ict::ch1",
+        "medical-technology",
+        "Physics-in-Medicine"
+      ]
+    },
+    {
+      "noteId": 1769170145132,
+      "tags": [
+        "Biometrics",
+        "ict",
+        "ict::ch1",
+        "Identification",
+        "Security"
+      ]
+    },
+    {
+      "noteId": 1769281697404,
+      "tags": [
+        "AI",
+        "Bioinformatics",
+        "Board-Questions",
+        "cryosurgery",
+        "HSC",
+        "ict",
+        "ict::ch1::mcq"
+      ]
+    },
+    {
+      "noteId": 1769281789974,
+      "tags": [
+        "Biometrics",
+        "cryosurgery",
+        "Genetic-Engineering",
+        "ict",
+        "ict::ch1::mcq",
+        "Simulation"
+      ]
+    },
+    {
+      "noteId": 1769283320838,
+      "tags": [
+        "Biometrics",
+        "cryosurgery",
+        "Genetic-Engineering",
+        "ict",
+        "ict::ch1::mcq",
+        "Nanotechnology",
+        "Telemedicine"
+      ]
+    },
+    {
+      "noteId": 1769284387999,
+      "tags": [
+        "Biometrics",
+        "Ethics",
+        "ict",
+        "ict::ch1::mcq",
+        "Nanotechnology",
+        "Virtual-Reality"
+      ]
+    },
+    {
+      "noteId": 1769284482581,
+      "tags": [
+        "Artificial-Intelligence",
+        "Bioinformatics",
+        "cryosurgery",
+        "HSC-ICT",
+        "ict",
+        "ict::ch1::mcq",
+        "Nanotechnology",
+        "Virtual-Reality"
+      ]
+    },
+    {
+      "noteId": 1769284555232,
+      "tags": [
+        "Bioinformatics",
+        "Biometrics",
+        "cryosurgery",
+        "Genetic-Engineering",
+        "ict",
+        "ict::ch1::mcq",
+        "Virtual-Reality"
+      ]
+    },
+    {
+      "noteId": 1769284623804,
+      "tags": [
+        "Genetic-Engineering",
+        "HSC",
+        "ict",
+        "ict::ch1::mcq",
+        "mcq",
+        "Robotics",
+        "Technology"
+      ]
+    },
+    {
+      "noteId": 1769284753494,
+      "tags": [
+        "Biometrics",
+        "Genetic-Engineering",
+        "ict",
+        "ict::ch1::mcq",
+        "mcq",
+        "Virtual-Reality"
+      ]
+    },
+    {
+      "noteId": 1769284783268,
+      "tags": [
+        "Bengali-MCQ",
+        "Bioinformatics",
+        "ict",
+        "ict::ch1::mcq",
+        "Nanotechnology",
+        "Virtual-Reality"
+      ]
+    },
+    {
+      "noteId": 1769336400253,
+      "tags": [
+        "Board-Questions",
+        "Cloud-Computing",
+        "ict",
+        "ict::ch2::mcq",
+        "Networking",
+        "WiMax"
+      ]
+    },
+    {
+      "noteId": 1769336472291,
+      "tags": [
+        "Data-Transmission",
+        "HSC",
+        "ict",
+        "ict::ch2::mcq",
+        "mcq",
+        "Networking"
+      ]
+    },
+    {
+      "noteId": 1769336546760,
+      "tags": [
+        "Computer-Science",
+        "Data-Communication",
+        "HSC",
+        "ict",
+        "ict::ch2::mcq",
+        "Networking"
+      ]
+    },
+    {
+      "noteId": 1769336632829,
+      "tags": [
+        "Data-Transmission",
+        "HSC-ICT",
+        "ict",
+        "ict::ch2::mcq",
+        "Networking",
+        "Topologies"
+      ]
+    },
+    {
+      "noteId": 1769336693295,
+      "tags": [
+        "Data-Communication",
+        "HSC",
+        "ict",
+        "ict::ch2::mcq",
+        "Networking",
+        "Topology"
+      ]
+    },
+    {
+      "noteId": 1769336744727,
+      "tags": [
+        "Data-Communication",
+        "HSC",
+        "ict",
+        "ict::ch2::mcq",
+        "Networking",
+        "Topology"
+      ]
+    },
+    {
+      "noteId": 1769336820545,
+      "tags": [
+        "Data-Communication",
+        "HSC-ICT",
+        "ict",
+        "ict::ch2::mcq",
+        "Networking"
+      ]
+    },
+    {
+      "noteId": 1769336878015,
+      "tags": [
+        "Communication",
+        "ict",
+        "ict::ch2::mcq",
+        "Networking",
+        "Physics",
+        "Topology"
+      ]
+    },
+    {
+      "noteId": 1769336954481,
+      "tags": [
+        "Data-Communication",
+        "ict",
+        "ict::ch2::mcq",
+        "mcq",
+        "Networking",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1769336998375,
+      "tags": [
+        "Computer-Networking",
+        "Data-Communication",
+        "ict",
+        "ict::ch2::mcq",
+        "mcq"
+      ]
+    },
+    {
+      "noteId": 1769337038329,
+      "tags": [
+        "Computer-Science",
+        "Data-Communication",
+        "ict",
+        "ict::ch2::mcq",
+        "Networking",
+        "Topology"
+      ]
+    },
+    {
+      "noteId": 1769337089993,
+      "tags": [
+        "Data-Communication",
+        "HSC-ICT",
+        "ict",
+        "ict::ch2::mcq",
+        "Networking",
+        "Topology"
+      ]
+    },
+    {
+      "noteId": 1769337129520,
+      "tags": [
+        "Data-Communication",
+        "ict",
+        "ict::ch2::mcq",
+        "Networking",
+        "Physics",
+        "Topology"
+      ]
+    },
+    {
+      "noteId": 1780907094696,
+      "tags": [
+        "Boolean-Algebra",
+        "Digital-Electronics",
+        "ict",
+        "ict::ch3::3.2-info",
+        "Logic-Gates"
+      ]
+    },
+    {
+      "noteId": 1780907139491,
+      "tags": [
+        "Boolean-Algebra",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1780907200373,
+      "tags": [
+        "Boolean-Algebra",
+        "Digital-Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "Mathematics"
+      ]
+    },
+    {
+      "noteId": 1780907255826,
+      "tags": [
+        "Boolean-Algebra",
+        "Digital-Logic",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "বুলিয়ান-অ্যালজেব্রা"
+      ]
+    },
+    {
+      "noteId": 1780907279778,
+      "tags": [
+        "Boolean-Algebra",
+        "Digital-Logic",
+        "Duality-Principle",
+        "ict::ch3::3.2-info",
+        "Logic-Gates"
+      ]
+    },
+    {
+      "noteId": 1780907364382,
+      "tags": [
+        "Boolean-Algebra",
+        "Digital-Logic",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "বুলিয়ান-বীজগণিত"
+      ]
+    },
+    {
+      "noteId": 1780907399560,
+      "tags": [
+        "Boolean-Algebra",
+        "Digital-Logic",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "Simplification",
+        "বুলিয়ান-অ্যালজেব্রা"
+      ]
+    },
+    {
+      "noteId": 1780907416132,
+      "tags": [
+        "Boolean-Algebra",
+        "De-Morgan's-Theorem",
+        "Digital-Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates"
+      ]
+    },
+    {
+      "noteId": 1780907430096,
+      "tags": [
+        "Boolean-Algebra",
+        "De-Morgan's-Law",
+        "Digital-Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates"
+      ]
+    },
+    {
+      "noteId": 1780907470703,
+      "tags": [
+        "Boolean-Algebra",
+        "Digital-Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1780907488362,
+      "tags": [
+        "Boolean-Algebra",
+        "Digital-Logic",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1780907530513,
+      "tags": [
+        "Boolean-Algebra",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "OR-Gate",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1780907547581,
+      "tags": [
+        "Boolean-Algebra",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1780907567417,
+      "tags": [
+        "Boolean-Algebra",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "NOT-Gate",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1780926532735,
+      "tags": [
+        "Digital-Electronics",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1780926560282,
+      "tags": [
+        "Boolean-Algebra",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "NOR-Gate",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1780926581210,
+      "tags": [
+        "Digital-Logic",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "NAND",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1780926621226,
+      "tags": [
+        "Boolean-Algebra",
+        "Digital-Logic",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1780926703395,
+      "tags": [
+        "Boolean-Algebra",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "Physics",
+        "XOR"
+      ]
+    },
+    {
+      "noteId": 1780926718451,
+      "tags": [
+        "Digital-Circuits",
+        "Electronics",
+        "ict::ch3::3.2-info",
+        "Logic-Gates",
+        "Physics",
+        "XNOR"
+      ]
+    },
+    {
+      "noteId": 1780927686862,
+      "tags": [
+        "Bandwidth",
+        "Data-Transmission",
+        "ict",
+        "ict::ch2::info",
+        "Physics"
+      ]
+    },
+    {
+      "noteId": 1780927805047,
+      "tags": [
+        "Bandwidth",
+        "Data-Communication",
+        "ict",
+        "ict::ch2::info",
+        "Networking"
+      ]
+    }
+  ]
+}

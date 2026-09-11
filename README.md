@@ -3,7 +3,7 @@
 Personal Anki study manager for HSC curriculum, flat tag-driven decks, and spaced repetition workflows.
 
 ## Overview
-- Architecture pattern: Flat subject decks (`[🎓] Academic::2.[💻] ICT`, `[🎓] Academic::7.[📊] Higher Math`) with hierarchical tags (`subject::paper::chapter::role`).
+- Architecture pattern: Flat subject decks (`[🎓] Academic::2.[💻] ICT`, `[🎓] Academic::7.[📊] Higher Math`) with hierarchical tags (`subject::paper::chapter::role` for multi-paper, `subject::chapter::role` for single-paper).
 - Minimum Information Principle: Single-answer concepts are active; multi-line problem cards and proofs are suspended.
 - Documentation: See [`docs/study-management-system.md`](./docs/study-management-system.md).
 

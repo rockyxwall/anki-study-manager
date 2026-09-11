@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcp-anki-connect": {
+      "command": "node",
+      "args": [
+        "../mcp-anki-connect/dist/index.js"
+      ]
+    }
+  }
+}
+
