@@ -1,0 +1,13 @@
+{
+  "name": "anki-study-manager",
+  "version": "1.0.0",
+  "description": "Personal Anki study manager, taxonomy, and curriculum workflows",
+  "type": "module",
+  "scripts": {
+    "migrate-math:dry": "node scripts/migrate-math-deck.mjs --dry-run",
+    "migrate-math:exec": "node scripts/migrate-math-deck.mjs --execute",
+    "migrate-math:restore": "node scripts/migrate-math-deck.mjs --restore"
+  },
+  "keywords": ["anki", "study", "hsc", "flashcards"],
+  "license": "MIT"
+}

@@ -1,0 +1,2321 @@
+{
+  "timestamp": "2026-09-11T03:01:36.135Z",
+  "cards": [
+    {
+      "cardId": 1759986587142,
+      "note": 1759986587139,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781999012
+    },
+    {
+      "cardId": 1759986634188,
+      "note": 1759986634188,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781998856
+    },
+    {
+      "cardId": 1759986676007,
+      "note": 1759986676006,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781999115
+    },
+    {
+      "cardId": 1759986808830,
+      "note": 1759986808825,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781999175
+    },
+    {
+      "cardId": 1760097827675,
+      "note": 1760097827674,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 287
+    },
+    {
+      "cardId": 1760097933832,
+      "note": 1760097933826,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781999036
+    },
+    {
+      "cardId": 1760097988676,
+      "note": 1760097988675,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781998936
+    },
+    {
+      "cardId": 1762363258214,
+      "note": 1762363258214,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 307
+    },
+    {
+      "cardId": 1762400969724,
+      "note": 1762400969722,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781999020
+    },
+    {
+      "cardId": 1762401444936,
+      "note": 1762401444936,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781998757
+    },
+    {
+      "cardId": 1762401640361,
+      "note": 1762401640361,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781999033
+    },
+    {
+      "cardId": 1762401689987,
+      "note": 1762401689987,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781999098
+    },
+    {
+      "cardId": 1762401844920,
+      "note": 1762401844920,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781998856
+    },
+    {
+      "cardId": 1762401905115,
+      "note": 1762401905114,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781999154
+    },
+    {
+      "cardId": 1762401978960,
+      "note": 1762401978958,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781998938
+    },
+    {
+      "cardId": 1762402064709,
+      "note": 1762402064709,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781998996
+    },
+    {
+      "cardId": 1762402119432,
+      "note": 1762402119431,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781998944
+    },
+    {
+      "cardId": 1762402200638,
+      "note": 1762402200638,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781999158
+    },
+    {
+      "cardId": 1762402200643,
+      "note": 1762402200638,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781998929
+    },
+    {
+      "cardId": 1762402217616,
+      "note": 1762402217616,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781999158
+    },
+    {
+      "cardId": 1762402264149,
+      "note": 1762402264148,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781999157
+    },
+    {
+      "cardId": 1762405702531,
+      "note": 1762405702530,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 290
+    },
+    {
+      "cardId": 1762406943885,
+      "note": 1762406943884,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 929
+    },
+    {
+      "cardId": 1762406943886,
+      "note": 1762406943884,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781857532
+    },
+    {
+      "cardId": 1762407140380,
+      "note": 1762407140380,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 281
+    },
+    {
+      "cardId": 1762407140381,
+      "note": 1762407140380,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 934
+    },
+    {
+      "cardId": 1763194543446,
+      "note": 1763194543445,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781999148
+    },
+    {
+      "cardId": 1763194618105,
+      "note": 1763194618105,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781999247
+    },
+    {
+      "cardId": 1763194718259,
+      "note": 1763194718258,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781998870
+    },
+    {
+      "cardId": 1763194823449,
+      "note": 1763194823449,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781998966
+    },
+    {
+      "cardId": 1763194922775,
+      "note": 1763194922775,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1783439995
+    },
+    {
+      "cardId": 1763194972617,
+      "note": 1763194972617,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 283
+    },
+    {
+      "cardId": 1763195051428,
+      "note": 1763195051428,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781998862
+    },
+    {
+      "cardId": 1763195096250,
+      "note": 1763195096250,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781998946
+    },
+    {
+      "cardId": 1763195233823,
+      "note": 1763195233822,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781998795
+    },
+    {
+      "cardId": 1763195257950,
+      "note": 1763195257950,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781999110
+    },
+    {
+      "cardId": 1764246172846,
+      "note": 1764246172846,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 246
+    },
+    {
+      "cardId": 1765002226116,
+      "note": 1765002226115,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 154
+    },
+    {
+      "cardId": 1765002226117,
+      "note": 1765002226115,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 169
+    },
+    {
+      "cardId": 1765002254578,
+      "note": 1765002254578,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 128
+    },
+    {
+      "cardId": 1765002254579,
+      "note": 1765002254578,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 126
+    },
+    {
+      "cardId": 1765002278030,
+      "note": 1765002278030,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 124
+    },
+    {
+      "cardId": 1765002307744,
+      "note": 1765002307744,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 143
+    },
+    {
+      "cardId": 1767547443268,
+      "note": 1767547443263,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 122
+    },
+    {
+      "cardId": 1767547580656,
+      "note": 1767547580656,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1770641864
+    },
+    {
+      "cardId": 1767547622455,
+      "note": 1767547622455,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768453447
+    },
+    {
+      "cardId": 1767547684741,
+      "note": 1767547684741,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768453402
+    },
+    {
+      "cardId": 1767547733508,
+      "note": 1767547733508,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1770641841
+    },
+    {
+      "cardId": 1767547776993,
+      "note": 1767547776993,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 123
+    },
+    {
+      "cardId": 1767547796280,
+      "note": 1767547796280,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768453546
+    },
+    {
+      "cardId": 1767547826286,
+      "note": 1767547826286,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1770641828
+    },
+    {
+      "cardId": 1767547848008,
+      "note": 1767547848008,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768453445
+    },
+    {
+      "cardId": 1767552616596,
+      "note": 1767552616591,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 418
+    },
+    {
+      "cardId": 1767555559940,
+      "note": 1767555559940,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 290
+    },
+    {
+      "cardId": 1767555639196,
+      "note": 1767555639196,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 645
+    },
+    {
+      "cardId": 1767555639197,
+      "note": 1767555639196,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 286
+    },
+    {
+      "cardId": 1767555639198,
+      "note": 1767555639196,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 277
+    },
+    {
+      "cardId": 1767555639199,
+      "note": 1767555639196,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 654
+    },
+    {
+      "cardId": 1767555639200,
+      "note": 1767555639196,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 277
+    },
+    {
+      "cardId": 1767794448903,
+      "note": 1767794448899,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 304
+    },
+    {
+      "cardId": 1768027340130,
+      "note": 1768027340130,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1768054170523,
+      "note": 1768054170522,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 147
+    },
+    {
+      "cardId": 1768060626104,
+      "note": 1768060626104,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 147
+    },
+    {
+      "cardId": 1768449174769,
+      "note": 1767547443263,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768457536
+    },
+    {
+      "cardId": 1768449229201,
+      "note": 1767547733508,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768457394
+    },
+    {
+      "cardId": 1768449229202,
+      "note": 1767547733508,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768457650
+    },
+    {
+      "cardId": 1768449229204,
+      "note": 1767547733508,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768457346
+    },
+    {
+      "cardId": 1768449311879,
+      "note": 1767547826286,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768457356
+    },
+    {
+      "cardId": 1768449410453,
+      "note": 1767547580656,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768457349
+    },
+    {
+      "cardId": 1768449567339,
+      "note": 1767547776993,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 125
+    },
+    {
+      "cardId": 1768449696163,
+      "note": 1767547622455,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768457585
+    },
+    {
+      "cardId": 1768449743861,
+      "note": 1767547684741,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1768457504
+    },
+    {
+      "cardId": 1778166300136,
+      "note": 1778166300135,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1681
+    },
+    {
+      "cardId": 1778166391548,
+      "note": 1778166391548,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 308
+    },
+    {
+      "cardId": 1778166438180,
+      "note": 1778166438180,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 270
+    },
+    {
+      "cardId": 1778166710683,
+      "note": 1778166710683,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 271
+    },
+    {
+      "cardId": 1778166886637,
+      "note": 1778166886637,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 311
+    },
+    {
+      "cardId": 1778169572837,
+      "note": 1778169572837,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 273
+    },
+    {
+      "cardId": 1778297805758,
+      "note": 1778297805758,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 272
+    },
+    {
+      "cardId": 1778297971437,
+      "note": 1778297971437,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 284
+    },
+    {
+      "cardId": 1778298016681,
+      "note": 1778298016681,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 360
+    },
+    {
+      "cardId": 1778298054942,
+      "note": 1778298054942,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 270
+    },
+    {
+      "cardId": 1778298386200,
+      "note": 1778298386200,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 319
+    },
+    {
+      "cardId": 1778300656095,
+      "note": 1778300656095,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 304
+    },
+    {
+      "cardId": 1778300924380,
+      "note": 1778300924379,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 302
+    },
+    {
+      "cardId": 1778300972511,
+      "note": 1778300972511,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 270
+    },
+    {
+      "cardId": 1778301779086,
+      "note": 1778301779086,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 270
+    },
+    {
+      "cardId": 1778301819111,
+      "note": 1778301819111,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 270
+    },
+    {
+      "cardId": 1778301868854,
+      "note": 1778301868854,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 295
+    },
+    {
+      "cardId": 1778302203314,
+      "note": 1778302203314,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 270
+    },
+    {
+      "cardId": 1778302233136,
+      "note": 1778302233136,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 325
+    },
+    {
+      "cardId": 1778302489806,
+      "note": 1778302489805,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 270
+    },
+    {
+      "cardId": 1778302746669,
+      "note": 1778302746669,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 271
+    },
+    {
+      "cardId": 1778303817974,
+      "note": 1778303817974,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 270
+    },
+    {
+      "cardId": 1778305182193,
+      "note": 1778305182193,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1704
+    },
+    {
+      "cardId": 1778305219925,
+      "note": 1778305219925,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1705
+    },
+    {
+      "cardId": 1778305328117,
+      "note": 1778305328117,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1706
+    },
+    {
+      "cardId": 1778305364525,
+      "note": 1778305364525,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1707
+    },
+    {
+      "cardId": 1778305384341,
+      "note": 1778305384341,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1708
+    },
+    {
+      "cardId": 1778305401909,
+      "note": 1778305401908,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1709
+    },
+    {
+      "cardId": 1778305435006,
+      "note": 1778305435006,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1710
+    },
+    {
+      "cardId": 1778305456301,
+      "note": 1778305456300,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1711
+    },
+    {
+      "cardId": 1778305545237,
+      "note": 1778305545237,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1712
+    },
+    {
+      "cardId": 1778305571845,
+      "note": 1778305571845,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1713
+    },
+    {
+      "cardId": 1778305740128,
+      "note": 1778305740128,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1716
+    },
+    {
+      "cardId": 1778305793497,
+      "note": 1778305793497,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1718
+    },
+    {
+      "cardId": 1778305907310,
+      "note": 1778305907310,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1719
+    },
+    {
+      "cardId": 1778305927590,
+      "note": 1778305927590,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1720
+    },
+    {
+      "cardId": 1778305954366,
+      "note": 1778305954366,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1721
+    },
+    {
+      "cardId": 1778305980197,
+      "note": 1778305980197,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1722
+    },
+    {
+      "cardId": 1778306006134,
+      "note": 1778306006134,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1723
+    },
+    {
+      "cardId": 1778306030804,
+      "note": 1778306030804,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1724
+    },
+    {
+      "cardId": 1778429606418,
+      "note": 1778429606418,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1787058720
+    },
+    {
+      "cardId": 1778429606419,
+      "note": 1778429606418,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1787058690
+    },
+    {
+      "cardId": 1778429606420,
+      "note": 1778429606418,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1787057996
+    },
+    {
+      "cardId": 1778429606421,
+      "note": 1778429606418,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1787058610
+    },
+    {
+      "cardId": 1778429606422,
+      "note": 1778429606418,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1787058211
+    },
+    {
+      "cardId": 1778431541856,
+      "note": 1778431541856,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 277
+    },
+    {
+      "cardId": 1779104376502,
+      "note": 1779104376502,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 1,
+      "due": 1781998838
+    },
+    {
+      "cardId": 1780321375405,
+      "note": 1780321375405,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 2,
+      "due": 302
+    },
+    {
+      "cardId": 1780932274099,
+      "note": 1780932274098,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1781999158
+    },
+    {
+      "cardId": 1781548908851,
+      "note": 1781548908851,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1781
+    },
+    {
+      "cardId": 1781548908852,
+      "note": 1781548908851,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1781
+    },
+    {
+      "cardId": 1781548908853,
+      "note": 1781548908851,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1781
+    },
+    {
+      "cardId": 1781548908854,
+      "note": 1781548908851,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1781
+    },
+    {
+      "cardId": 1781548908855,
+      "note": 1781548908851,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1781
+    },
+    {
+      "cardId": 1786331894862,
+      "note": 1786331894861,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1786335073
+    },
+    {
+      "cardId": 1786331939750,
+      "note": 1786331939750,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1786335270
+    },
+    {
+      "cardId": 1786331966926,
+      "note": 1786331966926,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1786335814
+    },
+    {
+      "cardId": 1786331983781,
+      "note": 1786331983781,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1838
+    },
+    {
+      "cardId": 1786332014581,
+      "note": 1786332014581,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1839
+    },
+    {
+      "cardId": 1786332053133,
+      "note": 1786332053133,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1840
+    },
+    {
+      "cardId": 1786332081286,
+      "note": 1786332081286,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1841
+    },
+    {
+      "cardId": 1786332103293,
+      "note": 1786332103293,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1842
+    },
+    {
+      "cardId": 1786332117862,
+      "note": 1786332117862,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1843
+    },
+    {
+      "cardId": 1787066657502,
+      "note": 1787066657502,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1844
+    },
+    {
+      "cardId": 1787066691970,
+      "note": 1787066691970,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1845
+    },
+    {
+      "cardId": 1787066726793,
+      "note": 1787066726793,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1846
+    },
+    {
+      "cardId": 1787066754345,
+      "note": 1787066754345,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1847
+    },
+    {
+      "cardId": 1787066777345,
+      "note": 1787066777345,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1848
+    },
+    {
+      "cardId": 1787066796769,
+      "note": 1787066796769,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": -1,
+      "due": 1849
+    },
+    {
+      "cardId": 1787066817521,
+      "note": 1787066817521,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1850
+    },
+    {
+      "cardId": 1788446954447,
+      "note": 1788446954446,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1851
+    },
+    {
+      "cardId": 1788532523193,
+      "note": 1788532523191,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1852
+    },
+    {
+      "cardId": 1788532901459,
+      "note": 1788532901459,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1853
+    },
+    {
+      "cardId": 1788537022646,
+      "note": 1788537022646,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1854
+    },
+    {
+      "cardId": 1788537830656,
+      "note": 1788537830656,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1855
+    },
+    {
+      "cardId": 1788538011349,
+      "note": 1788538011349,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1856
+    },
+    {
+      "cardId": 1788539174527,
+      "note": 1788539174526,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1857
+    },
+    {
+      "cardId": 1788621034865,
+      "note": 1788621034863,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1858
+    },
+    {
+      "cardId": 1788965152422,
+      "note": 1788965152417,
+      "deckName": "[🎓] Academic::7.[📊] Higher Math",
+      "queue": 0,
+      "due": 1859
+    }
+  ],
+  "notes": [
+    {
+      "noteId": 1759986587139,
+      "tags": [
+        "Linear-Algebra",
+        "math::p1::ch1::concept",
+        "Mathematics",
+        "Matrix",
+        "Transpose"
+      ]
+    },
+    {
+      "noteId": 1759986634188,
+      "tags": [
+        "Bengali",
+        "Linear-Algebra",
+        "math::p1::ch1::concept",
+        "Mathematics",
+        "Matrices"
+      ]
+    },
+    {
+      "noteId": 1759986676006,
+      "tags": [
+        "Linear-Algebra",
+        "math::p1::ch1::concept",
+        "Mathematics",
+        "Matrix",
+        "Skew-Symmetric"
+      ]
+    },
+    {
+      "noteId": 1759986808825,
+      "tags": [
+        "complex-matrices",
+        "hermitian-matrix",
+        "Linear-Algebra",
+        "math-bengali",
+        "math::p1::ch1::concept",
+        "matrix-theory"
+      ]
+    },
+    {
+      "noteId": 1760097827674,
+      "tags": [
+        "Determinant",
+        "Linear-Algebra",
+        "math::p1::ch1::concept",
+        "Mathematics",
+        "Matrix"
+      ]
+    },
+    {
+      "noteId": 1760097933826,
+      "tags": [
+        "Adjoint-Matrix",
+        "Linear-Algebra",
+        "math::p1::ch1::concept",
+        "Mathematics",
+        "Matrices"
+      ]
+    },
+    {
+      "noteId": 1760097988675,
+      "tags": [
+        "inverse-matrix",
+        "Linear-Algebra",
+        "math-bengali",
+        "math::p1::ch1::concept",
+        "Matrix"
+      ]
+    },
+    {
+      "noteId": 1762363258214,
+      "tags": [
+        "math::p1::ch3::concept"
+      ]
+    },
+    {
+      "noteId": 1762400969722,
+      "tags": [
+        "Algebra",
+        "Determinants",
+        "math::p1::ch1::problem",
+        "Mathematics",
+        "Proof"
+      ]
+    },
+    {
+      "noteId": 1762401444936,
+      "tags": [
+        "Algebra",
+        "Determinants",
+        "math",
+        "math::p1::ch1::problem",
+        "Proof"
+      ]
+    },
+    {
+      "noteId": 1762401640361,
+      "tags": [
+        "Determinants",
+        "Linear-Algebra",
+        "math::p1::ch1::problem",
+        "Mathematics",
+        "Proof"
+      ]
+    },
+    {
+      "noteId": 1762401689987,
+      "tags": [
+        "Determinants",
+        "Linear-Algebra",
+        "math::p1::ch1::problem",
+        "Mathematics",
+        "Proof"
+      ]
+    },
+    {
+      "noteId": 1762401844920,
+      "tags": [
+        "Algebra",
+        "Determinants",
+        "math::p1::ch1::problem",
+        "Mathematics",
+        "Proof"
+      ]
+    },
+    {
+      "noteId": 1762401905114,
+      "tags": [
+        "Algebra",
+        "Determinants",
+        "math::p1::ch1::problem",
+        "Mathematics",
+        "Matrix"
+      ]
+    },
+    {
+      "noteId": 1762401978958,
+      "tags": [
+        "Algebra",
+        "Determinants",
+        "math::p1::ch1::problem",
+        "Mathematics",
+        "Proof"
+      ]
+    },
+    {
+      "noteId": 1762402064709,
+      "tags": [
+        "Algebra",
+        "Determinants",
+        "math::p1::ch1::problem",
+        "Mathematics",
+        "Proof"
+      ]
+    },
+    {
+      "noteId": 1762402119431,
+      "tags": [
+        "Determinants",
+        "Linear-Algebra",
+        "math::p1::ch1::problem",
+        "Mathematics",
+        "Proof"
+      ]
+    },
+    {
+      "noteId": 1762402200638,
+      "tags": [
+        "Algebra",
+        "complex-numbers",
+        "cube-roots-of-unity",
+        "math",
+        "math::p1::ch1::concept"
+      ]
+    },
+    {
+      "noteId": 1762402217616,
+      "tags": [
+        "complex-numbers",
+        "Determinants",
+        "Linear-Algebra",
+        "math::p1::ch1::problem",
+        "Mathematics"
+      ]
+    },
+    {
+      "noteId": 1762402264148,
+      "tags": [
+        "complex-numbers",
+        "Determinants",
+        "Linear-Algebra",
+        "math",
+        "math::p1::ch1::problem"
+      ]
+    },
+    {
+      "noteId": 1762405702530,
+      "tags": [
+        "conversion",
+        "degrees",
+        "math::p1::ch3::concept",
+        "Mathematics",
+        "radians",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1762406943884,
+      "tags": [
+        "geometry",
+        "math",
+        "math::p1::ch3::concept",
+        "properties",
+        "quadrilateral"
+      ]
+    },
+    {
+      "noteId": 1762407140380,
+      "tags": [
+        "geometry",
+        "leech",
+        "math",
+        "math::p1::ch3::concept",
+        "properties",
+        "quadrilaterals"
+      ]
+    },
+    {
+      "noteId": 1763194543445,
+      "tags": [
+        "Algebra",
+        "Determinants",
+        "Logarithms",
+        "math::p1::ch1::problem",
+        "Mathematics"
+      ]
+    },
+    {
+      "noteId": 1763194618105,
+      "tags": [
+        "math::p1::ch1::concept",
+        "mcq",
+        "mechanics",
+        "Physics",
+        "work"
+      ]
+    },
+    {
+      "noteId": 1763194718258,
+      "tags": [
+        "Calculus",
+        "Determinants",
+        "Linear-Algebra",
+        "math::p1::ch1::problem",
+        "Mathematics"
+      ]
+    },
+    {
+      "noteId": 1763194823449,
+      "tags": [
+        "Cofactors",
+        "Determinants",
+        "Linear-Algebra",
+        "math::p1::ch1::problem",
+        "Mathematics"
+      ]
+    },
+    {
+      "noteId": 1763194922775,
+      "tags": [
+        "bengali-math",
+        "Determinants",
+        "Linear-Algebra",
+        "math",
+        "math::p1::ch1::concept"
+      ]
+    },
+    {
+      "noteId": 1763194972617,
+      "tags": [
+        "Determinants",
+        "Linear-Algebra",
+        "math",
+        "math::p1::ch1::problem",
+        "Proof"
+      ]
+    },
+    {
+      "noteId": 1763195051428,
+      "tags": [
+        "Algebra",
+        "Determinant",
+        "math",
+        "math::p1::ch1::problem",
+        "Matrix"
+      ]
+    },
+    {
+      "noteId": 1763195096250,
+      "tags": [
+        "Determinants",
+        "Linear-Algebra",
+        "math::p1::ch1::concept",
+        "Mathematics",
+        "matrix-operations"
+      ]
+    },
+    {
+      "noteId": 1763195233822,
+      "tags": [
+        "Calculus",
+        "Determinants",
+        "Linear-Algebra",
+        "math",
+        "math::p1::ch1::problem",
+        "Proof"
+      ]
+    },
+    {
+      "noteId": 1763195257950,
+      "tags": [
+        "cramers-rule",
+        "Determinants",
+        "Linear-Algebra",
+        "math::p1::ch1::problem",
+        "system-of-equations"
+      ]
+    },
+    {
+      "noteId": 1764246172846,
+      "tags": [
+        "Coordinate-Geometry",
+        "Cross-multiplication",
+        "Linear-Equations",
+        "math",
+        "math::p1::ch3::concept"
+      ]
+    },
+    {
+      "noteId": 1765002226115,
+      "tags": [
+        "Angle-Measurement",
+        "geometry",
+        "math::p1::ch7::concept",
+        "Mathematics",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1765002254578,
+      "tags": [
+        "circular-system",
+        "geometry",
+        "math::p1::ch7::concept",
+        "physics-math",
+        "radian",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1765002278030,
+      "tags": [
+        "Angle-Measurement",
+        "centesimal-system",
+        "geometry",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1765002307744,
+      "tags": [
+        "angle-conversion",
+        "geometry",
+        "math::p1::ch7::concept",
+        "Mathematics",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1767547443263,
+      "tags": [
+        "compound-angles",
+        "identities",
+        "math",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1767547580656,
+      "tags": [
+        "compound-angles",
+        "identities",
+        "math::p1::ch7::concept",
+        "Mathematics",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1767547622455,
+      "tags": [
+        "compound-angles",
+        "identities",
+        "math",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1767547684741,
+      "tags": [
+        "compound-angles",
+        "identities",
+        "math::p1::ch7::concept",
+        "Mathematics",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1767547733508,
+      "tags": [
+        "calculus-prep",
+        "identities",
+        "math",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1767547776993,
+      "tags": [
+        "compound-angles",
+        "formulas",
+        "math::p1::ch7::concept",
+        "Mathematics",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1767547796280,
+      "tags": [
+        "compound-angles",
+        "identities",
+        "math",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1767547826286,
+      "tags": [
+        "calculus-prep",
+        "identities",
+        "math",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1767547848008,
+      "tags": [
+        "calculus-prep",
+        "identities",
+        "math",
+        "math::p1::ch7::concept",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1767552616591,
+      "tags": [
+        "circle",
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch4::concept",
+        "গণিত"
+      ]
+    },
+    {
+      "noteId": 1767555559940,
+      "tags": [
+        "circle",
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch4::concept"
+      ]
+    },
+    {
+      "noteId": 1767555639196,
+      "tags": [
+        "Bengali",
+        "circle",
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch4::concept"
+      ]
+    },
+    {
+      "noteId": 1767794448899,
+      "tags": [
+        "circle",
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch4::concept",
+        "গণিত",
+        "বৃত্ত"
+      ]
+    },
+    {
+      "noteId": 1768027340130,
+      "tags": [
+        "bengali-math",
+        "circle",
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch4::concept"
+      ]
+    },
+    {
+      "noteId": 1768054170522,
+      "tags": [
+        "Circles",
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch4::concept"
+      ]
+    },
+    {
+      "noteId": 1768060626104,
+      "tags": [
+        "Bengali",
+        "circle",
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch4::problem"
+      ]
+    },
+    {
+      "noteId": 1778166300135,
+      "tags": [
+        "Coordinate-Geometry",
+        "math",
+        "math::p1::ch3::concept",
+        "slopes",
+        "straight-lines"
+      ]
+    },
+    {
+      "noteId": 1778166391548,
+      "tags": [
+        "Coordinate-Geometry",
+        "math::p1::ch3::concept",
+        "Mathematics",
+        "Physics",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1778166438180,
+      "tags": [
+        "Coordinate-Geometry",
+        "math",
+        "math::p1::ch3::concept",
+        "polar-coordinates",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1778166710683,
+      "tags": [
+        "Coordinate-Geometry",
+        "distance-formula",
+        "geometry",
+        "math",
+        "math::p1::ch3::concept"
+      ]
+    },
+    {
+      "noteId": 1778166886637,
+      "tags": [
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch3::concept",
+        "section-formula"
+      ]
+    },
+    {
+      "noteId": 1778169572837,
+      "tags": [
+        "Coordinate-Geometry",
+        "distance-formula",
+        "geometry",
+        "math",
+        "math::p1::ch3::concept",
+        "polar-coordinates"
+      ]
+    },
+    {
+      "noteId": 1778297805758,
+      "tags": [
+        "Coordinate-Geometry",
+        "equilateral-triangle",
+        "geometry",
+        "math",
+        "math::p1::ch3::problem"
+      ]
+    },
+    {
+      "noteId": 1778297971437,
+      "tags": [
+        "Algebra",
+        "Coordinate-Geometry",
+        "distance-formula",
+        "math",
+        "math::p1::ch3::problem"
+      ]
+    },
+    {
+      "noteId": 1778298016681,
+      "tags": [
+        "Coordinate-Geometry",
+        "distance-formula",
+        "math",
+        "math::p1::ch3::problem",
+        "স্থানাঙ্ক-জ্যামিতি"
+      ]
+    },
+    {
+      "noteId": 1778298054942,
+      "tags": [
+        "Bengali",
+        "circle",
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch3::problem"
+      ]
+    },
+    {
+      "noteId": 1778298386200,
+      "tags": [
+        "bengali-math",
+        "Coordinate-Geometry",
+        "math",
+        "math::p1::ch3::concept",
+        "section-formula"
+      ]
+    },
+    {
+      "noteId": 1778300656095,
+      "tags": [
+        "Coordinate-Geometry",
+        "math::p1::ch3::concept",
+        "Mathematics",
+        "section-formula",
+        "Trisection",
+        "স্থানাঙ্ক-জ্যামিতি"
+      ]
+    },
+    {
+      "noteId": 1778300924379,
+      "tags": [
+        "Coordinate-Geometry",
+        "External-Division",
+        "math::p1::ch3::concept",
+        "Mathematics",
+        "স্থানাঙ্ক-জ্যামিতি"
+      ]
+    },
+    {
+      "noteId": 1778300972511,
+      "tags": [
+        "bengali-medium",
+        "Coordinate-Geometry",
+        "math",
+        "math::p1::ch3::problem",
+        "section-formula"
+      ]
+    },
+    {
+      "noteId": 1778301779086,
+      "tags": [
+        "Coordinate-Geometry",
+        "math-bengali",
+        "math::p1::ch3::problem",
+        "section-formula",
+        "Trisection"
+      ]
+    },
+    {
+      "noteId": 1778301819111,
+      "tags": [
+        "Coordinate-Geometry",
+        "math::p1::ch3::problem",
+        "Mathematics",
+        "section-formula",
+        "স্থানাঙ্ক-জ্যামিতি"
+      ]
+    },
+    {
+      "noteId": 1778301868854,
+      "tags": [
+        "Coordinate-Geometry",
+        "geometry",
+        "math-bengali",
+        "math::p1::ch3::concept",
+        "rhombus"
+      ]
+    },
+    {
+      "noteId": 1778302203314,
+      "tags": [
+        "Bengali",
+        "Coordinate-Geometry",
+        "math",
+        "math::p1::ch3::problem",
+        "ratio-division"
+      ]
+    },
+    {
+      "noteId": 1778302233136,
+      "tags": [
+        "bengali-math",
+        "Coordinate-Geometry",
+        "math",
+        "math::p1::ch3::concept",
+        "section-formula"
+      ]
+    },
+    {
+      "noteId": 1778302489805,
+      "tags": [
+        "Coordinate-Geometry",
+        "math",
+        "math::p1::ch3::concept",
+        "section-formula",
+        "straight-line"
+      ]
+    },
+    {
+      "noteId": 1778302746669,
+      "tags": [
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch3::concept",
+        "parallelogram"
+      ]
+    },
+    {
+      "noteId": 1778303817974,
+      "tags": [
+        "Bengali",
+        "Coordinate-Geometry",
+        "math",
+        "math::p1::ch3::problem",
+        "Midpoint",
+        "section-formula"
+      ]
+    },
+    {
+      "noteId": 1778305182193,
+      "tags": [
+        "area",
+        "Coordinate-Geometry",
+        "Determinant",
+        "geometry",
+        "math::p1::ch3::concept",
+        "shoelace-formula"
+      ]
+    },
+    {
+      "noteId": 1778305219925,
+      "tags": [
+        "altitude",
+        "Coordinate-Geometry",
+        "math::p1::ch3::problem",
+        "Mathematics",
+        "triangle-area",
+        "স্থানাঙ্ক-জ্যামিতি"
+      ]
+    },
+    {
+      "noteId": 1778305328117,
+      "tags": [
+        "centroid",
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch3::concept",
+        "triangle"
+      ]
+    },
+    {
+      "noteId": 1778305364525,
+      "tags": [
+        "centroid",
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch3::problem",
+        "triangle"
+      ]
+    },
+    {
+      "noteId": 1778305384341,
+      "tags": [
+        "Coordinate-Geometry",
+        "Determinants",
+        "math-proof",
+        "math::p1::ch3::problem",
+        "triangle-area"
+      ]
+    },
+    {
+      "noteId": 1778305401908,
+      "tags": [
+        "bengali-math",
+        "Coordinate-Geometry",
+        "Determinants",
+        "math::p1::ch3::problem",
+        "Quadratic-Equations",
+        "triangle-area"
+      ]
+    },
+    {
+      "noteId": 1778305435006,
+      "tags": [
+        "Coordinate-Geometry",
+        "Determinant",
+        "math::p1::ch3::problem",
+        "Midpoint-Theorem",
+        "triangle",
+        "স্থানাঙ্ক-জ্যামিতি"
+      ]
+    },
+    {
+      "noteId": 1778305456300,
+      "tags": [
+        "Coordinate-Geometry",
+        "math-bengali",
+        "math::p1::ch3::problem",
+        "section-formula",
+        "triangle-area"
+      ]
+    },
+    {
+      "noteId": 1778305545237,
+      "tags": [
+        "Area-of-Triangle",
+        "Coordinate-Geometry",
+        "math::p1::ch3::problem",
+        "Mathematics",
+        "স্থানাঙ্ক-জ্যামিতি"
+      ]
+    },
+    {
+      "noteId": 1778305571845,
+      "tags": [
+        "Calculus",
+        "Coordinate-Geometry",
+        "math::p1::ch3::problem",
+        "maxima",
+        "triangle-area",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1778305740128,
+      "tags": [
+        "collinear-points",
+        "Coordinate-Geometry",
+        "Determinants",
+        "math",
+        "math::p1::ch3::problem",
+        "সমরেখ-বিন্দু"
+      ]
+    },
+    {
+      "noteId": 1778305793497,
+      "tags": [
+        "collinear-points",
+        "Coordinate-Geometry",
+        "Determinant",
+        "math-bengali",
+        "math::p1::ch3::concept"
+      ]
+    },
+    {
+      "noteId": 1778305907310,
+      "tags": [
+        "geometry",
+        "locus",
+        "math",
+        "math::p1::ch3::concept",
+        "sancharpath"
+      ]
+    },
+    {
+      "noteId": 1778305927590,
+      "tags": [
+        "circle",
+        "Coordinate-Geometry",
+        "geometry",
+        "math",
+        "math::p1::ch3::concept"
+      ]
+    },
+    {
+      "noteId": 1778305954366,
+      "tags": [
+        "Coordinate-Geometry",
+        "locus",
+        "math::p1::ch3::problem",
+        "Median",
+        "স্থানাঙ্ক-জ্যামিতি"
+      ]
+    },
+    {
+      "noteId": 1778305980197,
+      "tags": [
+        "Coordinate-Geometry",
+        "geometry",
+        "locus",
+        "math",
+        "math::p1::ch3::problem"
+      ]
+    },
+    {
+      "noteId": 1778306006134,
+      "tags": [
+        "Coordinate-Geometry",
+        "locus",
+        "math-bengali",
+        "math::p1::ch3::problem",
+        "sancharpath"
+      ]
+    },
+    {
+      "noteId": 1778306030804,
+      "tags": [
+        "circle",
+        "Coordinate-Geometry",
+        "locus",
+        "math",
+        "math::p1::ch3::concept",
+        "স্থানাঙ্ক-জ্যামিতি"
+      ]
+    },
+    {
+      "noteId": 1778429606418,
+      "tags": [
+        "formulas",
+        "identities",
+        "math::p1::ch7::concept",
+        "Mathematics",
+        "trigonometry",
+        "ত্রিকোণমিতি"
+      ]
+    },
+    {
+      "noteId": 1778431541856,
+      "tags": [
+        "identities",
+        "math",
+        "math::p1::ch7::problem",
+        "Proof",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1779104376502,
+      "tags": [
+        "math::p1::ch1::concept"
+      ]
+    },
+    {
+      "noteId": 1780321375405,
+      "tags": [
+        "Algebra",
+        "Algebraic-Identities",
+        "math::p1::ch4::concept",
+        "Mathematics",
+        "বীজগণিত"
+      ]
+    },
+    {
+      "noteId": 1780932274098,
+      "tags": [
+        "bengali-math",
+        "Linear-Algebra",
+        "math",
+        "math::p1::ch1::problem",
+        "Matrix"
+      ]
+    },
+    {
+      "noteId": 1781548908851,
+      "tags": [
+        "area",
+        "formulas",
+        "geometry",
+        "math",
+        "math::p1::ch7::concept",
+        "perimeter"
+      ]
+    },
+    {
+      "noteId": 1786331894861,
+      "tags": [
+        "Calculus",
+        "limits",
+        "math::p1::ch9::problem",
+        "Mathematics",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1786331939750,
+      "tags": [
+        "Calculus",
+        "calculus-limits",
+        "limits",
+        "math",
+        "math::p1::ch9::problem",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1786331966926,
+      "tags": [
+        "Calculus",
+        "limits",
+        "math",
+        "math::p1::ch9::problem",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1786331983781,
+      "tags": [
+        "Calculus",
+        "limits",
+        "math::p1::ch9::problem",
+        "Mathematics",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1786332014581,
+      "tags": [
+        "Calculus",
+        "limits",
+        "math::p1::ch9::problem",
+        "Mathematics",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1786332053133,
+      "tags": [
+        "Calculus",
+        "limit-problem",
+        "limits",
+        "math",
+        "math::p1::ch9::problem",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1786332081286,
+      "tags": [
+        "Calculus",
+        "limits",
+        "math",
+        "math::p1::ch9::problem",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1786332103293,
+      "tags": [
+        "Calculus",
+        "limits",
+        "math::p1::ch9::concept",
+        "Mathematics",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1786332117862,
+      "tags": [
+        "Calculus",
+        "limits",
+        "math",
+        "math::p1::ch9::concept",
+        "trigonometry"
+      ]
+    },
+    {
+      "noteId": 1787066657502,
+      "tags": [
+        "Calculus",
+        "Continuity",
+        "limits",
+        "math::p1::ch9::concept",
+        "Mathematics",
+        "অন্তরীকরণ"
+      ]
+    },
+    {
+      "noteId": 1787066691970,
+      "tags": [
+        "Calculus",
+        "LHL",
+        "limits",
+        "math::p1::ch9::concept",
+        "Mathematics",
+        "RHL"
+      ]
+    },
+    {
+      "noteId": 1787066726793,
+      "tags": [
+        "Calculus",
+        "Continuity",
+        "limits",
+        "math",
+        "math::p1::ch9::problem",
+        "piecewise-function"
+      ]
+    },
+    {
+      "noteId": 1787066754345,
+      "tags": [
+        "Calculus",
+        "Continuity",
+        "limits",
+        "math::p1::ch9::concept",
+        "Mathematics",
+        "অবিচ্ছিন্নতা"
+      ]
+    },
+    {
+      "noteId": 1787066777345,
+      "tags": [
+        "Calculus",
+        "Continuity",
+        "limits",
+        "math",
+        "math::p1::ch9::problem",
+        "অন্তরীকরণ"
+      ]
+    },
+    {
+      "noteId": 1787066796769,
+      "tags": [
+        "Calculus",
+        "Continuity",
+        "math",
+        "math::p1::ch9::problem",
+        "piecewise-function",
+        "অবিচ্ছিন্নতা"
+      ]
+    },
+    {
+      "noteId": 1787066817521,
+      "tags": [
+        "Calculus",
+        "differentiation",
+        "functions",
+        "math::p1::ch9::concept",
+        "Mathematics"
+      ]
+    },
+    {
+      "noteId": 1788446954446,
+      "tags": [
+        "Algebra",
+        "factorization",
+        "math::basics",
+        "math::basics::concept",
+        "Mathematics",
+        "square-root"
+      ]
+    },
+    {
+      "noteId": 1788532523191,
+      "tags": [
+        "Algebra",
+        "math",
+        "math::basics",
+        "math::basics::concept",
+        "quadratic-equation",
+        "roots"
+      ]
+    },
+    {
+      "noteId": 1788532901459,
+      "tags": [
+        "math::basics",
+        "math::basics::concept"
+      ]
+    },
+    {
+      "noteId": 1788537022646,
+      "tags": [
+        "math::p2::ch3::basics",
+        "math::p2::ch3::concept"
+      ]
+    },
+    {
+      "noteId": 1788537830656,
+      "tags": [
+        "math::p2::ch3::basics",
+        "math::p2::ch3::concept"
+      ]
+    },
+    {
+      "noteId": 1788538011349,
+      "tags": [
+        "math::p2::ch3::basics",
+        "math::p2::ch3::concept"
+      ]
+    },
+    {
+      "noteId": 1788539174526,
+      "tags": [
+        "math::p2::ch3::basics",
+        "math::p2::ch3::concept"
+      ]
+    },
+    {
+      "noteId": 1788621034863,
+      "tags": [
+        "math::p2::ch3::basics",
+        "math::p2::ch3::concept"
+      ]
+    },
+    {
+      "noteId": 1788965152417,
+      "tags": [
+        "math::p2::ch3::concept",
+        "math::p2::ch3::mcq"
+      ]
+    }
+  ]
+}
