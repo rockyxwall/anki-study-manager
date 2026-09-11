@@ -9,3 +9,4 @@ Personal Anki study manager for HSC curriculum, flat tag-driven decks, and space
 
 ## Connection to MCP Server
 This repo works seamlessly with [`mcp-anki-connect`](https://github.com/rockyxwall/mcp-anki-connect). Both connect to the local Anki instance (`http://127.0.0.1:8765`). AI assistants (Antigravity/Claude) access Anki tools via the MCP server while operating on this workspace.
+
