@@ -1,75 +1,9 @@
 [
   {
-    "cardId": 1759986587142,
-    "noteId": 1759986587139,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ট্রান্সপোজ ম্যাট্রিক্স (Transpose Matrix)",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 1,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1759986634188,
-    "noteId": 1759986634188,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "প্রতিসম ম্যাট্রিক্স (Symmetric Matrix)",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 1,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1759986676007,
-    "noteId": 1759986676006,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "বিপ্রতিসম ম্যাট্রিক্স (Skew Symmetric Matrix)",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 1,
-    "action": "ACTIVATE"
-  },
-  {
     "cardId": 1759986808830,
     "noteId": 1759986808825,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
     "header": "ম্যাট্রিক্সের প্রকারভেদ (Matrix Types)",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 1,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1760097827675,
-    "noteId": 1760097827674,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "নির্ণায়কের ধারণা (Concept of Determinant)",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 2,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1760097933832,
-    "noteId": 1760097933826,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "অ্যাডজয়েন্ট ম্যাট্রিক্স (Adjoint Matrix)",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 1,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1760097988676,
-    "noteId": 1760097988675,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "বিপরীত ম্যাট্রিক্স (Inverse Matrix)",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
@@ -319,17 +253,6 @@
     "action": "SUSPEND"
   },
   {
-    "cardId": 1763194922775,
-    "noteId": 1763194922775,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "নির্ণায়কের ধর্ম (Properties of Determinants)",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 1,
-    "action": "ACTIVATE"
-  },
-  {
     "cardId": 1763194972617,
     "noteId": 1763194972617,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
@@ -350,17 +273,6 @@
     "roleTag": "math::p1::ch1::problem",
     "currentQueue": -1,
     "action": "SUSPEND"
-  },
-  {
-    "cardId": 1763195096250,
-    "noteId": 1763195096250,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "নির্ণায়কের ধর্ম (Properties of Determinants)",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 1,
-    "action": "ACTIVATE"
   },
   {
     "cardId": 1763195233823,
@@ -1089,17 +1001,6 @@
     "action": "SUSPEND"
   },
   {
-    "cardId": 1779104376502,
-    "noteId": 1779104376502,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "What is coefficient(সহগুণক)?",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 1,
-    "action": "ACTIVATE"
-  },
-  {
     "cardId": 1780321375405,
     "noteId": 1780321375405,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
@@ -1448,6 +1349,204 @@
     "chapter": "math::p2::ch3",
     "role": "mcq",
     "roleTag": "math::p2::ch3::mcq",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604782,
+    "noteId": 1789623604779,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ট্রান্সপোজ ম্যাট্রিক্স (Transpose Matrix)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604780,
+    "noteId": 1789623604779,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ট্রান্সপোজ ম্যাট্রিক্স (Transpose Matrix)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604781,
+    "noteId": 1789623604779,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ট্রান্সপোজ ম্যাট্রিক্স (Transpose Matrix)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604792,
+    "noteId": 1789623604790,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "প্রতিসম ও বিপ্রতিসম ম্যাট্রিক্স (Symmetric & Skew-Symmetric)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604790,
+    "noteId": 1789623604790,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "প্রতিসম ও বিপ্রতিসম ম্যাট্রিক্স (Symmetric & Skew-Symmetric)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604791,
+    "noteId": 1789623604790,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "প্রতিসম ও বিপ্রতিসম ম্যাট্রিক্স (Symmetric & Skew-Symmetric)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604797,
+    "noteId": 1789623604797,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "অনুরাশি ও সহগুণক (Minor vs Cofactor)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604804,
+    "noteId": 1789623604803,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "অ্যাডজয়েন্ট ম্যাট্রিক্স (Adjoint Matrix)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604803,
+    "noteId": 1789623604803,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "অ্যাডজয়েন্ট ম্যাট্রিক্স (Adjoint Matrix)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604811,
+    "noteId": 1789623604809,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "বিপরীত ম্যাট্রিক্স (Inverse Matrix)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604810,
+    "noteId": 1789623604809,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "বিপরীত ম্যাট্রিক্স (Inverse Matrix)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604809,
+    "noteId": 1789623604809,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "বিপরীত ম্যাট্রিক্স (Inverse Matrix)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604815,
+    "noteId": 1789623604815,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "বিপরীত ম্যাট্রিক্সের ধর্ম (Properties of Inverse Matrix)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604817,
+    "noteId": 1789623604815,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "বিপরীত ম্যাট্রিক্সের ধর্ম (Properties of Inverse Matrix)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604816,
+    "noteId": 1789623604815,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "বিপরীত ম্যাট্রিক্সের ধর্ম (Properties of Inverse Matrix)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604821,
+    "noteId": 1789623604821,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ম্যাট্রিক্স সমীকরণ সমাধান AB=C",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604827,
+    "noteId": 1789623604827,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ম্যাট্রিক্স সমীকরণ সমাধান ABC=D",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789636324108,
+    "noteId": 1789636324108,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "নির্ণায়কের ধর্ম (Properties of Determinants)",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
     "currentQueue": 0,
     "action": "ACTIVATE"
   }

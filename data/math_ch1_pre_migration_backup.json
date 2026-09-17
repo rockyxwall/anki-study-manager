@@ -1,0 +1,976 @@
+[
+  {
+    "noteId": 1759986587139,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::concept"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.4348:top=.0145:width=.2072:height=.0802:oi=1}}<br>{{c1::image-occlusion:rect:left=.0029:top=.0931:width=.9886:height=.8822:oi=1}}<br>{{c1::image-occlusion:rect:left=.6481:top=.0127:width=.2959:height=.0804:oi=1}}<br>{{c1::image-occlusion:rect:left=.0029:top=.0074:width=.0597:height=.0838:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"WhatsApp Image 2025-10-08 at 11.23.40_a3857350.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "ট্রান্সপোজ ম্যাট্রিক্স (Transpose Matrix)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Transpose matrix definition: swap rows and columns. Notation: $A^T$ or $A'$. If $A$ is $m \\times n$, $A^T$ is $n \\times m$. Properties: (i) $(A^T)^T = A$, (ii) $(A \\pm B)^T = A^T \\pm B^T$, (iii) $(AB)^T = B^T A^T$, (iv) $(kA)^T = kA^T$. Key testable: row-column interchange rule and matrix product reversal property.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1759986587142
+    ]
+  },
+  {
+    "noteId": 1759986634188,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::concept"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.2755:top=.036:width=.2313:height=.1502:oi=1}}<br>{{c1::image-occlusion:rect:left=.5151:top=.0263:width=.4677:height=.1599:oi=1}}<br>{{c1::image-occlusion:rect:left=.0505:top=.2104:width=.451:height=.1551:oi=1}}<br>{{c1::image-occlusion:rect:left=.0505:top=.4237:width=.5573:height=.344:oi=1}}<br>{{c1::image-occlusion:rect:left=.0516:top=.8259:width=.3927:height=.1454:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"WhatsApp Image 2025-10-08 at 11.23.40_abc8e3e6.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "প্রতিসম ম্যাট্রিক্স (Symmetric Matrix)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Symmetric Matrix definition: Square matrix where transpose equals original matrix. Condition: $A^T = A$. Element property: $a_{ij} = a_{ji}$. Example: $A = [[1, 2, 5], [2, 3, 7], [5, 7, 4]]$. Testable: definition, condition formula, element index equality.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1759986634188
+    ]
+  },
+  {
+    "noteId": 1759986676006,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::concept"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.5929:top=.0122:width=.379:height=.1504:oi=1}}<br>{{c1::image-occlusion:rect:left=.3084:top=.0122:width=.2783:height=.1504:oi=1}}<br>{{c1::image-occlusion:rect:left=.0083:top=.1789:width=.9668:height=.8008:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"WhatsApp Image 2025-10-08 at 11.23.40_cc25f5dd.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "বিপ্রতিসম ম্যাট্রিক্স (Skew Symmetric Matrix)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Skew symmetric matrix definition: Square matrix where $A^T = -A$. Key properties: (1) Main diagonal elements are always zero ($a_{ij} = 0$ for $i=j$). (2) Off-diagonal elements satisfy $a_{ij} = -a_{ji}$ for $i \\neq j$. Example provided: $A = \\begin{bmatrix} 0 & -2 & -3 \\\\ 2 & 0 & 4 \\\\ 3 & -4 & 0 \\end{bmatrix}$. Testable: diagonal must be zero, transpose equals negative matrix.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1759986676007
+    ]
+  },
+  {
+    "noteId": 1759986808825,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::concept"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.2634:top=.0979:width=.2043:height=.0312:oi=1}}<br>{{c1::image-occlusion:rect:left=.4731:top=.0979:width=.4906:height=.0312:oi=1}}<br>{{c1::image-occlusion:rect:left=.0806:top=.1404:width=.8871:height=.1574:oi=1}}<br>{{c1::image-occlusion:rect:left=.2917:top=.305:width=.2043:height=.0312:oi=1}}<br>{{c1::image-occlusion:rect:left=.5013:top=.305:width=.4664:height=.0312:oi=1}}<br>{{c1::image-occlusion:rect:left=.0806:top=.3461:width=.8898:height=.3489:oi=1}}<br>{{c1::image-occlusion:rect:left=.3253:top=.7007:width=.2688:height=.0312:oi=1}}<br>{{c1::image-occlusion:rect:left=.6062:top=.7007:width=.3629:height=.0312:oi=1}}<br>{{c1::image-occlusion:rect:left=.0766:top=.7475:width=.8925:height=.2113:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"WhatsApp Image 2025-10-08 at 11.23.40_bd618084.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "ম্যাট্রিক্সের প্রকারভেদ (Matrix Types)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Topics: Conjugate, Hermitian, Skew-Hermitian Matrices. (1) Conjugate Matrix (A bar): Replace complex entries with conjugates. (2) Hermitian Matrix: $(\\bar{A})^T = A$, diagonal elements must be real, $a_{ij} = \\bar{a}_{ji}$. (3) Skew-Hermitian Matrix: $(\\bar{A})^T = -A$, diagonal elements must be zero, $a_{ij} = -\\bar{a}_{ji}$. Testable: definitions, conditions for symmetry, and diagonal properties.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789101425,
+    "cards": [
+      1759986808830
+    ]
+  },
+  {
+    "noteId": 1760097827674,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::concept"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.2066:top=.0276:width=.2793:height=.0874:oi=1}}<br>{{c1::image-occlusion:rect:left=.0447:top=.1264:width=.9335:height=.4782:oi=1}}<br>{{c1::image-occlusion:rect:left=.0447:top=.6092:width=.7124:height=.3885:oi=1}}<br>{{c1::image-occlusion:rect:left=.4943:top=.0276:width=.4829:height=.0874:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-a7f19ddf5a2ba014b6b60030a1b4e5000fc08c62.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের ধারণা (Concept of Determinant)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Topic: Determinant history and definition. History: Originated for solving linear equations, first appeared in 'The Nine Chapters on the Mathematical Art' (3rd century BC), developed by Cardano and Leibniz. Definition: Determinant is a function of a square matrix, denoted as $|A|$ or $\\text{Det}(A)$. Formula 2x2: $|\\begin{smallmatrix} a & b \\\\ c & d \\end{smallmatrix}| = ad - bc$. Occluded elements: Notation $|A|$ or $\\text{Det}(A)$, 2x2 determinant formula $ad-bc$, and matrix elements $a_1, b_2$ in the 3x3 example.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1760097827675
+    ]
+  },
+  {
+    "noteId": 1760097933826,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::concept"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.0436:top=.123:width=.9377:height=.8612:oi=1}}<br>{{c1::image-occlusion:rect:left=.2191:top=.0189:width=.3063:height=.1009:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-d81eea1db6717e211ea76283e187d4465bdd6e55.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "অ্যাডজয়েন্ট ম্যাট্রিক্স (Adjoint Matrix)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Core concept: Adjoint matrix definition. (1) Cofactor matrix: Matrix formed by cofactors $A_{ij}$ of square matrix $A$. (2) Adjoint: Transpose of cofactor matrix, denoted as $\\text{Adj}(A)$. (3) Process: Find cofactors, form matrix, then transpose rows to columns. Testable: Definition of cofactor matrix, notation $\\text{Adj}(A)$, and the transpose operation.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1760097933832
+    ]
+  },
+  {
+    "noteId": 1760097988675,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::concept"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.1273:top=.0638:width=.302:height=.0794:oi=1}}<br>{{c1::image-occlusion:rect:left=.6731:top=.4071:width=.2449:height=.0993:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-5326b3d842d1e36e655f80b1d1da346579c518f7.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "বিপরীত ম্যাট্রিক্স (Inverse Matrix)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Inverse matrix calculation for non-singular square matrices. Formula: $A^{-1} = \\frac{1}{|A|} \\text{Adj}(A)$. For $2 \\times 2$ matrix $A = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$, $A^{-1} = \\frac{1}{ad-bc} \\begin{bmatrix} d & -b \\\\ -c & a \\end{bmatrix}$. For $3 \\times 3$, $A^{-1} = \\frac{1}{|A|} [A_{ij}]^T$, where $A_{ij}$ are cofactors (সহগুণক). Testable: cofactor definitions, determinant condition $|A| \\neq 0$, and adjoint matrix transposition.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1760097988676
+    ]
+  },
+  {
+    "noteId": 1762400969722,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:polygon:left=.1917:top=.5546:points=.1939,.5986 .1961,.6426 .8431,.6014 .8388,.5546:oi=1}}<br>{{c1::image-occlusion:polygon:left=.3943:top=.8766:points=.3965,.8865 .3987,.9262 .7516,.9191 .7495,.8766:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-13a5aa206a52f6ce9b497bc726b51ceaca3cf490.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের প্রমাণ (Determinant Proof)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Proof of determinant identity: $\\begin{vmatrix} 1 & 1 & 1 \\\\ a & b & c \\\\ a^3 & b^3 & c^3 \\end{vmatrix} = (a-b)(b-c)(c-a)(a+b+c)$. Steps: (1) Apply column operations $C_1' = C_1 - C_2$ and $C_2' = C_2 - C_3$. (2) Factor out $(a-b)$ and $(b-c)$. (3) Expand remaining $2 \\times 2$ determinant. (4) Simplify quadratic terms using difference of squares/cubes. Testable: column operation logic and algebraic factorization.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1762400969724
+    ]
+  },
+  {
+    "noteId": 1762401444936,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.0715:top=.4698:width=.4906:height=.4714:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-cc6b8d11bf241f1c61bb64a1a85aad8ae3b001ee.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের প্রমাণ (Determinant Proof)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Topic: Determinant properties. Goal: Prove $\\begin{vmatrix} a & b & c \\\\ a^2 & b^2 & c^2 \\\\ a^3 & b^3 & c^3 \\end{vmatrix} = abc(a-b)(b-c)(c-a)$. Step 1: Factor out $a, b, c$ from columns 1, 2, 3 respectively. Resulting determinant is $\\begin{vmatrix} 1 & 1 & 1 \\\\ a & b & c \\\\ a^2 & b^2 & c^2 \\end{vmatrix}$. Testable: Column operations $C_1 \\to C_1 - C_2$ and $C_2 \\to C_2 - C_3$ to generate factors $(a-b)$ and $(b-c)$.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789101135,
+    "cards": [
+      1762401444936
+    ]
+  },
+  {
+    "noteId": 1762401640361,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.2112:top=.3234:width=.501:height=.139:oi=1}}<br>{{c1::image-occlusion:rect:left=.2381:top=.5816:width=.4348:height=.0553:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-41addf467d524babfb04c270ab2334a0b7848842.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের প্রমাণ (Determinant Proof)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Topic: Determinant identity proof. Goal: Prove $\\begin{vmatrix} 1 & 1 & 1 \\\\ 1 & p & p^2 \\\\ 1 & p^2 & p^4 \\end{vmatrix} = p(p-1)^2(p^2-1)$. Method: Row operations $R_1' = R_1 - R_2$ and $R_2' = R_2 - R_3$. Factor out $(1-p)$ from rows. Simplify to reach R.S. Key steps: factoring common terms, expanding $2 \\times 2$ determinant, and sign adjustment $(1-p)^2 = (p-1)^2$.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1762401640361
+    ]
+  },
+  {
+    "noteId": 1762401689987,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.1896:top=.2135:width=.5801:height=.1237:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-06e56a11f1cb4dfb3b55ad3affe13ca626230e7a.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের প্রমাণ (Determinant Proof)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Topic: Determinant properties. Goal: Prove $\\begin{vmatrix} -a^2 & ab & ac \\\\ ab & -b^2 & bc \\\\ ac & bc & -c^2 \\end{vmatrix} = 4a^2b^2c^2$. Method: Factor out $a, b, c$ from rows $R_1, R_2, R_3$ respectively to get $abc \\begin{vmatrix} -a & a & a \\\\ b & -b & b \\\\ c & c & -c \\end{vmatrix}$, then factor $a, b, c$ from columns $C_1, C_2, C_3$ to get $a^2b^2c^2 \\begin{vmatrix} -1 & 1 & 1 \\\\ 1 & -1 & 1 \\\\ 1 & 1 & -1 \\end{vmatrix}$. Apply $C_1 = C_1 + C_2$ to simplify. Testable: Row/column operations, factoring constants from determinants.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1762401689987
+    ]
+  },
+  {
+    "noteId": 1762401844920,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.8346:top=.2813:width=.1592:height=.0515:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-15ae82c4f8d8425341291e59e9dac5b995d38593.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের প্রমাণ (Determinant Proof)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Determinant identity proof. Goal: Prove |a-b-c, 2a, 2a; 2b, b-c-a, 2b; 2c, 2c, c-a-b| = (a+b+c)^3. Method: Apply row operation R1' = R1 + R2 + R3. This yields (a+b+c) in every element of row 1. Factor out (a+b+c) to simplify. Occluded steps involve further column/row operations to reduce to 1s and zeros for final expansion.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1762401844920
+    ]
+  },
+  {
+    "noteId": 1762401905114,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.6528:top=.3007:width=.3236:height=.0525:oi=1}}<br>{{c1::image-occlusion:rect:left=.1569:top=.7872:width=.4806:height=.2057:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-84d4f45ca772f56f8c063f982ef3844b2b3c1ea5.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের প্রমাণ (Determinant Proof)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Math problem: Prove determinant identity. LHS: |x+y, x, y; x, x+z, z; y, z, y+z| = 4xyz. Step 1: Apply column operation C1 = C1 - C2 - C3. Resulting first column becomes [0, -2z, -2z]^T. Step 2: Factor out -2z. Remaining determinant: -2z * |0, x, y; 1, x+z, z; 1, z, y+z|. Goal: Simplify to 4xyz.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1762401905115
+    ]
+  },
+  {
+    "noteId": 1762401978958,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.1034:top=.6993:width=.4707:height=.156:oi=1}}<br>{{c1::image-occlusion:rect:left=.8056:top=.3631:width=.1759:height=.0667:oi=1}}<br>{{c1::image-occlusion:rect:left=.1049:top=.8965:width=.1296:height=.0496:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-c806f0ab84dd59f62914d789b879988a31b04842.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের প্রমাণ (Determinant Proof)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Determinant identity proof. Goal: Prove $\\begin{vmatrix} x^2 & yz & zx+z^2 \\\\ x^2+xy & y^2 & zx \\\\ xy & y^2+yz & z^2 \\end{vmatrix} = 4x^2y^2z^2$. Method: Column operation $C_1' = C_1 - C_2 + C_3$. Factor out common terms $x, y, z$ from columns. Simplify to reach target product. Key steps: row/column manipulation, factoring, expansion.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1762401978960
+    ]
+  },
+  {
+    "noteId": 1762402064709,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.1026:top=.3073:width=.5886:height=.2214:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-79d2ca731db06264bd2b34b112468b18b4a9bb40.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের প্রমাণ (Determinant Proof)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Determinant identity proof. Goal: Prove |x, y, z; x^2, y^2, z^2; x^3-1, y^3-1, z^3-1| = (xyz-1)(x-y)(y-z)(z-x). Method: Split determinant into two parts using column property. Factor out xyz from first part. Swap rows to align with Vandermonde-like structure. Final form involves cyclic differences (x-y)(y-z)(z-x).",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1762402064709
+    ]
+  },
+  {
+    "noteId": 1762402119431,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.1851:top=.495:width=.5599:height=.2213:oi=1}}<br>{{c1::image-occlusion:rect:left=.1874:top=.8213:width=.1851:height=.0936:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-f6be3fecc6a8d6d25c2f637c6963bcd59420d811.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের প্রমাণ (Determinant Proof)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Topic: Determinant property proof. Goal: Prove $\\begin{vmatrix} a+b+2c & a & b \\\\ c & b+c+2a & b \\\\ c & a & c+a+2b \\end{vmatrix} = 2(a+b+c)^3$. Method: Apply row operation $R_1 \\to R_1 + R_2 + R_3$ to extract common factor $2(a+b+c)$. Resulting determinant has first column as $1, 1, 1$. Further row subtractions ($R_2 - R_1, R_3 - R_1$) simplify to upper triangular form to reach final product.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100341,
+    "cards": [
+      1762402119432
+    ]
+  },
+  {
+    "noteId": 1762402217616,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.723:top=.2488:width=.2286:height=.053:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-545905f33542ab622983e54a0519560dd8e247c3.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের ধর্ম (Determinant Properties)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Topic: Determinant proof using cube roots of unity. Identity: $1 + \\omega + \\omega^2 = 0$. Operation: $C_1 \\to C_1 + C_2 + C_3$. Result: First column becomes zero, determinant value is zero. Testable: Property of complex cube roots of unity and column addition in determinants.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789101425,
+    "cards": [
+      1762402217616
+    ]
+  },
+  {
+    "noteId": 1762402264148,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.741:top=.4142:width=.2264:height=.0596:oi=1}}<br>{{c1::image-occlusion:rect:left=.2508:top=.8482:width=.1987:height=.0652:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-b4b4761f34df5858f74168ed56b625aeda896d84.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের ধর্ম (Determinant Properties)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Topic: Determinant proof using cube roots of unity. Operation: $C_1' = C_1 + C_2 + C_3$. Key identity: $\\omega$ is complex cube root of unity, $1 + \\omega + \\omega^2 = 0$. Step: Sum columns to factor out $(1 - \\omega + \\omega^2)$. Occluded elements: Final evaluation of the determinant to reach $-4$.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789101135,
+    "cards": [
+      1762402264149
+    ]
+  },
+  {
+    "noteId": 1763194543445,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.6968:top=.071:width=.2829:height=.2341:oi=1}}<br>{{c1::image-occlusion:rect:left=.5816:top=.6634:width=.1781:height=.188:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-bee74fc04a2cd6ba0d7e1fc7a2d2eac6dda8678d.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের ধর্ম (Determinant Properties)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Determinant proof using log properties. Core identity: $\\log_a x - \\log_a y = \\log_a(x/y)$. Row operations applied: $R_2' = R_2 - R_1$ and $R_3' = R_3 - R_1$. Resulting rows become proportional or constant, leading to determinant value 0. Key step: $\\log_2 x - \\log x = \\log(2x/x) = \\log 2$. Occluded elements: final simplification showing two identical or proportional rows.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100342,
+    "cards": [
+      1763194543446
+    ]
+  },
+  {
+    "noteId": 1763194718258,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.1047:top=.8738:width=.343:height=.0553:oi=1}}<br>{{c1::image-occlusion:rect:left=.1648:top=.3319:width=.0601:height=.0525:oi=1}}<br>{{c1::image-occlusion:rect:left=.8263:top=.4284:width=.1626:height=.1064:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-ed9cb827d165cf6f2ee81777fdb168623599585b.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের প্রমাণ (Determinant Proof)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Determinant identity proof. Goal: Prove |a, b, ax+by; b, c, bx+cy; ax+by, bx+cy, 0| = (ax^2+2bxy+cy^2)(b^2-ac). Method: Row/column operations. Key step: Multiply C1 by x, C2 by y, then subtract from C3. Resulting factor (ax^2+2bxy+cy^2) extracted. Occluded parts: Row/column operation notation (R1'=R1+R2-R3) and final simplification steps.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789101425,
+    "cards": [
+      1763194718259
+    ]
+  },
+  {
+    "noteId": 1763194823449,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.7755:top=.4293:width=.175:height=.0649:oi=1}}<br>{{c1::image-occlusion:rect:left=.7672:top=.628:width=.1583:height=.0552:oi=1}}<br>{{c1::image-occlusion:rect:left=.5578:top=.7287:width=.176:height=.0552:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-2961d4b3e5008e5d373ccd66630749c739c0eb3a.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের ধর্ম (Determinant Properties)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Core concept: Determinant expansion and cofactor properties. Given determinant $\\Delta = |a_i, b_i, c_i|$, prove $a_2A_1 + b_2B_1 + c_2C_1 = 0$. $A_1, B_1, C_1$ are cofactors of $a_1, b_1, c_1$. Property: Sum of products of elements of one row/column with cofactors of another row/column is zero. Occluded elements: The final expansion steps and the proof conclusion.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100342,
+    "cards": [
+      1763194823449
+    ]
+  },
+  {
+    "noteId": 1763194922775,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::concept"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.2206:top=.6851:width=.2655:height=.0624:oi=1}}<br>{{c1::image-occlusion:rect:left=.2034:top=.5518:width=.1263:height=.0525:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-10bb145bdcf80bc5432fbed882960734c7ec0f7f.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের ধর্ম (Properties of Determinants)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Topic: Proving determinant equals zero without expansion. Method: Multiply rows/columns by constants to create identical columns. Key steps: (1) Multiply $C_1$ by $a, b, c$ respectively, (2) Factor out $abc$, (3) Apply operation $C_1 = C_1 + C_3$ to get column of $(a+b+c)$, (4) Factor out $(a+b+c)$ leaving two identical columns of $1$s. Result: Determinant is $0$ because two columns are identical.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789101135,
+    "cards": [
+      1763194922775
+    ]
+  },
+  {
+    "noteId": 1763194972617,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.7008:top=.6142:width=.2:height=.0426:oi=1}}<br>{{c1::image-occlusion:rect:left=.4224:top=.4369:width=.1056:height=.1348:oi=1}}<br>{{c1::image-occlusion:rect:left=.2512:top=.783:width=.16:height=.0553:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-a6e49edae2d8a27f6047554e572a355a149eea78.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের ধর্ম (Properties of Determinants)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Topic: Determinant proof without expansion. Goal: Prove $\\begin{vmatrix} 1 & bc & a(b+c) \\\\ 1 & ca & b(c+a) \\\\ 1 & ab & c(a+b) \\end{vmatrix} = 0$. Method: (1) Expand third column to $ab+ac$, $bc+ba$, $ca+cb$. (2) Apply column operation $C_3 \\to C_3 + C_2$ to get common factor $(ab+bc+ca)$ in $C_3$. (3) Resulting determinant has two identical columns ($C_1$ and $C_3$ are both 1s), thus value is 0. Key property: If two columns/rows are identical, determinant is zero.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789101135,
+    "cards": [
+      1763194972617
+    ]
+  },
+  {
+    "noteId": 1763195051428,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.1403:top=.7149:width=.1131:height=.0567:oi=1}}<br>{{c1::image-occlusion:rect:left=.6968:top=.339:width=.2376:height=.0397:oi=1}}<br>{{c1::image-occlusion:rect:left=.7198:top=.8174:width=.2217:height=.1078:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-6f367384bba47d6cafd4cf9ebbd3e19e0eac7e6b.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়ক সমাধান (Determinant Solution)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Solve determinant equation: |[3+x, 4, 2], [4, 2+x, 3], [2, 3, 4+x]| = 0. Method: Column operation $C_1 \\rightarrow C_1 + C_2 + C_3$ yields common factor $(x+9)$. Factoring $(x+9)$ leaves a simpler determinant. Row operations $R_1 \\rightarrow R_1 - R_2$ and $R_2 \\rightarrow R_2 - R_3$ reduce matrix to upper triangular form for final evaluation. Testable: value of x.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789101135,
+    "cards": [
+      1763195051428
+    ]
+  },
+  {
+    "noteId": 1763195096250,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::concept"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.3359:top=.6138:width=.1156:height=.3516:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-c3471c5b5655bdcdf95753a010597e5722b0f705.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের ধর্ম (Properties of Determinants)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Core concept: Row/Column operations in determinants. Rule: Adding or subtracting a scalar multiple of one row/column to another does not change the determinant value. Formula: $det(A) = det(A')$ where $C_1 \\to C_1 \\pm kC_2$. Key Bengali: 'কোন নির্ণায়কের একটি সারি বা কলামের উপাদানগুলোকে কোনো সংখ্যা দ্বারা গুণ করে অপর একটি সারি বা কলামের সাথে যোগ/বিয়োগ করা যাবে'. Testable: Value remains invariant under elementary row/column operations.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100342,
+    "cards": [
+      1763195096250
+    ]
+  },
+  {
+    "noteId": 1763195233822,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.8934:top=.1163:width=.1011:height=.0582:oi=1}}<br>{{c1::image-occlusion:rect:left=.1339:top=.695:width=.2814:height=.0482:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-af0b706f06be2d7b36217907e702460eae278282.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "নির্ণায়কের প্রমাণ (Determinant Proof)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Proof of determinant identity: $\\begin{vmatrix} 1+a^2-b^2 & 2ab & -2b \\\\ 2ab & 1-a^2+b^2 & 2a \\\\ 2b & -2a & 1-a^2-b^2 \\end{vmatrix} = (1+a^2+b^2)^3$. Method: Row/Column operations. Step 1: $C_1 \\to C_1 - bC_3$ and $C_2 \\to C_2 + aC_3$. Step 2: Factor out $(1+a^2+b^2)$ from columns. Step 3: Expand determinant. Testable: Row/column transformation logic and algebraic simplification.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789101135,
+    "cards": [
+      1763195233823
+    ]
+  },
+  {
+    "noteId": 1763195257950,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.6322:top=.0156:width=.325:height=.0671:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-345fafa37ac8fd35106891a41e911b3e31393651.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "ক্রেমারের নিয়ম (Cramer's Rule)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Solving system of linear equations using Cramer's Rule. System: $x+y+z=1, x+2y+z=2, x+y+2z=0$. Formula: $\\frac{x}{D_x} = \\frac{y}{D_y} = \\frac{z}{D_z} = \\frac{1}{D}$. Determinants calculated: $D=1, D_x=1, D_y=1, D_z=-1$. Final solution: $x=1, y=1, z=-1$. Testable: determinant expansion steps, variable extraction, and final ratio application.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789100342,
+    "cards": [
+      1763195257950
+    ]
+  },
+  {
+    "noteId": 1779104376502,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::concept"
+    ],
+    "fields": {
+      "Front": {
+        "value": "What is coefficient(সহগুণক)?",
+        "order": 0
+      },
+      "Back": {
+        "value": "<img src=\"paste-4f52ca29fe723a3afe8ec4e2d4e1090b4dc2359c.jpg\">",
+        "order": 1
+      }
+    },
+    "modelName": "Basic",
+    "mod": 1789095683,
+    "cards": [
+      1779104376502
+    ]
+  },
+  {
+    "noteId": 1780932274098,
+    "profile": "rockyxwall",
+    "tags": [
+      "math::p1::ch1::problem"
+    ],
+    "fields": {
+      "Occlusion": {
+        "value": "{{c1::image-occlusion:rect:left=.0409:top=.2156:width=.9458:height=.7561:oi=1}}<br>",
+        "order": 0
+      },
+      "Image": {
+        "value": "<img src=\"paste-037ee8198a9c29dd19ae26946a45a1668aefaec0.jpg\">",
+        "order": 1
+      },
+      "Header": {
+        "value": "ম্যাট্রিক্স গঠন (Matrix Construction)",
+        "order": 2
+      },
+      "Back Extra": {
+        "value": "",
+        "order": 3
+      },
+      "Comments": {
+        "value": "Construct 2x3 matrix A using formula $a_{ij} = \\frac{1}{2}(i - 2j)^2$. Matrix dimensions: 2 rows, 3 columns. Elements calculated: $a_{11}=1/2, a_{12}=9/2, a_{13}=25/2, a_{21}=0, a_{22}=2, a_{23}=8$. Final matrix $A = [[1/2, 9/2, 25/2], [0, 2, 8]]$. Occluded elements: matrix order '2 x 3' and general term formula.",
+        "order": 4
+      }
+    },
+    "modelName": "Image Occlusion",
+    "mod": 1789101135,
+    "cards": [
+      1780932274099
+    ]
+  }
+]
