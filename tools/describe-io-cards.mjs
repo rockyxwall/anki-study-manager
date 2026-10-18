@@ -98,19 +98,45 @@ function getMimeType(filename) {
     }
 }
 
-async function describeWithGemini(imageBase64, mimeType, key, retries = 3) {
+async function describeWithGemini(imageBase64, mimeType, key, contextInfo = '', retries = 3) {
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${key}`;
 
-    const systemPrompt = `You analyze flashcard images from Anki notes (especially physics, math, science in Bengali and English).
+    const systemPrompt = `You analyze flashcard images from Anki notes (HSC curriculum: Physics, Higher Math, ICT, Chemistry, Bangla, English).
 The image is from an Image Occlusion card where certain parts are occluded/tested.
 Extract full meaning with high precision (transcribing Bengali script, formulas, and diagrams).
+${contextInfo ? `Context: ${contextInfo}` : ''}
 
 Output strictly valid JSON matching this structure:
 {
   "header": "Clean 3-6 word topic title (Bengali + English if applicable, e.g. ভেক্টর রাশি (Vector Quantities))",
   "comments": "Terse technical description in caveman style. Full conceptual substance, zero fluff. Include: (1) Core concept/topic, (2) Formulas/identities in LaTeX ($...$), (3) Key Bengali/English definitions, (4) Likely occluded elements or testable facts.",
-  "tags": ["relevant", "subtopic", "tags"]
-}`;
+  "canonicalTag": "Exact canonical tag string OR empty string \\"\\""
+}
+
+STRICT PROJECT TAGGING TAXONOMY RULES:
+The project uses strict hierarchical taxonomy. Only these exact structures are allowed:
+- Higher Math:
+  math::p1::ch<1-10>::<concept|problem|mcq>
+  math::p2::ch3::<concept|problem|mcq>
+  math::basics::concept
+- ICT:
+  ict::ch<1-6>::<concept|problem|mcq>
+  ict::ch3::3.1::<concept|problem|mcq>
+  ict::ch3::3.2::<concept|problem|mcq>
+- Physics:
+  physics::p<1-2>::ch<1-10>::<concept|problem|mcq|cq::k|cq::kh>
+- Bangla:
+  bangla::p1::<gaddya|kavita|sahapath>::<topic>::<concept|mcq|cq::k|cq::kh>
+- Chemistry:
+  chemistry::p<1-2>::ch<1-5>::<concept|problem|peg>
+  chemistry::basics::<concept|peg>
+- English:
+  english::p1::theme::concept
+  english::p2::grammar::<topic>::concept
+
+CRITICAL RULES:
+1. If the card topic/chapter is ambiguous, unfamiliar, or you are not 100% certain of the exact chapter number, return "" (empty string).
+2. NEVER guess. NEVER invent loose, arbitrary tags (e.g. NO "Physics", NO "Geometry", NO "Math", NO generic labels).`;
 
     const requestBody = {
         contents: [
@@ -134,11 +160,11 @@ Output strictly valid JSON matching this structure:
                 properties: {
                     header: { type: 'STRING' },
                     comments: { type: 'STRING' },
-                    tags: { type: 'ARRAY', items: { type: 'STRING' } }
+                    canonicalTag: { type: 'STRING' }
                 },
-                required: ['header', 'comments', 'tags']
+                required: ['header', 'comments', 'canonicalTag']
             },
-            temperature: 0.2
+            temperature: 0.1
         }
     };
 
@@ -275,18 +301,44 @@ async function main() {
 
             const mimeType = getMimeType(filename);
 
-            // Call Gemini
+            // Call Gemini with note context
+            const contextInfo = [
+                deckFilter ? `Deck: ${deckFilter}` : '',
+                note.tags?.length ? `Existing tags: ${note.tags.join(', ')}` : ''
+            ].filter(Boolean).join(' | ');
+
             process.stdout.write(`${progress}: Calling Gemini for "${filename}"... `);
-            const aiRes = await describeWithGemini(base64Data, mimeType, apiKey);
+            const aiRes = await describeWithGemini(base64Data, mimeType, apiKey, contextInfo);
 
             const headerVal = note.fields?.Header?.value?.trim() || aiRes.header || '';
             const commentsVal = aiRes.comments || '';
+
+            // Canonical Tag Validation
+            const CANONICAL_PREFIXES = ['math::', 'ict::', 'physics::', 'bangla::', 'english::', 'chemistry::', 'lang::'];
+            const existingCanonicalTag = (note.tags || []).find((t) => CANONICAL_PREFIXES.some((p) => t.startsWith(p)));
+
+            const rawTag = (aiRes.canonicalTag || '').trim().toLowerCase();
+            const VALID_TAG_REGEX = /^(math|ict|physics|bangla|english|chemistry|lang)::([a-z0-9_.-]+::)*(concept|problem|mcq|peg|mining|cq::k|cq::kh)$/;
+
+            let tagToApply = null;
+            let tagStatus = '';
+
+            if (existingCanonicalTag) {
+                tagStatus = `Preserved existing canonical tag [${existingCanonicalTag}]`;
+            } else if (rawTag && VALID_TAG_REGEX.test(rawTag)) {
+                tagToApply = rawTag;
+                tagStatus = `Canonical tag to add: [${tagToApply}]`;
+            } else if (rawTag) {
+                tagStatus = `Tag skipped (rejected non-canonical string: "${rawTag}")`;
+            } else {
+                tagStatus = `Tag skipped (ambiguous / not determined with 100% confidence)`;
+            }
 
             if (isDryRun) {
                 console.log('\n  [DRY-RUN RESULT]');
                 console.log(`  Header:   ${headerVal}`);
                 console.log(`  Comments: ${commentsVal}`);
-                if (aiRes.tags) console.log(`  Tags:     ${aiRes.tags.join(', ')}`);
+                console.log(`  Tag:      ${tagStatus}`);
             } else {
                 // Write to Anki
                 const fields = { Comments: commentsVal };
@@ -301,13 +353,15 @@ async function main() {
                     }
                 });
 
-                if (aiRes.tags && aiRes.tags.length > 0) {
+                if (tagToApply) {
                     await callAnki('addTags', {
                         notes: [noteId],
-                        tags: aiRes.tags.map((t) => t.replace(/\s+/g, '-')).join(' ')
+                        tags: tagToApply
                     });
+                    console.log(`Done! -> "${aiRes.header}" | Tagged: [${tagToApply}]`);
+                } else {
+                    console.log(`Done! -> "${aiRes.header}" | ${tagStatus}`);
                 }
-                console.log(`Done! -> "${aiRes.header}"`);
             }
 
             successCount++;

@@ -7,18 +7,7 @@
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 1,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1762363258214,
-    "noteId": 1762363258214,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "<img src=\"paste-6ef388957fb16943f29dde8386f7795994f7cc53.jpg",
-    "chapter": "math::p1::ch3",
-    "role": "concept",
-    "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -128,7 +117,7 @@
     "chapter": "math::p2::ch3",
     "role": "concept",
     "roleTag": "math::p2::ch3::concept",
-    "currentQueue": 1,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -139,7 +128,7 @@
     "chapter": "math::p2::ch3",
     "role": "concept",
     "roleTag": "math::p2::ch3::concept",
-    "currentQueue": 1,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -194,7 +183,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 1,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -229,6 +218,17 @@
     "roleTag": "math::p1::ch1::problem",
     "currentQueue": -1,
     "action": "SUSPEND"
+  },
+  {
+    "cardId": 1763194618105,
+    "noteId": 1763194618105,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "MCQ Shortcut",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": -1,
+    "action": "ACTIVATE"
   },
   {
     "cardId": 1763194718259,
@@ -308,28 +308,6 @@
     "action": "ACTIVATE"
   },
   {
-    "cardId": 1765002226116,
-    "noteId": 1765002226115,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "কোণ পরিমাপের একক (Units of Angle Measurement)",
-    "chapter": "math::p1::ch6",
-    "role": "concept",
-    "roleTag": "math::p1::ch6::concept",
-    "currentQueue": 2,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1765002226117,
-    "noteId": 1765002226115,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "কোণ পরিমাপের একক (Units of Angle Measurement)",
-    "chapter": "math::p1::ch6",
-    "role": "concept",
-    "roleTag": "math::p1::ch6::concept",
-    "currentQueue": 2,
-    "action": "ACTIVATE"
-  },
-  {
     "cardId": 1765002254578,
     "noteId": 1765002254578,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
@@ -337,7 +315,7 @@
     "chapter": "math::p1::ch6",
     "role": "concept",
     "roleTag": "math::p1::ch6::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -348,7 +326,7 @@
     "chapter": "math::p1::ch6",
     "role": "concept",
     "roleTag": "math::p1::ch6::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -359,7 +337,7 @@
     "chapter": "math::p1::ch6",
     "role": "concept",
     "roleTag": "math::p1::ch6::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -370,7 +348,7 @@
     "chapter": "math::p1::ch6",
     "role": "concept",
     "roleTag": "math::p1::ch6::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -425,7 +403,7 @@
     "chapter": "math::p1::ch4",
     "role": "concept",
     "roleTag": "math::p1::ch4::concept",
-    "currentQueue": 2,
+    "currentQueue": 1,
     "action": "ACTIVATE"
   },
   {
@@ -458,18 +436,7 @@
     "chapter": "math::p1::ch4",
     "role": "concept",
     "roleTag": "math::p1::ch4::concept",
-    "currentQueue": 2,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1768027340130,
-    "noteId": 1768027340130,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "বৃত্তের ব্যাস সংক্রান্ত সমীকরণ (Equation of Circle with Diameter)",
-    "chapter": "math::p1::ch4",
-    "role": "concept",
-    "roleTag": "math::p1::ch4::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -480,7 +447,7 @@
     "chapter": "math::p1::ch4",
     "role": "concept",
     "roleTag": "math::p1::ch4::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -502,7 +469,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -510,17 +477,6 @@
     "noteId": 1778166391548,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
     "header": "কার্তেসীয় ও পোলার স্থানাঙ্ক (Cartesian and Polar Coordinates)",
-    "chapter": "math::p1::ch3",
-    "role": "concept",
-    "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 2,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1778166438180,
-    "noteId": 1778166438180,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "কার্তেসীয় থেকে পোলার (Cartesian to Polar)",
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
@@ -557,7 +513,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -623,7 +579,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -634,7 +590,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -678,7 +634,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -700,7 +656,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -711,7 +667,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 2,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -744,7 +700,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -766,7 +722,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -865,7 +821,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -876,7 +832,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -887,7 +843,7 @@
     "chapter": "math::p1::ch4",
     "role": "concept",
     "roleTag": "math::p1::ch4::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -931,7 +887,7 @@
     "chapter": "math::p1::ch3",
     "role": "concept",
     "roleTag": "math::p1::ch3::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -953,18 +909,7 @@
     "chapter": "math::p1::ch7",
     "role": "concept",
     "roleTag": "math::p1::ch7::concept",
-    "currentQueue": 1,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1778429606420,
-    "noteId": 1778429606418,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ত্রিকোণমিতি (Trigonometry Formulas)",
-    "chapter": "math::p1::ch7",
-    "role": "concept",
-    "roleTag": "math::p1::ch7::concept",
-    "currentQueue": 1,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -975,7 +920,7 @@
     "chapter": "math::p1::ch7",
     "role": "concept",
     "roleTag": "math::p1::ch7::concept",
-    "currentQueue": 1,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -986,7 +931,7 @@
     "chapter": "math::p1::ch7",
     "role": "concept",
     "roleTag": "math::p1::ch7::concept",
-    "currentQueue": 1,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -1021,61 +966,6 @@
     "roleTag": "math::p1::ch1::problem",
     "currentQueue": -1,
     "action": "SUSPEND"
-  },
-  {
-    "cardId": 1781548908851,
-    "noteId": 1781548908851,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ক্ষেত্রফল ও পরিসীমা (Area and Perimeter)",
-    "chapter": "math::basics",
-    "role": "concept",
-    "roleTag": "math::basics::concept",
-    "currentQueue": 0,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1781548908852,
-    "noteId": 1781548908851,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ক্ষেত্রফল ও পরিসীমা (Area and Perimeter)",
-    "chapter": "math::basics",
-    "role": "concept",
-    "roleTag": "math::basics::concept",
-    "currentQueue": 0,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1781548908853,
-    "noteId": 1781548908851,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ক্ষেত্রফল ও পরিসীমা (Area and Perimeter)",
-    "chapter": "math::basics",
-    "role": "concept",
-    "roleTag": "math::basics::concept",
-    "currentQueue": 0,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1781548908854,
-    "noteId": 1781548908851,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ক্ষেত্রফল ও পরিসীমা (Area and Perimeter)",
-    "chapter": "math::basics",
-    "role": "concept",
-    "roleTag": "math::basics::concept",
-    "currentQueue": 0,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1781548908855,
-    "noteId": 1781548908851,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ক্ষেত্রফল ও পরিসীমা (Area and Perimeter)",
-    "chapter": "math::basics",
-    "role": "concept",
-    "roleTag": "math::basics::concept",
-    "currentQueue": 0,
-    "action": "ACTIVATE"
   },
   {
     "cardId": 1786331894862,
@@ -1162,7 +1052,7 @@
     "chapter": "math::p1::ch9",
     "role": "concept",
     "roleTag": "math::p1::ch9::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -1173,7 +1063,7 @@
     "chapter": "math::p1::ch9",
     "role": "concept",
     "roleTag": "math::p1::ch9::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -1184,7 +1074,7 @@
     "chapter": "math::p1::ch9",
     "role": "concept",
     "roleTag": "math::p1::ch9::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -1195,7 +1085,7 @@
     "chapter": "math::p1::ch9",
     "role": "concept",
     "roleTag": "math::p1::ch9::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -1217,7 +1107,7 @@
     "chapter": "math::p1::ch9",
     "role": "concept",
     "roleTag": "math::p1::ch9::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -1250,7 +1140,7 @@
     "chapter": "math::p1::ch9",
     "role": "concept",
     "roleTag": "math::p1::ch9::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -1261,7 +1151,7 @@
     "chapter": "math::basics",
     "role": "concept",
     "roleTag": "math::basics::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -1272,7 +1162,7 @@
     "chapter": "math::basics",
     "role": "concept",
     "roleTag": "math::basics::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -1283,7 +1173,7 @@
     "chapter": "math::basics",
     "role": "concept",
     "roleTag": "math::basics::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -1294,7 +1184,7 @@
     "chapter": "math::p2::ch3",
     "role": "concept",
     "roleTag": "math::p2::ch3::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -1305,7 +1195,7 @@
     "chapter": "math::p2::ch3",
     "role": "concept",
     "roleTag": "math::p2::ch3::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -1316,7 +1206,7 @@
     "chapter": "math::p2::ch3",
     "role": "concept",
     "roleTag": "math::p2::ch3::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -1327,18 +1217,18 @@
     "chapter": "math::p2::ch3",
     "role": "concept",
     "roleTag": "math::p2::ch3::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1788621034865,
     "noteId": 1788621034863,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "Complex Number Loci Identification (জটিল সংখ্যার সঞ্চারপথ)",
+    "header": "<div>Complex Number Loci Identification (জটিল সংখ্যার সঞ্চারপথ)</div>",
     "chapter": "math::p2::ch3",
     "role": "concept",
     "roleTag": "math::p2::ch3::concept",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
@@ -1349,194 +1239,205 @@
     "chapter": "math::p2::ch3",
     "role": "mcq",
     "roleTag": "math::p2::ch3::mcq",
-    "currentQueue": 0,
+    "currentQueue": 2,
     "action": "ACTIVATE"
   },
   {
-    "cardId": 1789623604782,
-    "noteId": 1789623604779,
+    "cardId": 1789139356948,
+    "noteId": 1789139356948,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ট্রান্সপোজ ম্যাট্রিক্স (Transpose Matrix)",
-    "chapter": "math::p1::ch1",
+    "header": "Cube Root Identity Shortcut Proof: $(1 - \\omega + \\omega^2)(1 + \\omega - \\omega^2) = 4$",
+    "chapter": "math::p2::ch3",
     "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "roleTag": "math::p2::ch3::concept",
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1789623604780,
     "noteId": 1789623604779,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ট্রান্সপোজ ম্যাট্রিক্স (Transpose Matrix)",
+    "header": "",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1789623604781,
     "noteId": 1789623604779,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ট্রান্সপোজ ম্যাট্রিক্স (Transpose Matrix)",
+    "header": "",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
-    "cardId": 1789623604792,
-    "noteId": 1789623604790,
+    "cardId": 1789623604782,
+    "noteId": 1789623604779,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "প্রতিসম ও বিপ্রতিসম ম্যাট্রিক্স (Symmetric & Skew-Symmetric)",
+    "header": "",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1789623604790,
     "noteId": 1789623604790,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "প্রতিসম ও বিপ্রতিসম ম্যাট্রিক্স (Symmetric & Skew-Symmetric)",
+    "header": "",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1789623604791,
     "noteId": 1789623604790,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "প্রতিসম ও বিপ্রতিসম ম্যাট্রিক্স (Symmetric & Skew-Symmetric)",
+    "header": "",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604792,
+    "noteId": 1789623604790,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1789623604797,
     "noteId": 1789623604797,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "অনুরাশি ও সহগুণক (Minor vs Cofactor)",
+    "header": "<div style=\"text-align: center; font-size: 20px;\">\n  <b>অনুর",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1789623604804,
-    "noteId": 1789623604803,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "অ্যাডজয়েন্ট ম্যাট্রিক্স (Adjoint Matrix)",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1789623604803,
     "noteId": 1789623604803,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "অ্যাডজয়েন্ট ম্যাট্রিক্স (Adjoint Matrix)",
+    "header": "",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
-    "cardId": 1789623604811,
-    "noteId": 1789623604809,
+    "cardId": 1789623604804,
+    "noteId": 1789623604803,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "বিপরীত ম্যাট্রিক্স (Inverse Matrix)",
+    "header": "",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1789623604810,
-    "noteId": 1789623604809,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "বিপরীত ম্যাট্রিক্স (Inverse Matrix)",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1789623604809,
     "noteId": 1789623604809,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "বিপরীত ম্যাট্রিক্স (Inverse Matrix)",
+    "header": "",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604810,
+    "noteId": 1789623604809,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": -1,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604811,
+    "noteId": 1789623604809,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1789623604815,
     "noteId": 1789623604815,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "বিপরীত ম্যাট্রিক্সের ধর্ম (Properties of Inverse Matrix)",
+    "header": "",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
-    "action": "ACTIVATE"
-  },
-  {
-    "cardId": 1789623604817,
-    "noteId": 1789623604815,
-    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "বিপরীত ম্যাট্রিক্সের ধর্ম (Properties of Inverse Matrix)",
-    "chapter": "math::p1::ch1",
-    "role": "concept",
-    "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1789623604816,
     "noteId": 1789623604815,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "বিপরীত ম্যাট্রিক্সের ধর্ম (Properties of Inverse Matrix)",
+    "header": "",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789623604817,
+    "noteId": 1789623604815,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "",
+    "chapter": "math::p1::ch1",
+    "role": "concept",
+    "roleTag": "math::p1::ch1::concept",
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1789623604821,
     "noteId": 1789623604821,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ম্যাট্রিক্স সমীকরণ সমাধান AB=C",
+    "header": "<div style=\"text-align: center; font-size: 20px;\">\n  <b>ম্যা",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
     "cardId": 1789623604827,
     "noteId": 1789623604827,
     "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
-    "header": "ম্যাট্রিক্স সমীকরণ সমাধান ABC=D",
+    "header": "<div style=\"text-align: center; font-size: 20px;\">\n  <b>ম্যা",
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
-    "currentQueue": 0,
+    "currentQueue": -1,
     "action": "ACTIVATE"
   },
   {
@@ -1547,7 +1448,271 @@
     "chapter": "math::p1::ch1",
     "role": "concept",
     "roleTag": "math::p1::ch1::concept",
+    "currentQueue": -1,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789805698184,
+    "noteId": 1788965152417,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "Roots of $\\pm i$ &amp; Cube Roots of Unity ($\\omega, \\omega^2$) Shortcut Values (টাটকা মুখস্থ)<br>",
+    "chapter": "math::p2::ch3",
+    "role": "mcq",
+    "roleTag": "math::p2::ch3::mcq",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1789805698187,
+    "noteId": 1788965152417,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "Roots of $\\pm i$ &amp; Cube Roots of Unity ($\\omega, \\omega^2$) Shortcut Values (টাটকা মুখস্থ)<br>",
+    "chapter": "math::p2::ch3",
+    "role": "mcq",
+    "roleTag": "math::p2::ch3::mcq",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094468320,
+    "noteId": 1790094468320,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "Chapter 9 1st paper formulas",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
     "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094468321,
+    "noteId": 1790094468320,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "Chapter 9 1st paper formulas",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094468322,
+    "noteId": 1790094468320,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "Chapter 9 1st paper formulas",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094468323,
+    "noteId": 1790094468320,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "Chapter 9 1st paper formulas",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094468324,
+    "noteId": 1790094468320,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "Chapter 9 1st paper formulas",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094468325,
+    "noteId": 1790094468320,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "Chapter 9 1st paper formulas",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094468326,
+    "noteId": 1790094468320,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "Chapter 9 1st paper formulas",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094529812,
+    "noteId": 1790094529812,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক অন্তরীকরণ (Trigonometric Differentiation)",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094529813,
+    "noteId": 1790094529812,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক অন্তরীকরণ (Trigonometric Differentiation)",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094529814,
+    "noteId": 1790094529812,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক অন্তরীকরণ (Trigonometric Differentiation)",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094529815,
+    "noteId": 1790094529812,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক অন্তরীকরণ (Trigonometric Differentiation)",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094529816,
+    "noteId": 1790094529812,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক অন্তরীকরণ (Trigonometric Differentiation)",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094529817,
+    "noteId": 1790094529812,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক অন্তরীকরণ (Trigonometric Differentiation)",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094571365,
+    "noteId": 1790094571363,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "বিপরীত ত্রিকোণমিতিক অন্তরীকরণ (Inverse Trigonometric Derivatives)",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 2,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094571366,
+    "noteId": 1790094571363,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "বিপরীত ত্রিকোণমিতিক অন্তরীকরণ (Inverse Trigonometric Derivatives)",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1790094571367,
+    "noteId": 1790094571363,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "বিপরীত ত্রিকোণমিতিক অন্তরীকরণ (Inverse Trigonometric Derivatives)",
+    "chapter": "math::p1::ch9",
+    "role": "concept",
+    "roleTag": "math::p1::ch9::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1791296458913,
+    "noteId": 1791296458913,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক গুণিতক কোণ (Trigonometric Multiple Angles)",
+    "chapter": "math::p1::ch7",
+    "role": "concept",
+    "roleTag": "math::p1::ch7::concept",
+    "currentQueue": 1,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1791296458914,
+    "noteId": 1791296458913,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক গুণিতক কোণ (Trigonometric Multiple Angles)",
+    "chapter": "math::p1::ch7",
+    "role": "concept",
+    "roleTag": "math::p1::ch7::concept",
+    "currentQueue": 1,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1791296458915,
+    "noteId": 1791296458913,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক গুণিতক কোণ (Trigonometric Multiple Angles)",
+    "chapter": "math::p1::ch7",
+    "role": "concept",
+    "roleTag": "math::p1::ch7::concept",
+    "currentQueue": 0,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1791296555151,
+    "noteId": 1791296555151,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক সূত্র (Trigonometric Identities)",
+    "chapter": "math::p1::ch7",
+    "role": "concept",
+    "roleTag": "math::p1::ch7::concept",
+    "currentQueue": 1,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1791296555152,
+    "noteId": 1791296555151,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক সূত্র (Trigonometric Identities)",
+    "chapter": "math::p1::ch7",
+    "role": "concept",
+    "roleTag": "math::p1::ch7::concept",
+    "currentQueue": 1,
+    "action": "ACTIVATE"
+  },
+  {
+    "cardId": 1791296555153,
+    "noteId": 1791296555151,
+    "originalDeck": "[🎓] Academic::7.[📊] Higher Math",
+    "header": "ত্রিকোণমিতিক সূত্র (Trigonometric Identities)",
+    "chapter": "math::p1::ch7",
+    "role": "concept",
+    "roleTag": "math::p1::ch7::concept",
+    "currentQueue": 1,
     "action": "ACTIVATE"
   }
 ]

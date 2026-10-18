@@ -15,18 +15,29 @@ Personal Anki study manager for HSC curriculum, flat tag-driven decks, and space
   - English NCTB curriculum: [`docs/hsc-english-curriculum.md`](./docs/hsc-english-curriculum.md)
   - Chemistry NCTB curriculum: [`docs/hsc-chemistry-curriculum.md`](./docs/hsc-chemistry-curriculum.md)
 
-## Workflows & Scripts
-- `npm run migrate-math:exec`: Higher Math flat deck migration and curriculum queue sequencing.
-- `npm run migrate-ict:exec`: ICT flat deck migration and curriculum queue sequencing.
-- `npm run migrate-bangla:exec`: Bangla flat deck migration, CQ ক/খ taxonomy, and queue sequencing.
-- `npm run migrate-english:exec`: English flat deck migration, EFT themes, and narration rules.
-- `npm run migrate-physics:exec`: Physics flat deck migration, vector & mechanics taxonomy, CQ math suspension.
-- `npm run migrate-chem:exec`: Chemistry flat deck migration, periodic table memory pegs taxonomy, molarity problem suspension.
-- `npm run migrate-lang:exec`: Language flat deck migration, shortened vocabulary taxonomy (`lang::eng::word::*`), dual card setup.
-- `npm run audio:word`: Synthesize and attach US Male audio to vocabulary cards using Windows SAPI / System.Speech.
-- `npm run clean-tags:exec`: Strip non-canonical tags and noise across all academic & language decks while preserving exact canonical roles.
-- `npm run organize-types`: Purge unused note types/models (preserving Anki standard defaults) and clean card templates.
-- `npm run reorganize-presets`: Consolidate and rename deck configuration presets into 5 self-documenting groups while preserving FSRS weights.
+## Tools & Workflows
+
+All active CLI tools live in [`tools/`](./tools):
+- **Image Description & Tagging**:
+  - `npm run describe-io:dry`: Preview multimodal AI descriptions & tags for Image Occlusion notes.
+  - `npm run describe-io`: Populate Anki notes with AI descriptions and tags via AnkiConnect.
+- **Subject Migrations** (Powered by unified [`tools/migrate-deck.mjs`](./tools/migrate-deck.mjs)):
+  - `npm run migrate-math:exec`: Higher Math flat deck migration & curriculum queue sequencing.
+  - `npm run migrate-ict:exec`: ICT flat deck migration & curriculum queue sequencing.
+  - `npm run migrate-bangla:exec`: Bangla flat deck migration & CQ taxonomy.
+  - `npm run migrate-english:exec`: English flat deck migration & EFT theme taxonomy.
+  - `npm run migrate-physics:exec`: Physics flat deck migration & CQ math suspension.
+  - `npm run migrate-chem:exec`: Chemistry flat deck migration & peg taxonomy.
+  - `npm run migrate-lang:exec`: Language flat deck migration & word mining taxonomy.
+- **Maintenance & Hygiene**:
+  - `npm run clean-tags:dry` / `npm run clean-tags:exec`: Strip non-canonical tags and noise while preserving canonical roles.
+  - `npm run audio:word`: Synthesize and attach US Male audio to vocabulary cards using Windows SAPI / System.Speech.
+  - `npm run organize-types`: Purge unused note types/models and clean card templates.
+  - `npm run reorganize-presets`: Consolidate and rename deck configuration presets into 5 self-documenting groups.
+  - `npm run template:spelling`: Synchronize and refresh Spelling card template.
+  - `npm run audit:math`: Audit curriculum tag classification integrity.
+
+Historical one-off patches and initial migrations are preserved in [`scripts/archive/`](./scripts/archive).
 
 ## Connection to MCP Server
 This repo works seamlessly with [`mcp-anki-connect`](https://github.com/rockyxwall/mcp-anki-connect). Both connect to the local Anki instance (`http://127.0.0.1:8765`). AI assistants (Antigravity/Claude) access Anki tools via the MCP server while operating on this workspace.
