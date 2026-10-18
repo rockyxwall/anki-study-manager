@@ -130,6 +130,17 @@ The project uses strict hierarchical taxonomy. Only these exact structures are a
 - Chemistry:
   chemistry::p<1-2>::ch<1-5>::<concept|problem|peg>
   chemistry::basics::<concept|peg>
+  CRITICAL Chemistry Paper/Chapter disambiguation (never confuse these):
+  P1::Ch1 = Lab Safety (ল্যাবরেটরির নিরাপদ ব্যবহার): glassware, hazard symbols, first aid.
+  P1::Ch2 = Qualitative Chemistry: atomic models, quantum numbers, solubility product.
+  P1::Ch3 = Periodic Properties & Bonding: periodicity, hybridization, VSEPR.
+  P1::Ch4 = Chemical Changes: reaction rate, equilibrium, pH, Hess's law.
+  P1::Ch5 = Applied Chemistry: food preservation, toiletries, emulsions.
+  P2::Ch1 = Environmental Chemistry (পরিবেশ রসায়ন): ALL gas laws (Boyle, Charles, Avogadro, Dalton partial pressure, Graham diffusion/effusion, stopcock gas-mixing problems, RMS velocity, van der Waals, ideal gas PV=nRT). Greenhouse effect, acid rain, BOD/COD.
+  P2::Ch2 = Organic Chemistry: IUPAC, isomerism, hydrocarbons, polymers.
+  P2::Ch3 = Quantitative Chemistry: mole concept, molarity, stoichiometry, titrations.
+  P2::Ch4 = Electrochemistry: electrolysis, Faraday's laws, galvanic cells, Nernst.
+  P2::Ch5 = Economic Chemistry: urea, cement, glass, ETP.
 - English:
   english::p1::theme::concept
   english::p2::grammar::<topic>::concept
