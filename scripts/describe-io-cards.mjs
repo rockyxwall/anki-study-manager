@@ -14,6 +14,7 @@
 
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
 const ANKI_URL = process.env.ANKI_CONNECT_URL || 'http://127.0.0.1:8765';
 
@@ -41,7 +42,10 @@ let apiKey = getArg('--api-key') || process.env.GEMINI_API_KEY;
 if (!apiKey) {
     const candidatePaths = [
         path.resolve(process.cwd(), '.env'),
-        path.resolve(process.cwd(), '..', 'mcp-anki-connect', '.env')
+        path.resolve(process.cwd(), '..', 'anki-connect-mcp', '.env'),
+        path.resolve(process.cwd(), '..', 'mcp-anki-connect', '.env'),
+        path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '.env'),
+        path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..', 'anki-connect-mcp', '.env')
     ];
     for (const envPath of candidatePaths) {
         if (fs.existsSync(envPath)) {
@@ -104,7 +108,8 @@ Extract full meaning with high precision (transcribing Bengali script, formulas,
 Output strictly valid JSON matching this structure:
 {
   "header": "Clean 3-6 word topic title (Bengali + English if applicable, e.g. ভেক্টর রাশি (Vector Quantities))",
-  "comments": "Terse technical description in caveman style. Full conceptual substance, zero fluff. Include: (1) Core concept/topic, (2) Formulas/identities in LaTeX ($...$), (3) Key Bengali/English definitions, (4) Likely occluded elements or testable facts."
+  "comments": "Terse technical description in caveman style. Full conceptual substance, zero fluff. Include: (1) Core concept/topic, (2) Formulas/identities in LaTeX ($...$), (3) Key Bengali/English definitions, (4) Likely occluded elements or testable facts.",
+  "tags": ["relevant", "subtopic", "tags"]
 }`;
 
     const requestBody = {
@@ -128,9 +133,10 @@ Output strictly valid JSON matching this structure:
                 type: 'OBJECT',
                 properties: {
                     header: { type: 'STRING' },
-                    comments: { type: 'STRING' }
+                    comments: { type: 'STRING' },
+                    tags: { type: 'ARRAY', items: { type: 'STRING' } }
                 },
-                required: ['header', 'comments']
+                required: ['header', 'comments', 'tags']
             },
             temperature: 0.2
         }
@@ -280,6 +286,7 @@ async function main() {
                 console.log('\n  [DRY-RUN RESULT]');
                 console.log(`  Header:   ${headerVal}`);
                 console.log(`  Comments: ${commentsVal}`);
+                if (aiRes.tags) console.log(`  Tags:     ${aiRes.tags.join(', ')}`);
             } else {
                 // Write to Anki
                 const fields = { Comments: commentsVal };
@@ -293,6 +300,13 @@ async function main() {
                         fields
                     }
                 });
+
+                if (aiRes.tags && aiRes.tags.length > 0) {
+                    await callAnki('addTags', {
+                        notes: [noteId],
+                        tags: aiRes.tags.map((t) => t.replace(/\s+/g, '-')).join(' ')
+                    });
+                }
                 console.log(`Done! -> "${aiRes.header}"`);
             }
 

@@ -3,7 +3,7 @@
     "mcp-anki-connect": {
       "command": "node",
       "args": [
-        "../mcp-anki-connect/dist/index.js"
+        "../anki-connect-mcp/dist/index.js"
       ]
     }
   }

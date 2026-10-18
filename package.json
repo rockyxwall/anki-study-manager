@@ -29,6 +29,9 @@
     "clean-tags:dry": "node scripts/clean-tags.mjs --dry-run",
     "organize-types": "node scripts/organize-card-types.mjs",
     "reorganize-presets": "node scripts/reorganize-deck-presets.mjs",
+    "describe-io": "node scripts/describe-io-cards.mjs",
+    "describe-io:dry": "node scripts/describe-io-cards.mjs --dry-run",
+    "template:spelling": "node scripts/update-spelling-template.mjs",
     "import-kotlin": "node scripts/import-kotlin-course.mjs"
   },
   "keywords": ["anki", "study", "hsc", "flashcards"],
